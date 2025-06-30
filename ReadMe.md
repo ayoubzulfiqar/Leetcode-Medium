@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Peak Element](FindPeakElement/find_peak_element.py)
 * [One Edit Distance](OneEditDistance/one_edit_distance.py)
 * [Longest Substring with At Most Two Distinct Characters](LongestSubstringwithAtMostTwoDistinctCharacters/longest_substring_with_at_most_two_distinct_characters.py)
 * [Binary Tree Upside Down](BinaryTreeUpsideDown/binary_tree_upside_down.py)
