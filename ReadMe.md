@@ -1,5 +1,6 @@
 
 ## Medium
+* [House Robber](HouseRobber/house_robber.py)
 * [Transpose File](TransposeFile/transpose_file.py)
 * [Word Frequency](WordFrequency/word_frequency.py)
 * [Rotate Array](RotateArray/rotate_array.py)
