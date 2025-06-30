@@ -1,5 +1,6 @@
 
 ## Medium
+* [Search in Rotated Sorted Array II](SearchinRotatedSortedArrayII/search_in_rotated_sorted_array_ii.py)
 * [Remove Duplicates from Sorted Array II](RemoveDuplicatesfromSortedArrayII/remove_duplicates_from_sorted_array_ii.py)
 * [Word Search](WordSearch/word_search.py)
 * [Subsets](Subsets/subsets.py)
