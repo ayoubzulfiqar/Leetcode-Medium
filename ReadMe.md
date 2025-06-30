@@ -1,5 +1,6 @@
 
 ## Medium
+* [Rank Scores](RankScores/rank_scores.py)
 * [Nth Highest Salary](NthHighestSalary/nth_highest_salary.py)
 * [Second Highest Salary](SecondHighestSalary/second_highest_salary.py)
 * [Binary Search Tree Iterator](BinarySearchTreeIterator/binary_search_tree_iterator.py)
