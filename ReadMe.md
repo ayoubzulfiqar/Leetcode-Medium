@@ -1,5 +1,6 @@
 
 ## Medium
+* [Word Search](WordSearch/word_search.py)
 * [Subsets](Subsets/subsets.py)
 * [Combinations](Combinations/combinations.py)
 * [Sort Colors](SortColors/sort_colors.py)
