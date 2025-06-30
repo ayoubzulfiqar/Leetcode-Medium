@@ -1,5 +1,6 @@
 
 ## Medium
+* [Implement Trie (Prefix Tree)](ImplementTrie(PrefixTree)/implement_trie_(prefix_tree).py)
 * [Course Schedule](CourseSchedule/course_schedule.py)
 * [Count Primes](CountPrimes/count_primes.py)
 * [Bitwise AND of Numbers Range](BitwiseANDofNumbersRange/bitwise_and_of_numbers_range.py)
