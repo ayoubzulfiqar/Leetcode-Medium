@@ -1,5 +1,6 @@
 
 ## Medium
+* [Gray Code](GrayCode/gray_code.py)
 * [Partition List](PartitionList/partition_list.py)
 * [Remove Duplicates from Sorted List II](RemoveDuplicatesfromSortedListII/remove_duplicates_from_sorted_list_ii.py)
 * [Search in Rotated Sorted Array II](SearchinRotatedSortedArrayII/search_in_rotated_sorted_array_ii.py)
