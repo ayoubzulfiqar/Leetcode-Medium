@@ -1,5 +1,6 @@
 
 ## Medium
+* [Basic Calculator II](BasicCalculatorII/basic_calculator_ii.py)
 * [Rectangle Area](RectangleArea/rectangle_area.py)
 * [Maximal Square](MaximalSquare/maximal_square.py)
 * [Combination Sum III](CombinationSumIII/combination_sum_iii.py)
