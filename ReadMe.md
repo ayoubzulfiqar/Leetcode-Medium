@@ -1,5 +1,6 @@
 
 ## Medium
+* [Consecutive Numbers](ConsecutiveNumbers/consecutive_numbers.py)
 * [Largest Number](LargestNumber/largest_number.py)
 * [Rank Scores](RankScores/rank_scores.py)
 * [Nth Highest Salary](NthHighestSalary/nth_highest_salary.py)
