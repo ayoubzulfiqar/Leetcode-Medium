@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Minimum in Rotated Sorted Array](FindMinimuminRotatedSortedArray/find_minimum_in_rotated_sorted_array.py)
 * [Maximum Product Subarray](MaximumProductSubarray/maximum_product_subarray.py)
 * [Reverse Words in a String](ReverseWordsinaString/reverse_words_in_a_string.py)
 * [Evaluate Reverse Polish Notation](EvaluateReversePolishNotation/evaluate_reverse_polish_notation.py)
