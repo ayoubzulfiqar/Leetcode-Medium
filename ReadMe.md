@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sort List](SortList/sort_list.py)
 * [Insertion Sort List](InsertionSortList/insertion_sort_list.py)
 * [LRU Cache](LRUCache/lru_cache.py)
 * [Reorder List](ReorderList/reorder_list.py)
