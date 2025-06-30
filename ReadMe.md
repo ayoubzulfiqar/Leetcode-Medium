@@ -1,5 +1,6 @@
 
 ## Medium
+* [Single Number III](SingleNumberIII/single_number_iii.py)
 * [3Sum Smaller](3SumSmaller/3sum_smaller.py)
 * [Paint House](PaintHouse/paint_house.py)
 * [Verify Preorder Sequence in Binary Search Tree](VerifyPreorderSequenceinBinarySearchTree/verify_preorder_sequence_in_binary_search_tree.py)
