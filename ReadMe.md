@@ -1,5 +1,6 @@
 
 ## Medium
+* [Set Matrix Zeroes](SetMatrixZeroes/set_matrix_zeroes.py)
 * [Edit Distance](EditDistance/edit_distance.py)
 * [Simplify Path](SimplifyPath/simplify_path.py)
 * [Minimum Path Sum](MinimumPathSum/minimum_path_sum.py)
