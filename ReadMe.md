@@ -1,5 +1,6 @@
 
 ## Medium
+* [String to Integer (atoi)](StringtoInteger(atoi)/string_to_integer_(atoi).py)
 * [Reverse Integer](ReverseInteger/reverse_integer.py)
 * [Zigzag Conversion](ZigzagConversion/zigzag_conversion.py)
 * [Longest Palindromic Substring](LongestPalindromicSubstring/longest_palindromic_substring.py)
