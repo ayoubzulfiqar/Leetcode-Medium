@@ -1,5 +1,6 @@
 
 ## Medium
+* [Construct Binary Tree from Preorder and Inorder Traversal](ConstructBinaryTreefromPreorderandInorderTraversal/construct_binary_tree_from_preorder_and_inorder_traversal.py)
 * [Binary Tree Zigzag Level Order Traversal](BinaryTreeZigzagLevelOrderTraversal/binary_tree_zigzag_level_order_traversal.py)
 * [Binary Tree Level Order Traversal](BinaryTreeLevelOrderTraversal/binary_tree_level_order_traversal.py)
 * [Recover Binary Search Tree](RecoverBinarySearchTree/recover_binary_search_tree.py)
