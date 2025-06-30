@@ -1,5 +1,6 @@
 
 ## Medium
+* [Next Permutation](NextPermutation/next_permutation.py)
 * [Divide Two Integers](DivideTwoIntegers/divide_two_integers.py)
 * [Swap Nodes in Pairs](SwapNodesinPairs/swap_nodes_in_pairs.py)
 * [Generate Parentheses](GenerateParentheses/generate_parentheses.py)
