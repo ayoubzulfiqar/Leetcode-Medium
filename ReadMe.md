@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Subarray](MaximumSubarray/maximum_subarray.py)
 * [Pow(x, n)](Pow(x,n)/pow(x,_n).py)
 * [Group Anagrams](GroupAnagrams/group_anagrams.py)
 * [Rotate Image](RotateImage/rotate_image.py)
