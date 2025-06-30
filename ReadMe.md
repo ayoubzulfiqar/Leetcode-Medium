@@ -1,5 +1,6 @@
 
 ## Medium
+* [Populating Next Right Pointers in Each Node](PopulatingNextRightPointersinEachNode/populating_next_right_pointers_in_each_node.py)
 * [Flatten Binary Tree to Linked List](FlattenBinaryTreetoLinkedList/flatten_binary_tree_to_linked_list.py)
 * [Path Sum II](PathSumII/path_sum_ii.py)
 * [Convert Sorted List to Binary Search Tree](ConvertSortedListtoBinarySearchTree/convert_sorted_list_to_binary_search_tree.py)
