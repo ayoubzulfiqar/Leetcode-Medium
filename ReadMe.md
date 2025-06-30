@@ -1,5 +1,6 @@
 
 ## Medium
+* [Wiggle Sort](WiggleSort/wiggle_sort.py)
 * [Perfect Squares](PerfectSquares/perfect_squares.py)
 * [Find the Celebrity](FindtheCelebrity/find_the_celebrity.py)
 * [Paint Fence](PaintFence/paint_fence.py)
