@@ -1,5 +1,6 @@
 
 ## Medium
+* [Validate Binary Search Tree](ValidateBinarySearchTree/validate_binary_search_tree.py)
 * [Unique Binary Search Trees](UniqueBinarySearchTrees/unique_binary_search_trees.py)
 * [Unique Binary Search Trees II](UniqueBinarySearchTreesII/unique_binary_search_trees_ii.py)
 * [Restore IP Addresses](RestoreIPAddresses/restore_ip_addresses.py)
