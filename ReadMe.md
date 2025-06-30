@@ -1,5 +1,6 @@
 
 ## Medium
+* [Edit Distance](EditDistance/edit_distance.py)
 * [Simplify Path](SimplifyPath/simplify_path.py)
 * [Minimum Path Sum](MinimumPathSum/minimum_path_sum.py)
 * [Unique Paths II](UniquePathsII/unique_paths_ii.py)
