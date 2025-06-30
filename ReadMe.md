@@ -1,5 +1,6 @@
 
 ## Medium
+* [H-Index](H-Index/h-index.py)
 * [Encode and Decode Strings](EncodeandDecodeStrings/encode_and_decode_strings.py)
 * [Palindrome Permutation II](PalindromePermutationII/palindrome_permutation_ii.py)
 * [Ugly Number II](UglyNumberII/ugly_number_ii.py)
