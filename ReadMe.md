@@ -1,5 +1,6 @@
 
 ## Medium
+* [Word Break](WordBreak/word_break.py)
 * [Copy List with Random Pointer](CopyListwithRandomPointer/copy_list_with_random_pointer.py)
 * [Single Number II](SingleNumberII/single_number_ii.py)
 * [Gas Station](GasStation/gas_station.py)
