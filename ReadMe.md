@@ -1,5 +1,6 @@
 
 ## Medium
+* [Insert Interval](InsertInterval/insert_interval.py)
 * [Merge Intervals](MergeIntervals/merge_intervals.py)
 * [Jump Game](JumpGame/jump_game.py)
 * [Spiral Matrix](SpiralMatrix/spiral_matrix.py)
