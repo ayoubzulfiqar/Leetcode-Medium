@@ -1,5 +1,6 @@
 
 ## Medium
+* [Department Highest Salary](DepartmentHighestSalary/department_highest_salary.py)
 * [Consecutive Numbers](ConsecutiveNumbers/consecutive_numbers.py)
 * [Largest Number](LargestNumber/largest_number.py)
 * [Rank Scores](RankScores/rank_scores.py)
