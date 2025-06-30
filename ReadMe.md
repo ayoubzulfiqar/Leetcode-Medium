@@ -1,5 +1,6 @@
 
 ## Medium
+* [Delete Node in a Linked List](DeleteNodeinaLinkedList/delete_node_in_a_linked_list.py)
 * [Lowest Common Ancestor of a Binary Tree](LowestCommonAncestorofaBinaryTree/lowest_common_ancestor_of_a_binary_tree.py)
 * [Lowest Common Ancestor of a Binary Search Tree](LowestCommonAncestorofaBinarySearchTree/lowest_common_ancestor_of_a_binary_search_tree.py)
 * [Kth Smallest Element in a BST](KthSmallestElementinaBST/kth_smallest_element_in_a_bst.py)
