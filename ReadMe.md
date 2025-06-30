@@ -1,5 +1,6 @@
 
 ## Medium
+* [Rotate Array](RotateArray/rotate_array.py)
 * [Repeated DNA Sequences](RepeatedDNASequences/repeated_dna_sequences.py)
 * [Reverse Words in a String II](ReverseWordsinaStringII/reverse_words_in_a_string_ii.py)
 * [Department Highest Salary](DepartmentHighestSalary/department_highest_salary.py)
