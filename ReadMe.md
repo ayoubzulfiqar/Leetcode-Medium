@@ -1,5 +1,6 @@
 
 ## Medium
+* [Palindrome Partitioning](PalindromePartitioning/palindrome_partitioning.py)
 * [Surrounded Regions](SurroundedRegions/surrounded_regions.py)
 * [Sum Root to Leaf Numbers](SumRoottoLeafNumbers/sum_root_to_leaf_numbers.py)
 * [Longest Consecutive Sequence](LongestConsecutiveSequence/longest_consecutive_sequence.py)
