@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest Word Distance III](ShortestWordDistanceIII/shortest_word_distance_iii.py)
 * [Shortest Word Distance II](ShortestWordDistanceII/shortest_word_distance_ii.py)
 * [Different Ways to Add Parentheses](DifferentWaystoAddParentheses/different_ways_to_add_parentheses.py)
 * [Search a 2D Matrix II](Searcha2DMatrixII/search_a_2d_matrix_ii.py)
