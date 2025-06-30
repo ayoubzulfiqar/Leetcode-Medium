@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Islands](NumberofIslands/number_of_islands.py)
 * [Binary Tree Right Side View](BinaryTreeRightSideView/binary_tree_right_side_view.py)
 * [House Robber](HouseRobber/house_robber.py)
 * [Transpose File](TransposeFile/transpose_file.py)
