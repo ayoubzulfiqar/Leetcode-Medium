@@ -1,5 +1,6 @@
 
 ## Medium
+* [Multiply Strings](MultiplyStrings/multiply_strings.py)
 * [Combination Sum II](CombinationSumII/combination_sum_ii.py)
 * [Combination Sum](CombinationSum/combination_sum.py)
 * [Count and Say](CountandSay/count_and_say.py)
