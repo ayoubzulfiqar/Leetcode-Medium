@@ -1,5 +1,6 @@
 
 ## Medium
+* [Graph Valid Tree](GraphValidTree/graph_valid_tree.py)
 * [Single Number III](SingleNumberIII/single_number_iii.py)
 * [3Sum Smaller](3SumSmaller/3sum_smaller.py)
 * [Paint House](PaintHouse/paint_house.py)
