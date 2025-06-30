@@ -1,5 +1,6 @@
 
 ## Medium
+* [Decode Ways](DecodeWays/decode_ways.py)
 * [Subsets II](SubsetsII/subsets_ii.py)
 * [Gray Code](GrayCode/gray_code.py)
 * [Partition List](PartitionList/partition_list.py)
