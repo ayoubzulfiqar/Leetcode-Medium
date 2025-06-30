@@ -1,5 +1,6 @@
 
 ## Medium
+* [LRU Cache](LRUCache/lru_cache.py)
 * [Reorder List](ReorderList/reorder_list.py)
 * [Linked List Cycle II](LinkedListCycleII/linked_list_cycle_ii.py)
 * [Word Break](WordBreak/word_break.py)
