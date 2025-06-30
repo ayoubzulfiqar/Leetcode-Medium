@@ -1,5 +1,6 @@
 
 ## Medium
+* [Factor Combinations](FactorCombinations/factor_combinations.py)
 * [Meeting Rooms II](MeetingRoomsII/meeting_rooms_ii.py)
 * [Flatten 2D Vector](Flatten2DVector/flatten_2d_vector.py)
 * [Count Univalue Subtrees](CountUnivalueSubtrees/count_univalue_subtrees.py)
