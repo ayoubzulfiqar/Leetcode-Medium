@@ -1,5 +1,6 @@
 
 ## Medium
+* [Simplify Path](SimplifyPath/simplify_path.py)
 * [Minimum Path Sum](MinimumPathSum/minimum_path_sum.py)
 * [Unique Paths II](UniquePathsII/unique_paths_ii.py)
 * [Unique Paths](UniquePaths/unique_paths.py)
