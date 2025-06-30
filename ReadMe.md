@@ -1,5 +1,6 @@
 
 ## Medium
+* [Binary Tree Level Order Traversal](BinaryTreeLevelOrderTraversal/binary_tree_level_order_traversal.py)
 * [Recover Binary Search Tree](RecoverBinarySearchTree/recover_binary_search_tree.py)
 * [Validate Binary Search Tree](ValidateBinarySearchTree/validate_binary_search_tree.py)
 * [Unique Binary Search Trees](UniqueBinarySearchTrees/unique_binary_search_trees.py)
