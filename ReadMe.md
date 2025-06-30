@@ -1,5 +1,6 @@
 
 ## Medium
+* [Course Schedule](CourseSchedule/course_schedule.py)
 * [Count Primes](CountPrimes/count_primes.py)
 * [Bitwise AND of Numbers Range](BitwiseANDofNumbersRange/bitwise_and_of_numbers_range.py)
 * [Number of Islands](NumberofIslands/number_of_islands.py)
