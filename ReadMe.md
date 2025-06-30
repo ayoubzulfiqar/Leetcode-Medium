@@ -1,5 +1,6 @@
 
 ## Medium
+* [Paint Fence](PaintFence/paint_fence.py)
 * [H-Index II](H-IndexII/h-index_ii.py)
 * [H-Index](H-Index/h-index.py)
 * [Encode and Decode Strings](EncodeandDecodeStrings/encode_and_decode_strings.py)
