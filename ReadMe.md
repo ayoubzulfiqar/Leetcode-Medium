@@ -1,5 +1,6 @@
 
 ## Medium
+* [Perfect Squares](PerfectSquares/perfect_squares.py)
 * [Find the Celebrity](FindtheCelebrity/find_the_celebrity.py)
 * [Paint Fence](PaintFence/paint_fence.py)
 * [H-Index II](H-IndexII/h-index_ii.py)
