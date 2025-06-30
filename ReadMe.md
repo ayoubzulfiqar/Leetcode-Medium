@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sort Colors](SortColors/sort_colors.py)
 * [Search a 2D Matrix](Searcha2DMatrix/search_a_2d_matrix.py)
 * [Set Matrix Zeroes](SetMatrixZeroes/set_matrix_zeroes.py)
 * [Edit Distance](EditDistance/edit_distance.py)
