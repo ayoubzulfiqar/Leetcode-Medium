@@ -1,5 +1,6 @@
 
 ## Medium
+* [Valid Sudoku](ValidSudoku/valid_sudoku.py)
 * [Find First and Last Position of Element in Sorted Array](FindFirstandLastPositionofElementinSortedArray/find_first_and_last_position_of_element_in_sorted_array.py)
 * [Search in Rotated Sorted Array](SearchinRotatedSortedArray/search_in_rotated_sorted_array.py)
 * [Next Permutation](NextPermutation/next_permutation.py)
