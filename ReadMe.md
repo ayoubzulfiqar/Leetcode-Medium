@@ -1,5 +1,6 @@
 
 ## Medium
+* [Generate Parentheses](GenerateParentheses/generate_parentheses.py)
 * [Remove Nth Node From End of List](RemoveNthNodeFromEndofList/remove_nth_node_from_end_of_list.py)
 * [4Sum](4Sum/4sum.py)
 * [Letter Combinations of a Phone Number](LetterCombinationsofaPhoneNumber/letter_combinations_of_a_phone_number.py)
