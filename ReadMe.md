@@ -1,5 +1,6 @@
 
 ## Medium
+* [Kth Largest Element in an Array](KthLargestElementinanArray/kth_largest_element_in_an_array.py)
 * [House Robber II](HouseRobberII/house_robber_ii.py)
 * [Design Add and Search Words Data Structure](DesignAddandSearchWordsDataStructure/design_add_and_search_words_data_structure.py)
 * [Course Schedule II](CourseScheduleII/course_schedule_ii.py)
