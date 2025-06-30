@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Consecutive Sequence](LongestConsecutiveSequence/longest_consecutive_sequence.py)
 * [Best Time to Buy and Sell Stock II](BestTimetoBuyandSellStockII/best_time_to_buy_and_sell_stock_ii.py)
 * [Triangle](Triangle/triangle.py)
 * [Populating Next Right Pointers in Each Node II](PopulatingNextRightPointersinEachNodeII/populating_next_right_pointers_in_each_node_ii.py)
