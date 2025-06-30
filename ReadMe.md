@@ -1,5 +1,6 @@
 
 ## Medium
+* [Inorder Successor in BST](InorderSuccessorinBST/inorder_successor_in_bst.py)
 * [Peeking Iterator](PeekingIterator/peeking_iterator.py)
 * [Zigzag Iterator](ZigzagIterator/zigzag_iterator.py)
 * [Wiggle Sort](WiggleSort/wiggle_sort.py)
