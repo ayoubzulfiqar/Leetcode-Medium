@@ -1,5 +1,6 @@
 
 ## Medium
+* [Rotate Image](RotateImage/rotate_image.py)
 * [Permutations II](PermutationsII/permutations_ii.py)
 * [Permutations](Permutations/permutations.py)
 * [Jump Game II](JumpGameII/jump_game_ii.py)
