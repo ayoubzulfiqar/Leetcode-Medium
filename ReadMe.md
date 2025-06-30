@@ -1,5 +1,6 @@
 
 ## Medium
+* [Merge Intervals](MergeIntervals/merge_intervals.py)
 * [Jump Game](JumpGame/jump_game.py)
 * [Spiral Matrix](SpiralMatrix/spiral_matrix.py)
 * [Maximum Subarray](MaximumSubarray/maximum_subarray.py)
