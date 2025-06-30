@@ -1,5 +1,6 @@
 
 ## Medium
+* [Strobogrammatic Number II](StrobogrammaticNumberII/strobogrammatic_number_ii.py)
 * [Shortest Word Distance III](ShortestWordDistanceIII/shortest_word_distance_iii.py)
 * [Shortest Word Distance II](ShortestWordDistanceII/shortest_word_distance_ii.py)
 * [Different Ways to Add Parentheses](DifferentWaystoAddParentheses/different_ways_to_add_parentheses.py)
