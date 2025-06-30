@@ -1,5 +1,6 @@
 
 ## Medium
+* [Search in Rotated Sorted Array](SearchinRotatedSortedArray/search_in_rotated_sorted_array.py)
 * [Next Permutation](NextPermutation/next_permutation.py)
 * [Divide Two Integers](DivideTwoIntegers/divide_two_integers.py)
 * [Swap Nodes in Pairs](SwapNodesinPairs/swap_nodes_in_pairs.py)
