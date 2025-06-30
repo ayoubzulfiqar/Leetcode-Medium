@@ -1,5 +1,6 @@
 
 ## Medium
+* [Permutations](Permutations/permutations.py)
 * [Jump Game II](JumpGameII/jump_game_ii.py)
 * [Multiply Strings](MultiplyStrings/multiply_strings.py)
 * [Combination Sum II](CombinationSumII/combination_sum_ii.py)
