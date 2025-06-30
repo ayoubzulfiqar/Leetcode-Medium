@@ -1,5 +1,6 @@
 
 ## Medium
+* [Lowest Common Ancestor of a Binary Tree](LowestCommonAncestorofaBinaryTree/lowest_common_ancestor_of_a_binary_tree.py)
 * [Lowest Common Ancestor of a Binary Search Tree](LowestCommonAncestorofaBinarySearchTree/lowest_common_ancestor_of_a_binary_search_tree.py)
 * [Kth Smallest Element in a BST](KthSmallestElementinaBST/kth_smallest_element_in_a_bst.py)
 * [Basic Calculator II](BasicCalculatorII/basic_calculator_ii.py)
