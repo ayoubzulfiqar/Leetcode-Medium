@@ -1,5 +1,6 @@
 
 ## Medium
+* [Insertion Sort List](InsertionSortList/insertion_sort_list.py)
 * [LRU Cache](LRUCache/lru_cache.py)
 * [Reorder List](ReorderList/reorder_list.py)
 * [Linked List Cycle II](LinkedListCycleII/linked_list_cycle_ii.py)
