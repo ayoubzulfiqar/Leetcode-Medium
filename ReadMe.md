@@ -1,5 +1,6 @@
 
 ## Medium
+* [Kth Smallest Element in a BST](KthSmallestElementinaBST/kth_smallest_element_in_a_bst.py)
 * [Basic Calculator II](BasicCalculatorII/basic_calculator_ii.py)
 * [Rectangle Area](RectangleArea/rectangle_area.py)
 * [Maximal Square](MaximalSquare/maximal_square.py)
