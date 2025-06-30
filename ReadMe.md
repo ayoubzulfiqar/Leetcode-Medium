@@ -1,5 +1,6 @@
 
 ## Medium
+* [Verify Preorder Sequence in Binary Search Tree](VerifyPreorderSequenceinBinarySearchTree/verify_preorder_sequence_in_binary_search_tree.py)
 * [Factor Combinations](FactorCombinations/factor_combinations.py)
 * [Meeting Rooms II](MeetingRoomsII/meeting_rooms_ii.py)
 * [Flatten 2D Vector](Flatten2DVector/flatten_2d_vector.py)
