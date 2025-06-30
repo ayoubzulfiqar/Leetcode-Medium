@@ -1,5 +1,6 @@
 
 ## Medium
+* [Different Ways to Add Parentheses](DifferentWaystoAddParentheses/different_ways_to_add_parentheses.py)
 * [Search a 2D Matrix II](Searcha2DMatrixII/search_a_2d_matrix_ii.py)
 * [Product of Array Except Self](ProductofArrayExceptSelf/product_of_array_except_self.py)
 * [Delete Node in a Linked List](DeleteNodeinaLinkedList/delete_node_in_a_linked_list.py)
