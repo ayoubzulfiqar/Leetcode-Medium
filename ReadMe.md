@@ -1,5 +1,6 @@
 
 ## Medium
+* [Course Schedule II](CourseScheduleII/course_schedule_ii.py)
 * [Minimum Size Subarray Sum](MinimumSizeSubarraySum/minimum_size_subarray_sum.py)
 * [Implement Trie (Prefix Tree)](ImplementTrie(PrefixTree)/implement_trie_(prefix_tree).py)
 * [Course Schedule](CourseSchedule/course_schedule.py)
