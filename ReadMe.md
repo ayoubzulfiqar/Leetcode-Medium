@@ -1,5 +1,6 @@
 
 ## Medium
+* [Binary Search Tree Iterator](BinarySearchTreeIterator/binary_search_tree_iterator.py)
 * [Factorial Trailing Zeroes](FactorialTrailingZeroes/factorial_trailing_zeroes.py)
 * [Two Sum II - Input Array Is Sorted](TwoSumII-InputArrayIsSorted/two_sum_ii_-_input_array_is_sorted.py)
 * [Fraction to Recurring Decimal](FractiontoRecurringDecimal/fraction_to_recurring_decimal.py)
