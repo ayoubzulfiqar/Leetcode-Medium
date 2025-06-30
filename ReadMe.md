@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Primes](CountPrimes/count_primes.py)
 * [Bitwise AND of Numbers Range](BitwiseANDofNumbersRange/bitwise_and_of_numbers_range.py)
 * [Number of Islands](NumberofIslands/number_of_islands.py)
 * [Binary Tree Right Side View](BinaryTreeRightSideView/binary_tree_right_side_view.py)
