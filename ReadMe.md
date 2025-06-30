@@ -1,5 +1,6 @@
 
 ## Medium
+* [Peeking Iterator](PeekingIterator/peeking_iterator.py)
 * [Zigzag Iterator](ZigzagIterator/zigzag_iterator.py)
 * [Wiggle Sort](WiggleSort/wiggle_sort.py)
 * [Perfect Squares](PerfectSquares/perfect_squares.py)
