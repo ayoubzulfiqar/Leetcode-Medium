@@ -1,5 +1,6 @@
 
 ## Medium
+* [Nth Highest Salary](NthHighestSalary/nth_highest_salary.py)
 * [Second Highest Salary](SecondHighestSalary/second_highest_salary.py)
 * [Binary Search Tree Iterator](BinarySearchTreeIterator/binary_search_tree_iterator.py)
 * [Factorial Trailing Zeroes](FactorialTrailingZeroes/factorial_trailing_zeroes.py)
