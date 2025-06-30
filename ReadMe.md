@@ -1,5 +1,6 @@
 
 ## Medium
+* [Rectangle Area](RectangleArea/rectangle_area.py)
 * [Maximal Square](MaximalSquare/maximal_square.py)
 * [Combination Sum III](CombinationSumIII/combination_sum_iii.py)
 * [Kth Largest Element in an Array](KthLargestElementinanArray/kth_largest_element_in_an_array.py)
