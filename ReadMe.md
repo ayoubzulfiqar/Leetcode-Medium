@@ -1,5 +1,6 @@
 
 ## Medium
+* [Jump Game](JumpGame/jump_game.py)
 * [Spiral Matrix](SpiralMatrix/spiral_matrix.py)
 * [Maximum Subarray](MaximumSubarray/maximum_subarray.py)
 * [Pow(x, n)](Pow(x,n)/pow(x,_n).py)
