@@ -1,5 +1,6 @@
 
 ## Medium
+* [Unique Paths II](UniquePathsII/unique_paths_ii.py)
 * [Unique Paths](UniquePaths/unique_paths.py)
 * [Rotate List](RotateList/rotate_list.py)
 * [Spiral Matrix II](SpiralMatrixII/spiral_matrix_ii.py)
