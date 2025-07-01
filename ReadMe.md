@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Height Trees](MinimumHeightTrees/minimum_height_trees.py)
 * [Best Time to Buy and Sell Stock with Cooldown](BestTimetoBuyandSellStockwithCooldown/best_time_to_buy_and_sell_stock_with_cooldown.py)
 * [Range Sum Query 2D - Mutable](RangeSumQuery2D-Mutable/range_sum_query_2d_-_mutable.py)
 * [Range Sum Query - Mutable](RangeSumQuery-Mutable/range_sum_query_-_mutable.py)
