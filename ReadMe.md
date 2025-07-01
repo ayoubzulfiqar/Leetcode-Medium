@@ -1,5 +1,6 @@
 
 ## Medium
+* [Integer Break](IntegerBreak/integer_break.py)
 * [Flatten Nested List Iterator](FlattenNestedListIterator/flatten_nested_list_iterator.py)
 * [Longest Substring with At Most K Distinct Characters](LongestSubstringwithAtMostKDistinctCharacters/longest_substring_with_at_most_k_distinct_characters.py)
 * [Nested List Weight Sum](NestedListWeightSum/nested_list_weight_sum.py)
