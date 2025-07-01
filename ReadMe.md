@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design Tic-Tac-Toe](DesignTic-Tac-Toe/design_tic-tac-toe.py)
 * [Top K Frequent Elements](TopKFrequentElements/top_k_frequent_elements.py)
 * [Integer Break](IntegerBreak/integer_break.py)
 * [Flatten Nested List Iterator](FlattenNestedListIterator/flatten_nested_list_iterator.py)
