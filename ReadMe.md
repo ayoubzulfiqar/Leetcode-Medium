@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Increasing Subsequence](LongestIncreasingSubsequence/longest_increasing_subsequence.py)
 * [Bulls and Cows](BullsandCows/bulls_and_cows.py)
 * [Binary Tree Longest Consecutive Sequence](BinaryTreeLongestConsecutiveSequence/binary_tree_longest_consecutive_sequence.py)
 * [Flip Game II](FlipGameII/flip_game_ii.py)
