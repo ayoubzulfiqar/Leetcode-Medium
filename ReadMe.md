@@ -1,5 +1,6 @@
 
 ## Medium
+* [Flip Game II](FlipGameII/flip_game_ii.py)
 * [Word Pattern II](WordPatternII/word_pattern_ii.py)
 * [Game of Life](GameofLife/game_of_life.py)
 * [Unique Word Abbreviation](UniqueWordAbbreviation/unique_word_abbreviation.py)
