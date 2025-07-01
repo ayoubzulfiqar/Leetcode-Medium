@@ -1,5 +1,6 @@
 
 ## Medium
+* [Range Sum Query - Mutable](RangeSumQuery-Mutable/range_sum_query_-_mutable.py)
 * [Additive Number](AdditiveNumber/additive_number.py)
 * [Range Sum Query 2D - Immutable](RangeSumQuery2D-Immutable/range_sum_query_2d_-_immutable.py)
 * [Longest Increasing Subsequence](LongestIncreasingSubsequence/longest_increasing_subsequence.py)
