@@ -1,5 +1,6 @@
 
 ## Medium
+* [Binary Tree Longest Consecutive Sequence](BinaryTreeLongestConsecutiveSequence/binary_tree_longest_consecutive_sequence.py)
 * [Flip Game II](FlipGameII/flip_game_ii.py)
 * [Word Pattern II](WordPatternII/word_pattern_ii.py)
 * [Game of Life](GameofLife/game_of_life.py)
