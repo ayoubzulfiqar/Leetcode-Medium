@@ -1,5 +1,6 @@
 
 ## Medium
+* [Nested List Weight Sum](NestedListWeightSum/nested_list_weight_sum.py)
 * [House Robber III](HouseRobberIII/house_robber_iii.py)
 * [Increasing Triplet Subsequence](IncreasingTripletSubsequence/increasing_triplet_subsequence.py)
 * [Largest BST Subtree](LargestBSTSubtree/largest_bst_subtree.py)
