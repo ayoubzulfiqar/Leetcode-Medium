@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Duplicate Number](FindtheDuplicateNumber/find_the_duplicate_number.py)
 * [Walls and Gates](WallsandGates/walls_and_gates.py)
 * [Inorder Successor in BST](InorderSuccessorinBST/inorder_successor_in_bst.py)
 * [Peeking Iterator](PeekingIterator/peeking_iterator.py)
