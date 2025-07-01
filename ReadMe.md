@@ -1,5 +1,6 @@
 
 ## Medium
+* [Increasing Triplet Subsequence](IncreasingTripletSubsequence/increasing_triplet_subsequence.py)
 * [Largest BST Subtree](LargestBSTSubtree/largest_bst_subtree.py)
 * [Verify Preorder Serialization of a Binary Tree](VerifyPreorderSerializationofaBinaryTree/verify_preorder_serialization_of_a_binary_tree.py)
 * [Odd Even Linked List](OddEvenLinkedList/odd_even_linked_list.py)
