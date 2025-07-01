@@ -1,5 +1,6 @@
 
 ## Medium
+* [Verify Preorder Serialization of a Binary Tree](VerifyPreorderSerializationofaBinaryTree/verify_preorder_serialization_of_a_binary_tree.py)
 * [Odd Even Linked List](OddEvenLinkedList/odd_even_linked_list.py)
 * [Maximum Size Subarray Sum Equals k](MaximumSizeSubarraySumEqualsk/maximum_size_subarray_sum_equals_k.py)
 * [Number of Connected Components in an Undirected Graph](NumberofConnectedComponentsinanUndirectedGraph/number_of_connected_components_in_an_undirected_graph.py)
