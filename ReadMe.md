@@ -1,5 +1,6 @@
 
 ## Medium
+* [Remove Duplicate Letters](RemoveDuplicateLetters/remove_duplicate_letters.py)
 * [Binary Tree Vertical Order Traversal](BinaryTreeVerticalOrderTraversal/binary_tree_vertical_order_traversal.py)
 * [Super Ugly Number](SuperUglyNumber/super_ugly_number.py)
 * [Sparse Matrix Multiplication](SparseMatrixMultiplication/sparse_matrix_multiplication.py)
