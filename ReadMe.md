@@ -1,5 +1,6 @@
 
 ## Medium
+* [Super Ugly Number](SuperUglyNumber/super_ugly_number.py)
 * [Sparse Matrix Multiplication](SparseMatrixMultiplication/sparse_matrix_multiplication.py)
 * [Minimum Height Trees](MinimumHeightTrees/minimum_height_trees.py)
 * [Best Time to Buy and Sell Stock with Cooldown](BestTimetoBuyandSellStockwithCooldown/best_time_to_buy_and_sell_stock_with_cooldown.py)
