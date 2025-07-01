@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design Snake Game](DesignSnakeGame/design_snake_game.py)
 * [Android Unlock Patterns](AndroidUnlockPatterns/android_unlock_patterns.py)
 * [Design Tic-Tac-Toe](DesignTic-Tac-Toe/design_tic-tac-toe.py)
 * [Top K Frequent Elements](TopKFrequentElements/top_k_frequent_elements.py)
