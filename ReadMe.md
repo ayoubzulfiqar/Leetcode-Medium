@@ -1,5 +1,6 @@
 
 ## Medium
+* [Binary Tree Vertical Order Traversal](BinaryTreeVerticalOrderTraversal/binary_tree_vertical_order_traversal.py)
 * [Super Ugly Number](SuperUglyNumber/super_ugly_number.py)
 * [Sparse Matrix Multiplication](SparseMatrixMultiplication/sparse_matrix_multiplication.py)
 * [Minimum Height Trees](MinimumHeightTrees/minimum_height_trees.py)
