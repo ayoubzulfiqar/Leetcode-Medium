@@ -1,5 +1,6 @@
 
 ## Medium
+* [Bulb Switcher](BulbSwitcher/bulb_switcher.py)
 * [Maximum Product of Word Lengths](MaximumProductofWordLengths/maximum_product_of_word_lengths.py)
 * [Remove Duplicate Letters](RemoveDuplicateLetters/remove_duplicate_letters.py)
 * [Binary Tree Vertical Order Traversal](BinaryTreeVerticalOrderTraversal/binary_tree_vertical_order_traversal.py)
