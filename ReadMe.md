@@ -1,5 +1,6 @@
 
 ## Medium
+* [The Maze II](TheMazeII/the_maze_ii.py)
 * [Battleships in a Board](BattleshipsinaBoard/battleships_in_a_board.py)
 * [Bomb Enemy](BombEnemy/bomb_enemy.py)
 * [Wiggle Sort II](WiggleSortII/wiggle_sort_ii.py)
