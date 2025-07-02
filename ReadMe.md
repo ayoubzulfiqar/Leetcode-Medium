@@ -1,5 +1,6 @@
 
 ## Medium
+* [Nested List Weight Sum II](NestedListWeightSumII/nested_list_weight_sum_ii.py)
 * [Design Hit Counter](DesignHitCounter/design_hit_counter.py)
 * [Sort Transformed Array](SortTransformedArray/sort_transformed_array.py)
 * [Count Numbers with Unique Digits](CountNumberswithUniqueDigits/count_numbers_with_unique_digits.py)
