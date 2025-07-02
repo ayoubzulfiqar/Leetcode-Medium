@@ -1,5 +1,6 @@
 
 ## Medium
+* [Magic Squares In Grid](MagicSquaresInGrid/magic_squares_in_grid.py)
 * [Image Overlap](ImageOverlap/image_overlap.py)
 * [Find And Replace in String](FindAndReplaceinString/find_and_replace_in_string.py)
 * [Masking Personal Information](MaskingPersonalInformation/masking_personal_information.py)
