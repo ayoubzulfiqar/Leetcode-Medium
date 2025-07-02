@@ -1,5 +1,6 @@
 
 ## Medium
+* [Single Element in a Sorted Array](SingleElementinaSortedArray/single_element_in_a_sorted_array.py)
 * [Minimum Time Difference](MinimumTimeDifference/minimum_time_difference.py)
 * [Convert BST to Greater Tree](ConvertBSTtoGreaterTree/convert_bst_to_greater_tree.py)
 * [Complex Number Multiplication](ComplexNumberMultiplication/complex_number_multiplication.py)
