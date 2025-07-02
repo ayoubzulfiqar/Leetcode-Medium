@@ -1,5 +1,6 @@
 
 ## Medium
+* [Output Contest Matches](OutputContestMatches/output_contest_matches.py)
 * [01 Matrix](01Matrix/01_matrix.py)
 * [Single Element in a Sorted Array](SingleElementinaSortedArray/single_element_in_a_sorted_array.py)
 * [Minimum Time Difference](MinimumTimeDifference/minimum_time_difference.py)
