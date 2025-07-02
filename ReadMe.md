@@ -1,5 +1,6 @@
 
 ## Medium
+* [Split Linked List in Parts](SplitLinkedListinParts/split_linked_list_in_parts.py)
 * [Candy Crush](CandyCrush/candy_crush.py)
 * [Accounts Merge](AccountsMerge/accounts_merge.py)
 * [Longest Word in Dictionary](LongestWordinDictionary/longest_word_in_dictionary.py)
