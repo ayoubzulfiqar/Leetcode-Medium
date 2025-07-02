@@ -1,5 +1,6 @@
 
 ## Medium
+* [Partition to K Equal Sum Subsets](PartitiontoKEqualSumSubsets/partition_to_k_equal_sum_subsets.py)
 * [Top K Frequent Words](TopKFrequentWords/top_k_frequent_words.py)
 * [Equal Tree Partition](EqualTreePartition/equal_tree_partition.py)
 * [Maximum Width of Binary Tree](MaximumWidthofBinaryTree/maximum_width_of_binary_tree.py)
