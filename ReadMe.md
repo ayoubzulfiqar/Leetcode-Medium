@@ -1,5 +1,6 @@
 
 ## Medium
+* [Kth Smallest Element in a Sorted Matrix](KthSmallestElementinaSortedMatrix/kth_smallest_element_in_a_sorted_matrix.py)
 * [Combination Sum IV](CombinationSumIV/combination_sum_iv.py)
 * [Wiggle Subsequence](WiggleSubsequence/wiggle_subsequence.py)
 * [Guess Number Higher or Lower II](GuessNumberHigherorLowerII/guess_number_higher_or_lower_ii.py)
