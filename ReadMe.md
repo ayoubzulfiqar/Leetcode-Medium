@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Width of Binary Tree](MaximumWidthofBinaryTree/maximum_width_of_binary_tree.py)
 * [Valid Triangle Number](ValidTriangleNumber/valid_triangle_number.py)
 * [132 Pattern](132Pattern/132_pattern.py)
 * [Ternary Expression Parser](TernaryExpressionParser/ternary_expression_parser.py)
