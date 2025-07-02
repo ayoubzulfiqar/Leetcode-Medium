@@ -1,5 +1,6 @@
 
 ## Medium
+* [Print Binary Tree](PrintBinaryTree/print_binary_tree.py)
 * [Maximum Binary Tree](MaximumBinaryTree/maximum_binary_tree.py)
 * [Find Duplicate Subtrees](FindDuplicateSubtrees/find_duplicate_subtrees.py)
 * [4 Keys Keyboard](4KeysKeyboard/4_keys_keyboard.py)
