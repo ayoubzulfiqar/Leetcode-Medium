@@ -1,5 +1,6 @@
 
 ## Medium
+* [Partition Equal Subset Sum](PartitionEqualSubsetSum/partition_equal_subset_sum.py)
 * [Arithmetic Slices](ArithmeticSlices/arithmetic_slices.py)
 * [Queue Reconstruction by Height](QueueReconstructionbyHeight/queue_reconstruction_by_height.py)
 * [Remove K Digits](RemoveKDigits/remove_k_digits.py)
