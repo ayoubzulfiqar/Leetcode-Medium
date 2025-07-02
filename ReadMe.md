@@ -1,5 +1,6 @@
 
 ## Medium
+* [Rotate Function](RotateFunction/rotate_function.py)
 * [Longest Substring with At Least K Repeating Characters](LongestSubstringwithAtLeastKRepeatingCharacters/longest_substring_with_at_least_k_repeating_characters.py)
 * [Decode String](DecodeString/decode_string.py)
 * [UTF-8 Validation](UTF-8Validation/utf-8_validation.py)
