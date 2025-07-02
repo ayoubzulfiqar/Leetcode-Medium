@@ -1,5 +1,6 @@
 
 ## Medium
+* [Next Closest Time](NextClosestTime/next_closest_time.py)
 * [Valid Parenthesis String](ValidParenthesisString/valid_parenthesis_string.py)
 * [Map Sum Pairs](MapSumPairs/map_sum_pairs.py)
 * [Implement Magic Dictionary](ImplementMagicDictionary/implement_magic_dictionary.py)
