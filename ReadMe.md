@@ -1,5 +1,6 @@
 
 ## Medium
+* [Subdomain Visit Count](SubdomainVisitCount/subdomain_visit_count.py)
 * [Expressive Words](ExpressiveWords/expressive_words.py)
 * [Soup Servings](SoupServings/soup_servings.py)
 * [Max Increase to Keep City Skyline](MaxIncreasetoKeepCitySkyline/max_increase_to_keep_city_skyline.py)
