@@ -1,5 +1,6 @@
 
 ## Medium
+* [Max Increase to Keep City Skyline](MaxIncreasetoKeepCitySkyline/max_increase_to_keep_city_skyline.py)
 * [Find Eventual Safe States](FindEventualSafeStates/find_eventual_safe_states.py)
 * [Champagne Tower](ChampagneTower/champagne_tower.py)
 * [All Paths From Source to Target](AllPathsFromSourcetoTarget/all_paths_from_source_to_target.py)
