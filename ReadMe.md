@@ -1,5 +1,6 @@
 
 ## Medium
+* [Network Delay Time](NetworkDelayTime/network_delay_time.py)
 * [Closest Leaf in a Binary Tree](ClosestLeafinaBinaryTree/closest_leaf_in_a_binary_tree.py)
 * [Delete and Earn](DeleteandEarn/delete_and_earn.py)
 * [Daily Temperatures](DailyTemperatures/daily_temperatures.py)
