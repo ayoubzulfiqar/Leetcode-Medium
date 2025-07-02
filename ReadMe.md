@@ -1,5 +1,6 @@
 
 ## Medium
+* [Ternary Expression Parser](TernaryExpressionParser/ternary_expression_parser.py)
 * [Find All Anagrams in a String](FindAllAnagramsinaString/find_all_anagrams_in_a_string.py)
 * [Majority Element II](MajorityElementII/majority_element_ii.py)
 * [Letter Case Permutation](LetterCasePermutation/letter_case_permutation.py)
