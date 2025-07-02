@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minesweeper](Minesweeper/minesweeper.py)
 * [Random Pick with Weight](RandomPickwithWeight/random_pick_with_weight.py)
 * [Beautiful Arrangement](BeautifulArrangement/beautiful_arrangement.py)
 * [Contiguous Array](ContiguousArray/contiguous_array.py)
