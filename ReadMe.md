@@ -1,5 +1,6 @@
 
 ## Medium
+* [Predict the Winner](PredicttheWinner/predict_the_winner.py)
 * [Find Permutation](FindPermutation/find_permutation.py)
 * [Magical String](MagicalString/magical_string.py)
 * [Generate Random Point in a Circle](GenerateRandomPointinaCircle/generate_random_point_in_a_circle.py)
