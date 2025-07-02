@@ -1,5 +1,6 @@
 
 ## Medium
+* [Super Pow](SuperPow/super_pow.py)
 * [Range Addition](RangeAddition/range_addition.py)
 * [Plus One Linked List](PlusOneLinkedList/plus_one_linked_list.py)
 * [Largest Divisible Subset](LargestDivisibleSubset/largest_divisible_subset.py)
