@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Duplicate Subtrees](FindDuplicateSubtrees/find_duplicate_subtrees.py)
 * [4 Keys Keyboard](4KeysKeyboard/4_keys_keyboard.py)
 * [2 Keys Keyboard](2KeysKeyboard/2_keys_keyboard.py)
 * [Dota2 Senate](Dota2Senate/dota2_senate.py)
