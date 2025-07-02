@@ -1,5 +1,6 @@
 
 ## Medium
+* [Max Consecutive Ones II](MaxConsecutiveOnesII/max_consecutive_ones_ii.py)
 * [Predict the Winner](PredicttheWinner/predict_the_winner.py)
 * [Find Permutation](FindPermutation/find_permutation.py)
 * [Magical String](MagicalString/magical_string.py)
