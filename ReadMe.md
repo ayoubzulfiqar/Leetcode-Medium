@@ -1,5 +1,6 @@
 
 ## Medium
+* [Path Sum III](PathSumIII/path_sum_iii.py)
 * [Find Right Interval](FindRightInterval/find_right_interval.py)
 * [Non-overlapping Intervals](Non-overlappingIntervals/non-overlapping_intervals.py)
 * [Minimum Genetic Mutation](MinimumGeneticMutation/minimum_genetic_mutation.py)
