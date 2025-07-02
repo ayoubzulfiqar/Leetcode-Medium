@@ -1,5 +1,6 @@
 
 ## Medium
+* [Lonely Pixel II](LonelyPixelII/lonely_pixel_ii.py)
 * [The Maze II](TheMazeII/the_maze_ii.py)
 * [Battleships in a Board](BattleshipsinaBoard/battleships_in_a_board.py)
 * [Bomb Enemy](BombEnemy/bomb_enemy.py)
