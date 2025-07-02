@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Subarrays with Bounded Maximum](NumberofSubarrayswithBoundedMaximum/number_of_subarrays_with_bounded_maximum.py)
 * [Valid Tic-Tac-Toe State](ValidTic-Tac-ToeState/valid_tic-tac-toe_state.py)
 * [Number of Matching Subsequences](NumberofMatchingSubsequences/number_of_matching_subsequences.py)
 * [Custom Sort String](CustomSortString/custom_sort_string.py)
