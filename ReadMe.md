@@ -1,5 +1,6 @@
 
 ## Medium
+* [Subarray Sum Equals K](SubarraySumEqualsK/subarray_sum_equals_k.py)
 * [Next Greater Element III](NextGreaterElementIII/next_greater_element_iii.py)
 * [Brick Wall](BrickWall/brick_wall.py)
 * [Optimal Division](OptimalDivision/optimal_division.py)
