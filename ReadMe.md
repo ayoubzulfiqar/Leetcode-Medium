@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Word in Dictionary through Deleting](LongestWordinDictionarythroughDeleting/longest_word_in_dictionary_through_deleting.py)
 * [Continuous Subarray Sum](ContinuousSubarraySum/continuous_subarray_sum.py)
 * [Longest Uncommon Subsequence II](LongestUncommonSubsequenceII/longest_uncommon_subsequence_ii.py)
 * [Random Flip Matrix](RandomFlipMatrix/random_flip_matrix.py)
