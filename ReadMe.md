@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shuffle an Array](ShuffleanArray/shuffle_an_array.py)
 * [Linked List Random Node](LinkedListRandomNode/linked_list_random_node.py)
 * [Insert Delete GetRandom O(1)](InsertDeleteGetRandomO(1)/insert_delete_getrandom_o(1).py)
 * [Design Phone Directory](DesignPhoneDirectory/design_phone_directory.py)
