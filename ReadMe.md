@@ -1,5 +1,6 @@
 
 ## Medium
+* [Bomb Enemy](BombEnemy/bomb_enemy.py)
 * [Wiggle Sort II](WiggleSortII/wiggle_sort_ii.py)
 * [Valid Square](ValidSquare/valid_square.py)
 * [Fraction Addition and Subtraction](FractionAdditionandSubtraction/fraction_addition_and_subtraction.py)
