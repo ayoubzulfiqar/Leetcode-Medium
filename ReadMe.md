@@ -1,5 +1,6 @@
 
 ## Medium
+* [Swap Adjacent in LR String](SwapAdjacentinLRString/swap_adjacent_in_lr_string.py)
 * [Split BST](SplitBST/split_bst.py)
 * [Global and Local Inversions](GlobalandLocalInversions/global_and_local_inversions.py)
 * [Max Chunks To Make Sorted](MaxChunksToMakeSorted/max_chunks_to_make_sorted.py)
