@@ -1,5 +1,6 @@
 
 ## Medium
+* [Trim a Binary Search Tree](TrimaBinarySearchTree/trim_a_binary_search_tree.py)
 * [Beautiful Arrangement II](BeautifulArrangementII/beautiful_arrangement_ii.py)
 * [Path Sum IV](PathSumIV/path_sum_iv.py)
 * [Non-decreasing Array](Non-decreasingArray/non-decreasing_array.py)
