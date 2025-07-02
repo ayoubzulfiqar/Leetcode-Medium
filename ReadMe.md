@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Eventual Safe States](FindEventualSafeStates/find_eventual_safe_states.py)
 * [Champagne Tower](ChampagneTower/champagne_tower.py)
 * [All Paths From Source to Target](AllPathsFromSourcetoTarget/all_paths_from_source_to_target.py)
 * [Number of Subarrays with Bounded Maximum](NumberofSubarrayswithBoundedMaximum/number_of_subarrays_with_bounded_maximum.py)
