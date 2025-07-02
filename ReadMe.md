@@ -1,5 +1,6 @@
 
 ## Medium
+* [Redundant Connection](RedundantConnection/redundant_connection.py)
 * [Next Closest Time](NextClosestTime/next_closest_time.py)
 * [Valid Parenthesis String](ValidParenthesisString/valid_parenthesis_string.py)
 * [Map Sum Pairs](MapSumPairs/map_sum_pairs.py)
