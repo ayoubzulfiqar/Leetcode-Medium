@@ -1,5 +1,6 @@
 
 ## Medium
+* [Linked List Components](LinkedListComponents/linked_list_components.py)
 * [Ambiguous Coordinates](AmbiguousCoordinates/ambiguous_coordinates.py)
 * [Binary Tree Pruning](BinaryTreePruning/binary_tree_pruning.py)
 * [Largest Sum of Averages](LargestSumofAverages/largest_sum_of_averages.py)
