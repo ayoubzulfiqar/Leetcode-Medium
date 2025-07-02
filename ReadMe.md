@@ -1,5 +1,6 @@
 
 ## Medium
+* [K-diff Pairs in an Array](K-diffPairsinanArray/k-diff_pairs_in_an_array.py)
 * [Lonely Pixel I](LonelyPixelI/lonely_pixel_i.py)
 * [Minesweeper](Minesweeper/minesweeper.py)
 * [Random Pick with Weight](RandomPickwithWeight/random_pick_with_weight.py)
