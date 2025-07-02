@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Boomerangs](NumberofBoomerangs/number_of_boomerangs.py)
 * [Add Two Numbers II](AddTwoNumbersII/add_two_numbers_ii.py)
 * [Sequence Reconstruction](SequenceReconstruction/sequence_reconstruction.py)
 * [String Compression](StringCompression/string_compression.py)
