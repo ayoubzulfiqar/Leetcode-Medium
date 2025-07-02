@@ -1,5 +1,6 @@
 
 ## Medium
+* [Reach a Number](ReachaNumber/reach_a_number.py)
 * [Open the Lock](OpentheLock/open_the_lock.py)
 * [IP to CIDR](IPtoCIDR/ip_to_cidr.py)
 * [Number Of Corner Rectangles](NumberOfCornerRectangles/number_of_corner_rectangles.py)
