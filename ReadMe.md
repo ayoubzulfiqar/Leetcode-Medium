@@ -1,5 +1,6 @@
 
 ## Medium
+* [Partition Labels](PartitionLabels/partition_labels.py)
 * [Bold Words in String](BoldWordsinString/bold_words_in_string.py)
 * [Pyramid Transition Matrix](PyramidTransitionMatrix/pyramid_transition_matrix.py)
 * [Pour Water](PourWater/pour_water.py)
