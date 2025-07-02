@@ -1,5 +1,6 @@
 
 ## Medium
+* [Split Array into Fibonacci Sequence](SplitArrayintoFibonacciSequence/split_array_into_fibonacci_sequence.py)
 * [Keys and Rooms](KeysandRooms/keys_and_rooms.py)
 * [Magic Squares In Grid](MagicSquaresInGrid/magic_squares_in_grid.py)
 * [Image Overlap](ImageOverlap/image_overlap.py)
