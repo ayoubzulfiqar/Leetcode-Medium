@@ -1,5 +1,6 @@
 
 ## Medium
+* [Masking Personal Information](MaskingPersonalInformation/masking_personal_information.py)
 * [Most Profit Assigning Work](MostProfitAssigningWork/most_profit_assigning_work.py)
 * [Binary Trees With Factors](BinaryTreesWithFactors/binary_trees_with_factors.py)
 * [Card Flipping Game](CardFlippingGame/card_flipping_game.py)
