@@ -1,5 +1,6 @@
 
 ## Medium
+* [Wiggle Sort II](WiggleSortII/wiggle_sort_ii.py)
 * [Valid Square](ValidSquare/valid_square.py)
 * [Fraction Addition and Subtraction](FractionAdditionandSubtraction/fraction_addition_and_subtraction.py)
 * [Investments in 2016](Investmentsin2016/investments_in_2016.py)
