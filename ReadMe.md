@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Matching Subsequences](NumberofMatchingSubsequences/number_of_matching_subsequences.py)
 * [Custom Sort String](CustomSortString/custom_sort_string.py)
 * [Escape The Ghosts](EscapeTheGhosts/escape_the_ghosts.py)
 * [Rotated Digits](RotatedDigits/rotated_digits.py)
