@@ -1,5 +1,6 @@
 
 ## Medium
+* [Random Pick Index](RandomPickIndex/random_pick_index.py)
 * [Integer Replacement](IntegerReplacement/integer_replacement.py)
 * [Rotate Function](RotateFunction/rotate_function.py)
 * [Longest Substring with At Least K Repeating Characters](LongestSubstringwithAtLeastKRepeatingCharacters/longest_substring_with_at_least_k_repeating_characters.py)
