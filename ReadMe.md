@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design Circular Queue](DesignCircularQueue/design_circular_queue.py)
 * [Task Scheduler](TaskScheduler/task_scheduler.py)
 * [Add Bold Tag in String](AddBoldTaginString/add_bold_tag_in_string.py)
 * [Second Degree Follower](SecondDegreeFollower/second_degree_follower.py)
