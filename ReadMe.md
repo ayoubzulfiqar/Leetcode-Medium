@@ -1,5 +1,6 @@
 
 ## Medium
+* [Candy Crush](CandyCrush/candy_crush.py)
 * [Accounts Merge](AccountsMerge/accounts_merge.py)
 * [Longest Word in Dictionary](LongestWordinDictionary/longest_word_in_dictionary.py)
 * [Maximum Length of Repeated Subarray](MaximumLengthofRepeatedSubarray/maximum_length_of_repeated_subarray.py)
