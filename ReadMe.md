@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design Linked List](DesignLinkedList/design_linked_list.py)
 * [Search in a Sorted Array of Unknown Size](SearchinaSortedArrayofUnknownSize/search_in_a_sorted_array_of_unknown_size.py)
 * [Insert into a Binary Search Tree](InsertintoaBinarySearchTree/insert_into_a_binary_search_tree.py)
 * [Max Area of Island](MaxAreaofIsland/max_area_of_island.py)
