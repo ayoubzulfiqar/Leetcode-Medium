@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest Distance in a Plane](ShortestDistanceinaPlane/shortest_distance_in_a_plane.py)
 * [Find Duplicate File in System](FindDuplicateFileinSystem/find_duplicate_file_in_system.py)
 * [Tree Node](TreeNode/tree_node.py)
 * [Construct String from Binary Tree](ConstructStringfromBinaryTree/construct_string_from_binary_tree.py)
