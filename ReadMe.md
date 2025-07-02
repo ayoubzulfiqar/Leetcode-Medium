@@ -1,5 +1,6 @@
 
 ## Medium
+* [Lexicographical Numbers](LexicographicalNumbers/lexicographical_numbers.py)
 * [Mini Parser](MiniParser/mini_parser.py)
 * [Shuffle an Array](ShuffleanArray/shuffle_an_array.py)
 * [Linked List Random Node](LinkedListRandomNode/linked_list_random_node.py)
