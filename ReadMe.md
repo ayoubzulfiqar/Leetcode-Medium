@@ -1,5 +1,6 @@
 
 ## Medium
+* [UTF-8 Validation](UTF-8Validation/utf-8_validation.py)
 * [Elimination Game](EliminationGame/elimination_game.py)
 * [Longest Absolute File Path](LongestAbsoluteFilePath/longest_absolute_file_path.py)
 * [Lexicographical Numbers](LexicographicalNumbers/lexicographical_numbers.py)
