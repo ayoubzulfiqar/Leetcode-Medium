@@ -1,5 +1,6 @@
 
 ## Medium
+* [Employee Importance](EmployeeImportance/employee_importance.py)
 * [Knight Probability in Chessboard](KnightProbabilityinChessboard/knight_probability_in_chessboard.py)
 * [Longest Univalue Path](LongestUnivaluePath/longest_univalue_path.py)
 * [Redundant Connection](RedundantConnection/redundant_connection.py)
