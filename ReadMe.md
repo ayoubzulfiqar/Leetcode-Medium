@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Distance in Arrays](MaximumDistanceinArrays/maximum_distance_in_arrays.py)
 * [Add One Row to Tree](AddOneRowtoTree/add_one_row_to_tree.py)
 * [Design Circular Queue](DesignCircularQueue/design_circular_queue.py)
 * [Task Scheduler](TaskScheduler/task_scheduler.py)
