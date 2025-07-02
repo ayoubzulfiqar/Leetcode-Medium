@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sentence Screen Fitting](SentenceScreenFitting/sentence_screen_fitting.py)
 * [Pacific Atlantic Water Flow](PacificAtlanticWaterFlow/pacific_atlantic_water_flow.py)
 * [Partition Equal Subset Sum](PartitionEqualSubsetSum/partition_equal_subset_sum.py)
 * [Arithmetic Slices](ArithmeticSlices/arithmetic_slices.py)
