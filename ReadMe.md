@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Student Number in Departments](CountStudentNumberinDepartments/count_student_number_in_departments.py)
 * [Get Highest Answer Rate Question](GetHighestAnswerRateQuestion/get_highest_answer_rate_question.py)
 * [Out of Boundary Paths](OutofBoundaryPaths/out_of_boundary_paths.py)
 * [Winning Candidate](WinningCandidate/winning_candidate.py)
