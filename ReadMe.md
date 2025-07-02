@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number Of Corner Rectangles](NumberOfCornerRectangles/number_of_corner_rectangles.py)
 * [Network Delay Time](NetworkDelayTime/network_delay_time.py)
 * [Closest Leaf in a Binary Tree](ClosestLeafinaBinaryTree/closest_leaf_in_a_binary_tree.py)
 * [Delete and Earn](DeleteandEarn/delete_and_earn.py)
