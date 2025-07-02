@@ -1,5 +1,6 @@
 
 ## Medium
+* [Solve the Equation](SolvetheEquation/solve_the_equation.py)
 * [Shopping Offers](ShoppingOffers/shopping_offers.py)
 * [Exclusive Time of Functions](ExclusiveTimeofFunctions/exclusive_time_of_functions.py)
 * [Design Log Storage System](DesignLogStorageSystem/design_log_storage_system.py)
