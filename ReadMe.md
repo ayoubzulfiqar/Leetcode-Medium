@@ -1,5 +1,6 @@
 
 ## Medium
+* [Rotated Digits](RotatedDigits/rotated_digits.py)
 * [Is Graph Bipartite](IsGraphBipartite/is_graph_bipartite.py)
 * [Remove Comments](RemoveComments/remove_comments.py)
 * [Partition to K Equal Sum Subsets](PartitiontoKEqualSumSubsets/partition_to_k_equal_sum_subsets.py)
