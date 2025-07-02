@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Repeating Character Replacement](LongestRepeatingCharacterReplacement/longest_repeating_character_replacement.py)
 * [Reconstruct Original Digits from English](ReconstructOriginalDigitsfromEnglish/reconstruct_original_digits_from_english.py)
 * [Maximum XOR of Two Numbers in an Array](MaximumXORofTwoNumbersinanArray/maximum_xor_of_two_numbers_in_an_array.py)
 * [Sentence Screen Fitting](SentenceScreenFitting/sentence_screen_fitting.py)
