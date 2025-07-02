@@ -1,5 +1,6 @@
 
 ## Medium
+* [Valid Square](ValidSquare/valid_square.py)
 * [Fraction Addition and Subtraction](FractionAdditionandSubtraction/fraction_addition_and_subtraction.py)
 * [Investments in 2016](Investmentsin2016/investments_in_2016.py)
 * [Delete Operation for Two Strings](DeleteOperationforTwoStrings/delete_operation_for_two_strings.py)
