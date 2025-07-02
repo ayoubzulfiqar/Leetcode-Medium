@@ -1,5 +1,6 @@
 
 ## Medium
+* [Complex Number Multiplication](ComplexNumberMultiplication/complex_number_multiplication.py)
 * [Construct Binary Tree from String](ConstructBinaryTreefromString/construct_binary_tree_from_string.py)
 * [Encode and Decode TinyURL](EncodeandDecodeTinyURL/encode_and_decode_tinyurl.py)
 * [Game Play Analysis III](GamePlayAnalysisIII/game_play_analysis_iii.py)
