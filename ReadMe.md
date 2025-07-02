@@ -1,5 +1,6 @@
 
 ## Medium
+* [Next Greater Element III](NextGreaterElementIII/next_greater_element_iii.py)
 * [Brick Wall](BrickWall/brick_wall.py)
 * [Optimal Division](OptimalDivision/optimal_division.py)
 * [Game Play Analysis IV](GamePlayAnalysisIV/game_play_analysis_iv.py)
