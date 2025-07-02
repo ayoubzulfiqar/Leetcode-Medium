@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Length of Pair Chain](MaximumLengthofPairChain/maximum_length_of_pair_chain.py)
 * [Design Circular Deque](DesignCircularDeque/design_circular_deque.py)
 * [Solve the Equation](SolvetheEquation/solve_the_equation.py)
 * [Shopping Offers](ShoppingOffers/shopping_offers.py)
