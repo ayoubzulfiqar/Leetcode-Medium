@@ -1,5 +1,6 @@
 
 ## Medium
+* [Task Scheduler](TaskScheduler/task_scheduler.py)
 * [Add Bold Tag in String](AddBoldTaginString/add_bold_tag_in_string.py)
 * [Second Degree Follower](SecondDegreeFollower/second_degree_follower.py)
 * [Shortest Distance in a Plane](ShortestDistanceinaPlane/shortest_distance_in_a_plane.py)
