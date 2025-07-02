@@ -1,5 +1,6 @@
 
 ## Medium
+* [Delete Node in a BST](DeleteNodeinaBST/delete_node_in_a_bst.py)
 * [Serialize and Deserialize BST](SerializeandDeserializeBST/serialize_and_deserialize_bst.py)
 * [Number of Boomerangs](NumberofBoomerangs/number_of_boomerangs.py)
 * [Add Two Numbers II](AddTwoNumbersII/add_two_numbers_ii.py)
