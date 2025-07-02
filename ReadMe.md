@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sum of Square Numbers](SumofSquareNumbers/sum_of_square_numbers.py)
 * [Exchange Seats](ExchangeSeats/exchange_seats.py)
 * [Minimum Factorization](MinimumFactorization/minimum_factorization.py)
 * [Maximum Distance in Arrays](MaximumDistanceinArrays/maximum_distance_in_arrays.py)
