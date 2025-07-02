@@ -1,5 +1,6 @@
 
 ## Medium
+* [Global and Local Inversions](GlobalandLocalInversions/global_and_local_inversions.py)
 * [Max Chunks To Make Sorted](MaxChunksToMakeSorted/max_chunks_to_make_sorted.py)
 * [Reorganize String](ReorganizeString/reorganize_string.py)
 * [Largest Plus Sign](LargestPlusSign/largest_plus_sign.py)
