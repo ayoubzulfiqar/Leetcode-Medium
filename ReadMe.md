@@ -1,5 +1,6 @@
 
 ## Medium
+* [Delete and Earn](DeleteandEarn/delete_and_earn.py)
 * [Daily Temperatures](DailyTemperatures/daily_temperatures.py)
 * [Monotone Increasing Digits](MonotoneIncreasingDigits/monotone_increasing_digits.py)
 * [Sentence Similarity II](SentenceSimilarityII/sentence_similarity_ii.py)
