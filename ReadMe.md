@@ -1,5 +1,6 @@
 
 ## Medium
+* [Insert into a Binary Search Tree](InsertintoaBinarySearchTree/insert_into_a_binary_search_tree.py)
 * [Max Area of Island](MaxAreaofIsland/max_area_of_island.py)
 * [Number of Distinct Islands](NumberofDistinctIslands/number_of_distinct_islands.py)
 * [Employee Importance](EmployeeImportance/employee_importance.py)
