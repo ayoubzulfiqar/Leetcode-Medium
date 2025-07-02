@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sort Characters By Frequency](SortCharactersByFrequency/sort_characters_by_frequency.py)
 * [Delete Node in a BST](DeleteNodeinaBST/delete_node_in_a_bst.py)
 * [Serialize and Deserialize BST](SerializeandDeserializeBST/serialize_and_deserialize_bst.py)
 * [Number of Boomerangs](NumberofBoomerangs/number_of_boomerangs.py)
