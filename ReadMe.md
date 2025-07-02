@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Duplicate File in System](FindDuplicateFileinSystem/find_duplicate_file_in_system.py)
 * [Tree Node](TreeNode/tree_node.py)
 * [Construct String from Binary Tree](ConstructStringfromBinaryTree/construct_string_from_binary_tree.py)
 * [Friend Requests II Who Has the Most Friends](FriendRequestsIIWhoHastheMostFriends/friend_requests_ii_who_has_the_most_friends.py)
