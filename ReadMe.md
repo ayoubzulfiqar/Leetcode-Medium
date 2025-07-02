@@ -1,5 +1,6 @@
 
 ## Medium
+* [Generate Random Point in a Circle](GenerateRandomPointinaCircle/generate_random_point_in_a_circle.py)
 * [Total Hamming Distance](TotalHammingDistance/total_hamming_distance.py)
 * [Heaters](Heaters/heaters.py)
 * [Ones and Zeroes](OnesandZeroes/ones_and_zeroes.py)
