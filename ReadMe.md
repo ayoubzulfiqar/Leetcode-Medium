@@ -1,5 +1,6 @@
 
 ## Medium
+* [Brick Wall](BrickWall/brick_wall.py)
 * [Optimal Division](OptimalDivision/optimal_division.py)
 * [Game Play Analysis IV](GamePlayAnalysisIV/game_play_analysis_iv.py)
 * [Binary Tree Longest Consecutive Sequence II](BinaryTreeLongestConsecutiveSequenceII/binary_tree_longest_consecutive_sequence_ii.py)
