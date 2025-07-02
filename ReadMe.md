@@ -1,5 +1,6 @@
 
 ## Medium
+* [Beautiful Arrangement](BeautifulArrangement/beautiful_arrangement.py)
 * [Contiguous Array](ContiguousArray/contiguous_array.py)
 * [Longest Word in Dictionary through Deleting](LongestWordinDictionarythroughDeleting/longest_word_in_dictionary_through_deleting.py)
 * [Continuous Subarray Sum](ContinuousSubarraySum/continuous_subarray_sum.py)
