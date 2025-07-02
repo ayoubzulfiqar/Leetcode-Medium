@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Provinces](NumberofProvinces/number_of_provinces.py)
 * [Boundary of Binary Tree](BoundaryofBinaryTree/boundary_of_binary_tree.py)
 * [Output Contest Matches](OutputContestMatches/output_contest_matches.py)
 * [01 Matrix](01Matrix/01_matrix.py)
