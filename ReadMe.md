@@ -1,5 +1,6 @@
 
 ## Medium
+* [Encode and Decode TinyURL](EncodeandDecodeTinyURL/encode_and_decode_tinyurl.py)
 * [Game Play Analysis III](GamePlayAnalysisIII/game_play_analysis_iii.py)
 * [K-diff Pairs in an Array](K-diffPairsinanArray/k-diff_pairs_in_an_array.py)
 * [Lonely Pixel I](LonelyPixelI/lonely_pixel_i.py)
