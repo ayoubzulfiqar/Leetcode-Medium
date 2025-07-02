@@ -1,5 +1,6 @@
 
 ## Medium
+* [Second Degree Follower](SecondDegreeFollower/second_degree_follower.py)
 * [Shortest Distance in a Plane](ShortestDistanceinaPlane/shortest_distance_in_a_plane.py)
 * [Find Duplicate File in System](FindDuplicateFileinSystem/find_duplicate_file_in_system.py)
 * [Tree Node](TreeNode/tree_node.py)
