@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sequence Reconstruction](SequenceReconstruction/sequence_reconstruction.py)
 * [String Compression](StringCompression/string_compression.py)
 * [Find All Duplicates in an Array](FindAllDuplicatesinanArray/find_all_duplicates_in_an_array.py)
 * [Path Sum III](PathSumIII/path_sum_iii.py)
