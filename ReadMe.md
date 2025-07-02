@@ -1,5 +1,6 @@
 
 ## Medium
+* [Binary Tree Pruning](BinaryTreePruning/binary_tree_pruning.py)
 * [Largest Sum of Averages](LargestSumofAverages/largest_sum_of_averages.py)
 * [Subdomain Visit Count](SubdomainVisitCount/subdomain_visit_count.py)
 * [Expressive Words](ExpressiveWords/expressive_words.py)
