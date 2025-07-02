@@ -1,5 +1,6 @@
 
 ## Medium
+* [Total Hamming Distance](TotalHammingDistance/total_hamming_distance.py)
 * [Heaters](Heaters/heaters.py)
 * [Ones and Zeroes](OnesandZeroes/ones_and_zeroes.py)
 * [Matchsticks to Square](MatchstickstoSquare/matchsticks_to_square.py)
