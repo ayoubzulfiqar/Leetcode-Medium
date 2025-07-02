@@ -1,5 +1,6 @@
 
 ## Medium
+* [Game Play Analysis III](GamePlayAnalysisIII/game_play_analysis_iii.py)
 * [K-diff Pairs in an Array](K-diffPairsinanArray/k-diff_pairs_in_an_array.py)
 * [Lonely Pixel I](LonelyPixelI/lonely_pixel_i.py)
 * [Minesweeper](Minesweeper/minesweeper.py)
