@@ -1,5 +1,6 @@
 
 ## Medium
+* [Dota2 Senate](Dota2Senate/dota2_senate.py)
 * [Replace Words](ReplaceWords/replace_words.py)
 * [Palindromic Substrings](PalindromicSubstrings/palindromic_substrings.py)
 * [Maximum Length of Pair Chain](MaximumLengthofPairChain/maximum_length_of_pair_chain.py)
