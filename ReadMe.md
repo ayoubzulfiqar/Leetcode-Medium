@@ -1,5 +1,6 @@
 
 ## Medium
+* [Random Pick with Weight](RandomPickwithWeight/random_pick_with_weight.py)
 * [Beautiful Arrangement](BeautifulArrangement/beautiful_arrangement.py)
 * [Contiguous Array](ContiguousArray/contiguous_array.py)
 * [Longest Word in Dictionary through Deleting](LongestWordinDictionarythroughDeleting/longest_word_in_dictionary_through_deleting.py)
