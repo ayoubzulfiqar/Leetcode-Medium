@@ -1,5 +1,6 @@
 
 ## Medium
+* [Evaluate Division](EvaluateDivision/evaluate_division.py)
 * [Random Pick Index](RandomPickIndex/random_pick_index.py)
 * [Integer Replacement](IntegerReplacement/integer_replacement.py)
 * [Rotate Function](RotateFunction/rotate_function.py)
