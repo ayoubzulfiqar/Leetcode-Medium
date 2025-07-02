@@ -1,5 +1,6 @@
 
 ## Medium
+* [Binary Trees With Factors](BinaryTreesWithFactors/binary_trees_with_factors.py)
 * [Card Flipping Game](CardFlippingGame/card_flipping_game.py)
 * [Short Encoding of Words](ShortEncodingofWords/short_encoding_of_words.py)
 * [Linked List Components](LinkedListComponents/linked_list_components.py)
