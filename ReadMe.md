@@ -1,5 +1,6 @@
 
 ## Medium
+* [Winning Candidate](WinningCandidate/winning_candidate.py)
 * [Squirrel Simulation](SquirrelSimulation/squirrel_simulation.py)
 * [Managers with at Least 5 Direct Reports](ManagerswithatLeast5DirectReports/managers_with_at_least_5_direct_reports.py)
 * [Permutation in String](PermutationinString/permutation_in_string.py)
