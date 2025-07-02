@@ -1,5 +1,6 @@
 
 ## Medium
+* [Exchange Seats](ExchangeSeats/exchange_seats.py)
 * [Minimum Factorization](MinimumFactorization/minimum_factorization.py)
 * [Maximum Distance in Arrays](MaximumDistanceinArrays/maximum_distance_in_arrays.py)
 * [Add One Row to Tree](AddOneRowtoTree/add_one_row_to_tree.py)
