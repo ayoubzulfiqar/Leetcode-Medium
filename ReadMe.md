@@ -1,5 +1,6 @@
 
 ## Medium
+* [Short Encoding of Words](ShortEncodingofWords/short_encoding_of_words.py)
 * [Linked List Components](LinkedListComponents/linked_list_components.py)
 * [Ambiguous Coordinates](AmbiguousCoordinates/ambiguous_coordinates.py)
 * [Binary Tree Pruning](BinaryTreePruning/binary_tree_pruning.py)
