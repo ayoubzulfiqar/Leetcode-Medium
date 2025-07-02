@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum XOR of Two Numbers in an Array](MaximumXORofTwoNumbersinanArray/maximum_xor_of_two_numbers_in_an_array.py)
 * [Sentence Screen Fitting](SentenceScreenFitting/sentence_screen_fitting.py)
 * [Pacific Atlantic Water Flow](PacificAtlanticWaterFlow/pacific_atlantic_water_flow.py)
 * [Partition Equal Subset Sum](PartitionEqualSubsetSum/partition_equal_subset_sum.py)
