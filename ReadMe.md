@@ -1,5 +1,6 @@
 
 ## Medium
+* [Implement Magic Dictionary](ImplementMagicDictionary/implement_magic_dictionary.py)
 * [Number of Longest Increasing Subsequence](NumberofLongestIncreasingSubsequence/number_of_longest_increasing_subsequence.py)
 * [Maximum Swap](MaximumSwap/maximum_swap.py)
 * [Trim a Binary Search Tree](TrimaBinarySearchTree/trim_a_binary_search_tree.py)
