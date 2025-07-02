@@ -1,5 +1,6 @@
 
 ## Medium
+* [Matchsticks to Square](MatchstickstoSquare/matchsticks_to_square.py)
 * [Implement Rand10() Using Rand7()](ImplementRand10()UsingRand7()/implement_rand10()_using_rand7().py)
 * [Convex Polygon](ConvexPolygon/convex_polygon.py)
 * [Validate IP Address](ValidateIPAddress/validate_ip_address.py)
