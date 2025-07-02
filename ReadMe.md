@@ -1,5 +1,6 @@
 
 ## Medium
+* [Max Area of Island](MaxAreaofIsland/max_area_of_island.py)
 * [Number of Distinct Islands](NumberofDistinctIslands/number_of_distinct_islands.py)
 * [Employee Importance](EmployeeImportance/employee_importance.py)
 * [Knight Probability in Chessboard](KnightProbabilityinChessboard/knight_probability_in_chessboard.py)
