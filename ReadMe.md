@@ -1,5 +1,6 @@
 
 ## Medium
+* [Remove K Digits](RemoveKDigits/remove_k_digits.py)
 * [Nth Digit](NthDigit/nth_digit.py)
 * [Evaluate Division](EvaluateDivision/evaluate_division.py)
 * [Random Pick Index](RandomPickIndex/random_pick_index.py)
