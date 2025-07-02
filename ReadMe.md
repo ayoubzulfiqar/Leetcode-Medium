@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sentence Similarity II](SentenceSimilarityII/sentence_similarity_ii.py)
 * [Asteroid Collision](AsteroidCollision/asteroid_collision.py)
 * [My Calendar II](MyCalendarII/my_calendar_ii.py)
 * [My Calendar I](MyCalendarI/my_calendar_i.py)
