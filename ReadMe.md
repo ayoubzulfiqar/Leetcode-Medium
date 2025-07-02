@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find K Pairs with Smallest Sums](FindKPairswithSmallestSums/find_k_pairs_with_smallest_sums.py)
 * [Super Pow](SuperPow/super_pow.py)
 * [Range Addition](RangeAddition/range_addition.py)
 * [Plus One Linked List](PlusOneLinkedList/plus_one_linked_list.py)
