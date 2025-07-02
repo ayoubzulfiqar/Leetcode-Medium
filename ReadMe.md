@@ -1,5 +1,6 @@
 
 ## Medium
+* [Construct String from Binary Tree](ConstructStringfromBinaryTree/construct_string_from_binary_tree.py)
 * [Friend Requests II Who Has the Most Friends](FriendRequestsIIWhoHastheMostFriends/friend_requests_ii_who_has_the_most_friends.py)
 * [Lonely Pixel II](LonelyPixelII/lonely_pixel_ii.py)
 * [The Maze II](TheMazeII/the_maze_ii.py)
