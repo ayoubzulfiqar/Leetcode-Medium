@@ -1,5 +1,6 @@
 
 ## Medium
+* [Custom Sort String](CustomSortString/custom_sort_string.py)
 * [Escape The Ghosts](EscapeTheGhosts/escape_the_ghosts.py)
 * [Rotated Digits](RotatedDigits/rotated_digits.py)
 * [Is Graph Bipartite](IsGraphBipartite/is_graph_bipartite.py)
