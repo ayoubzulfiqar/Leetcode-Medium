@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shifting Letters](ShiftingLetters/shifting_letters.py)
 * [Hand of Straights](HandofStraights/hand_of_straights.py)
 * [Longest Mountain in Array](LongestMountaininArray/longest_mountain_in_array.py)
 * [Split Array into Fibonacci Sequence](SplitArrayintoFibonacciSequence/split_array_into_fibonacci_sequence.py)
