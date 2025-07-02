@@ -1,5 +1,6 @@
 
 ## Medium
+* [Nth Digit](NthDigit/nth_digit.py)
 * [Evaluate Division](EvaluateDivision/evaluate_division.py)
 * [Random Pick Index](RandomPickIndex/random_pick_index.py)
 * [Integer Replacement](IntegerReplacement/integer_replacement.py)
