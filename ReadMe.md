@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Genetic Mutation](MinimumGeneticMutation/minimum_genetic_mutation.py)
 * [Flatten a Multilevel Doubly Linked List](FlattenaMultilevelDoublyLinkedList/flatten_a_multilevel_doubly_linked_list.py)
 * [N-ary Tree Level Order Traversal](N-aryTreeLevelOrderTraversal/n-ary_tree_level_order_traversal.py)
 * [Construct Quad Tree](ConstructQuadTree/construct_quad_tree.py)
