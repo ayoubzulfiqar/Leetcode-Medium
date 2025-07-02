@@ -1,5 +1,6 @@
 
 ## Medium
+* [Majority Element II](MajorityElementII/majority_element_ii.py)
 * [Letter Case Permutation](LetterCasePermutation/letter_case_permutation.py)
 * [Rabbits in Forest](RabbitsinForest/rabbits_in_forest.py)
 * [K-th Symbol in Grammar](K-thSymbolinGrammar/k-th_symbol_in_grammar.py)
