@@ -1,5 +1,6 @@
 
 ## Medium
+* [Target Sum](TargetSum/target_sum.py)
 * [Non-decreasing Subsequences](Non-decreasingSubsequences/non-decreasing_subsequences.py)
 * [The Maze](TheMaze/the_maze.py)
 * [Max Consecutive Ones II](MaxConsecutiveOnesII/max_consecutive_ones_ii.py)
