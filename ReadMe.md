@@ -1,5 +1,6 @@
 
 ## Medium
+* [Exclusive Time of Functions](ExclusiveTimeofFunctions/exclusive_time_of_functions.py)
 * [Design Log Storage System](DesignLogStorageSystem/design_log_storage_system.py)
 * [Find the Derangement of An Array](FindtheDerangementofAnArray/find_the_derangement_of_an_array.py)
 * [Sum of Square Numbers](SumofSquareNumbers/sum_of_square_numbers.py)
