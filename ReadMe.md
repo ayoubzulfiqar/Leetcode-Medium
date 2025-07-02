@@ -1,5 +1,6 @@
 
 ## Medium
+* [Generalized Abbreviation](GeneralizedAbbreviation/generalized_abbreviation.py)
 * [Design Twitter](DesignTwitter/design_twitter.py)
 * [Design Snake Game](DesignSnakeGame/design_snake_game.py)
 * [Android Unlock Patterns](AndroidUnlockPatterns/android_unlock_patterns.py)
