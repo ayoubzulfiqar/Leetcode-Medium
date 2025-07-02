@@ -1,5 +1,6 @@
 
 ## Medium
+* [Monotone Increasing Digits](MonotoneIncreasingDigits/monotone_increasing_digits.py)
 * [Sentence Similarity II](SentenceSimilarityII/sentence_similarity_ii.py)
 * [Asteroid Collision](AsteroidCollision/asteroid_collision.py)
 * [My Calendar II](MyCalendarII/my_calendar_ii.py)
