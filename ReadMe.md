@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Moves to Equal Array Elements](MinimumMovestoEqualArrayElements/minimum_moves_to_equal_array_elements.py)
 * [Minimum Number of Arrows to Burst Balloons](MinimumNumberofArrowstoBurstBalloons/minimum_number_of_arrows_to_burst_balloons.py)
 * [Sort Characters By Frequency](SortCharactersByFrequency/sort_characters_by_frequency.py)
 * [Delete Node in a BST](DeleteNodeinaBST/delete_node_in_a_bst.py)
