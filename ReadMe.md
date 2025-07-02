@@ -1,5 +1,6 @@
 
 ## Medium
+* [Accounts Merge](AccountsMerge/accounts_merge.py)
 * [Longest Word in Dictionary](LongestWordinDictionary/longest_word_in_dictionary.py)
 * [Maximum Length of Repeated Subarray](MaximumLengthofRepeatedSubarray/maximum_length_of_repeated_subarray.py)
 * [Best Time to Buy and Sell Stock with Transaction Fee](BestTimetoBuyandSellStockwithTransactionFee/best_time_to_buy_and_sell_stock_with_transaction_fee.py)
