@@ -1,5 +1,6 @@
 
 ## Medium
+* [Largest Sum of Averages](LargestSumofAverages/largest_sum_of_averages.py)
 * [Subdomain Visit Count](SubdomainVisitCount/subdomain_visit_count.py)
 * [Expressive Words](ExpressiveWords/expressive_words.py)
 * [Soup Servings](SoupServings/soup_servings.py)
