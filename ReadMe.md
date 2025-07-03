@@ -1,5 +1,6 @@
 
 ## Medium
+* [Synonymous Sentences](SynonymousSentences/synonymous_sentences.py)
 * [Smallest Common Region](SmallestCommonRegion/smallest_common_region.py)
 * [Encode Number](EncodeNumber/encode_number.py)
 * [Number of Closed Islands](NumberofClosedIslands/number_of_closed_islands.py)
