@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Common Subsequence](LongestCommonSubsequence/longest_common_subsequence.py)
 * [Stone Game II](StoneGameII/stone_game_ii.py)
 * [Largest 1-Bordered Square](Largest1-BorderedSquare/largest_1-bordered_square.py)
 * [Parallel Courses](ParallelCourses/parallel_courses.py)
