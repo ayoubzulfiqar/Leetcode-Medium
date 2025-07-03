@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Average Subtree](MaximumAverageSubtree/maximum_average_subtree.py)
 * [Building H2O](BuildingH2O/building_h2o.py)
 * [Print Zero Even Odd](PrintZeroEvenOdd/print_zero_even_odd.py)
 * [Print FooBar Alternately](PrintFooBarAlternately/print_foobar_alternately.py)
