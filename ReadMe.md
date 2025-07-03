@@ -1,5 +1,6 @@
 
 ## Medium
+* [Walking Robot Simulation](WalkingRobotSimulation/walking_robot_simulation.py)
 * [Length of Longest Fibonacci Subsequence](LengthofLongestFibonacciSubsequence/length_of_longest_fibonacci_subsequence.py)
 * [Advantage Shuffle](AdvantageShuffle/advantage_shuffle.py)
 * [Reordered Power of 2](ReorderedPowerof2/reordered_power_of_2.py)
