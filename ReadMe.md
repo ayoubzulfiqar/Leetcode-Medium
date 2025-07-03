@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Swaps to Make Strings Equal](MinimumSwapstoMakeStringsEqual/minimum_swaps_to_make_strings_equal.py)
 * [Tree Diameter](TreeDiameter/tree_diameter.py)
 * [Design A Leaderboard](DesignALeaderboard/design_a_leaderboard.py)
 * [Web Crawler Multithreaded](WebCrawlerMultithreaded/web_crawler_multithreaded.py)
