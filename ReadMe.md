@@ -1,5 +1,6 @@
 
 ## Medium
+* [Reveal Cards In Increasing Order](RevealCardsInIncreasingOrder/reveal_cards_in_increasing_order.py)
 * [Largest Time for Given Digits](LargestTimeforGivenDigits/largest_time_for_given_digits.py)
 * [Bag of Tokens](BagofTokens/bag_of_tokens.py)
 * [Most Stones Removed with Same Row or Column](MostStonesRemovedwithSameRoworColumn/most_stones_removed_with_same_row_or_column.py)
