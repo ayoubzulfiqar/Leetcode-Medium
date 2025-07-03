@@ -1,5 +1,6 @@
 
 ## Medium
+* [Product Sales Analysis III](ProductSalesAnalysisIII/product_sales_analysis_iii.py)
 * [Missing Element in Sorted Array](MissingElementinSortedArray/missing_element_in_sorted_array.py)
 * [All Paths from Source Lead to Destination](AllPathsfromSourceLeadtoDestination/all_paths_from_source_lead_to_destination.py)
 * [Minimize Rounding Error to Meet Target](MinimizeRoundingErrortoMeetTarget/minimize_rounding_error_to_meet_target.py)
