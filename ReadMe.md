@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest String Chain](LongestStringChain/longest_string_chain.py)
 * [Customers Who Bought All Products](CustomersWhoBoughtAllProducts/customers_who_bought_all_products.py)
 * [Partition Array for Maximum Sum](PartitionArrayforMaximumSum/partition_array_for_maximum_sum.py)
 * [Flower Planting With No Adjacent](FlowerPlantingWithNoAdjacent/flower_planting_with_no_adjacent.py)
