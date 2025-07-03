@@ -1,5 +1,6 @@
 
 ## Medium
+* [Snakes and Ladders](SnakesandLadders/snakes_and_ladders.py)
 * [Sum of Subarray Minimums](SumofSubarrayMinimums/sum_of_subarray_minimums.py)
 * [Fruit Into Baskets](FruitIntoBaskets/fruit_into_baskets.py)
 * [Online Stock Span](OnlineStockSpan/online_stock_span.py)
