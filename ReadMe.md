@@ -1,5 +1,6 @@
 
 ## Medium
+* [Construct Binary Search Tree from Preorder Traversal](ConstructBinarySearchTreefromPreorderTraversal/construct_binary_search_tree_from_preorder_traversal.py)
 * [Minimum Domino Rotations For Equal Row](MinimumDominoRotationsForEqualRow/minimum_domino_rotations_for_equal_row.py)
 * [Clumsy Factorial](ClumsyFactorial/clumsy_factorial.py)
 * [Max Consecutive Ones III](MaxConsecutiveOnesIII/max_consecutive_ones_iii.py)
