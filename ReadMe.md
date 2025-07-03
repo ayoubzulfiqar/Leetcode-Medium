@@ -1,5 +1,6 @@
 
 ## Medium
+* [Logical OR of Two Binary Grids Represented as Quad-Trees](LogicalORofTwoBinaryGridsRepresentedasQuad-Trees/logical_or_of_two_binary_grids_represented_as_quad-trees.py)
 * [Peak Index in a Mountain Array](PeakIndexinaMountainArray/peak_index_in_a_mountain_array.py)
 * [Loud and Rich](LoudandRich/loud_and_rich.py)
 * [Maximize Distance to Closest Person](MaximizeDistancetoClosestPerson/maximize_distance_to_closest_person.py)
