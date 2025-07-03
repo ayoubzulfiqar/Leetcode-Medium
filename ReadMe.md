@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum of Absolute Value Expression](MaximumofAbsoluteValueExpression/maximum_of_absolute_value_expression.py)
 * [Minimum Cost Tree From Leaf Values](MinimumCostTreeFromLeafValues/minimum_cost_tree_from_leaf_values.py)
 * [Shortest Path with Alternating Colors](ShortestPathwithAlternatingColors/shortest_path_with_alternating_colors.py)
 * [Active Businesses](ActiveBusinesses/active_businesses.py)
