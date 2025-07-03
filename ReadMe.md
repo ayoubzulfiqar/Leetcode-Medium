@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design A Leaderboard](DesignALeaderboard/design_a_leaderboard.py)
 * [Web Crawler Multithreaded](WebCrawlerMultithreaded/web_crawler_multithreaded.py)
 * [Maximum Length of a Concatenated String with Unique Characters](MaximumLengthofaConcatenatedStringwithUniqueCharacters/maximum_length_of_a_concatenated_string_with_unique_characters.py)
 * [Circular Permutation in Binary Representation](CircularPermutationinBinaryRepresentation/circular_permutation_in_binary_representation.py)
