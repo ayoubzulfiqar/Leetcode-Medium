@@ -1,5 +1,6 @@
 
 ## Medium
+* [Stone Game](StoneGame/stone_game.py)
 * [Koko Eating Bananas](KokoEatingBananas/koko_eating_bananas.py)
 * [Walking Robot Simulation](WalkingRobotSimulation/walking_robot_simulation.py)
 * [Length of Longest Fibonacci Subsequence](LengthofLongestFibonacciSubsequence/length_of_longest_fibonacci_subsequence.py)
