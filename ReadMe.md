@@ -1,5 +1,6 @@
 
 ## Medium
+* [Greatest Sum Divisible by Three](GreatestSumDivisiblebyThree/greatest_sum_divisible_by_three.py)
 * [Find Elements in a Contaminated Binary Tree](FindElementsinaContaminatedBinaryTree/find_elements_in_a_contaminated_binary_tree.py)
 * [Synonymous Sentences](SynonymousSentences/synonymous_sentences.py)
 * [Smallest Common Region](SmallestCommonRegion/smallest_common_region.py)
