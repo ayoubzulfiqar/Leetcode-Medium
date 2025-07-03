@@ -1,5 +1,6 @@
 
 ## Medium
+* [Prime Palindrome](PrimePalindrome/prime_palindrome.py)
 * [Push Dominoes](PushDominoes/push_dominoes.py)
 * [K-th Smallest Prime Fraction](K-thSmallestPrimeFraction/k-th_smallest_prime_fraction.py)
 * [Boats to Save People](BoatstoSavePeople/boats_to_save_people.py)
