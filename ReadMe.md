@@ -1,5 +1,6 @@
 
 ## Medium
+* [Knight Dialer](KnightDialer/knight_dialer.py)
 * [Shortest Bridge](ShortestBridge/shortest_bridge.py)
 * [Beautiful Array](BeautifulArray/beautiful_array.py)
 * [Minimum Falling Path Sum](MinimumFallingPathSum/minimum_falling_path_sum.py)
