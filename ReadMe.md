@@ -1,5 +1,6 @@
 
 ## Medium
+* [Fruit Into Baskets](FruitIntoBaskets/fruit_into_baskets.py)
 * [Online Stock Span](OnlineStockSpan/online_stock_span.py)
 * [RLE Iterator](RLEIterator/rle_iterator.py)
 * [Bitwise ORs of Subarrays](BitwiseORsofSubarrays/bitwise_ors_of_subarrays.py)
