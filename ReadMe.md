@@ -1,5 +1,6 @@
 
 ## Medium
+* [Word Subsets](WordSubsets/word_subsets.py)
 * [Sort an Array](SortanArray/sort_an_array.py)
 * [Online Election](OnlineElection/online_election.py)
 * [Snakes and Ladders](SnakesandLadders/snakes_and_ladders.py)
