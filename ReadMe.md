@@ -1,5 +1,6 @@
 
 ## Medium
+* [Campus Bikes](CampusBikes/campus_bikes.py)
 * [Distant Barcodes](DistantBarcodes/distant_barcodes.py)
 * [Previous Permutation With One Swap](PreviousPermutationWithOneSwap/previous_permutation_with_one_swap.py)
 * [Grumpy Bookstore Owner](GrumpyBookstoreOwner/grumpy_bookstore_owner.py)
