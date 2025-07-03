@@ -1,5 +1,6 @@
 
 ## Medium
+* [Rotting Oranges](RottingOranges/rotting_oranges.py)
 * [Broken Calculator](BrokenCalculator/broken_calculator.py)
 * [Satisfiability of Equality Equations](SatisfiabilityofEqualityEquations/satisfiability_of_equality_equations.py)
 * [Smallest String Starting From Leaf](SmallestStringStartingFromLeaf/smallest_string_starting_from_leaf.py)
