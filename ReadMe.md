@@ -1,5 +1,6 @@
 
 ## Medium
+* [Largest Values From Labels](LargestValuesFromLabels/largest_values_from_labels.py)
 * [Brace Expansion](BraceExpansion/brace_expansion.py)
 * [Smallest Subsequence of Distinct Characters](SmallestSubsequenceofDistinctCharacters/smallest_subsequence_of_distinct_characters.py)
 * [Letter Tile Possibilities](LetterTilePossibilities/letter_tile_possibilities.py)
