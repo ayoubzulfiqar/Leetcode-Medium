@@ -1,5 +1,6 @@
 
 ## Medium
+* [Groups of Special-Equivalent Strings](GroupsofSpecial-EquivalentStrings/groups_of_special-equivalent_strings.py)
 * [Find and Replace Pattern](FindandReplacePattern/find_and_replace_pattern.py)
 * [Construct Binary Tree from Preorder and Postorder Traversal](ConstructBinaryTreefromPreorderandPostorderTraversal/construct_binary_tree_from_preorder_and_postorder_traversal.py)
 * [Possible Bipartition](PossibleBipartition/possible_bipartition.py)
