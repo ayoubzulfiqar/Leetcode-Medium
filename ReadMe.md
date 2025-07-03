@@ -1,5 +1,6 @@
 
 ## Medium
+* [Stepping Numbers](SteppingNumbers/stepping_numbers.py)
 * [Two Sum BSTs](TwoSumBSTs/two_sum_bsts.py)
 * [Team Scores in Football Tournament](TeamScoresinFootballTournament/team_scores_in_football_tournament.py)
 * [Remove All Adjacent Duplicates in String II](RemoveAllAdjacentDuplicatesinStringII/remove_all_adjacent_duplicates_in_string_ii.py)
