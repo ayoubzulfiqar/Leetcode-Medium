@@ -1,5 +1,6 @@
 
 ## Medium
+* [Web Crawler](WebCrawler/web_crawler.py)
 * [Remove Sub-Folders from the Filesystem](RemoveSub-FoldersfromtheFilesystem/remove_sub-folders_from_the_filesystem.py)
 * [Toss Strange Coins](TossStrangeCoins/toss_strange_coins.py)
 * [Meeting Scheduler](MeetingScheduler/meeting_scheduler.py)
