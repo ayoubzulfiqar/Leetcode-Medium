@@ -1,5 +1,6 @@
 
 ## Medium
+* [Smallest Common Region](SmallestCommonRegion/smallest_common_region.py)
 * [Encode Number](EncodeNumber/encode_number.py)
 * [Number of Closed Islands](NumberofClosedIslands/number_of_closed_islands.py)
 * [Reconstruct a 2-Row Binary Matrix](Reconstructa2-RowBinaryMatrix/reconstruct_a_2-row_binary_matrix.py)
