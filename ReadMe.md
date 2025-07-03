@@ -1,5 +1,6 @@
 
 ## Medium
+* [Path In Zigzag Labelled Binary Tree](PathInZigzagLabelledBinaryTree/path_in_zigzag_labelled_binary_tree.py)
 * [Path With Maximum Minimum Value](PathWithMaximumMinimumValue/path_with_maximum_minimum_value.py)
 * [The Earliest Moment When Everyone Become Friends](TheEarliestMomentWhenEveryoneBecomeFriends/the_earliest_moment_when_everyone_become_friends.py)
 * [Find K-Length Substrings With No Repeated Characters](FindK-LengthSubstringsWithNoRepeatedCharacters/find_k-length_substrings_with_no_repeated_characters.py)
