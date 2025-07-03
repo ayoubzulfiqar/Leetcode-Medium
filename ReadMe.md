@@ -1,5 +1,6 @@
 
 ## Medium
+* [Exam Room](ExamRoom/exam_room.py)
 * [Car Fleet](CarFleet/car_fleet.py)
 * [Friends Of Appropriate Ages](FriendsOfAppropriateAges/friends_of_appropriate_ages.py)
 * [Cheapest Flights Within K Stops](CheapestFlightsWithinKStops/cheapest_flights_within_k_stops.py)
