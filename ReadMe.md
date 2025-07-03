@@ -1,5 +1,6 @@
 
 ## Medium
+* [Remove Sub-Folders from the Filesystem](RemoveSub-FoldersfromtheFilesystem/remove_sub-folders_from_the_filesystem.py)
 * [Toss Strange Coins](TossStrangeCoins/toss_strange_coins.py)
 * [Meeting Scheduler](MeetingScheduler/meeting_scheduler.py)
 * [Airplane Seat Assignment Probability](AirplaneSeatAssignmentProbability/airplane_seat_assignment_probability.py)
