@@ -1,5 +1,6 @@
 
 ## Medium
+* [Peak Index in a Mountain Array](PeakIndexinaMountainArray/peak_index_in_a_mountain_array.py)
 * [Loud and Rich](LoudandRich/loud_and_rich.py)
 * [Maximize Distance to Closest Person](MaximizeDistancetoClosestPerson/maximize_distance_to_closest_person.py)
 * [Shifting Letters](ShiftingLetters/shifting_letters.py)
