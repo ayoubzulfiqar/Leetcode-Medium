@@ -1,5 +1,6 @@
 
 ## Medium
+* [Connecting Cities With Minimum Cost](ConnectingCitiesWithMinimumCost/connecting_cities_with_minimum_cost.py)
 * [Reported Posts II](ReportedPostsII/reported_posts_ii.py)
 * [Maximum of Absolute Value Expression](MaximumofAbsoluteValueExpression/maximum_of_absolute_value_expression.py)
 * [Minimum Cost Tree From Leaf Values](MinimumCostTreeFromLeafValues/minimum_cost_tree_from_leaf_values.py)
