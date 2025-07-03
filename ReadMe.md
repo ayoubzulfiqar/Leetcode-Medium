@@ -1,5 +1,6 @@
 
 ## Medium
+* [Car Fleet](CarFleet/car_fleet.py)
 * [Friends Of Appropriate Ages](FriendsOfAppropriateAges/friends_of_appropriate_ages.py)
 * [Cheapest Flights Within K Stops](CheapestFlightsWithinKStops/cheapest_flights_within_k_stops.py)
 * [Logical OR of Two Binary Grids Represented as Quad-Trees](LogicalORofTwoBinaryGridsRepresentedasQuad-Trees/logical_or_of_two_binary_grids_represented_as_quad-trees.py)
