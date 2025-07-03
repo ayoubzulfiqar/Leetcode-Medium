@@ -1,5 +1,6 @@
 
 ## Medium
+* [Video Stitching](VideoStitching/video_stitching.py)
 * [Camelcase Matching](CamelcaseMatching/camelcase_matching.py)
 * [Number of Enclaves](NumberofEnclaves/number_of_enclaves.py)
 * [Next Greater Node In Linked List](NextGreaterNodeInLinkedList/next_greater_node_in_linked_list.py)
