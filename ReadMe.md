@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Dice Rolls With Target Sum](NumberofDiceRollsWithTargetSum/number_of_dice_rolls_with_target_sum.py)
 * [Analyze User Website Visit Pattern](AnalyzeUserWebsiteVisitPattern/analyze_user_website_visit_pattern.py)
 * [Minimum Swaps to Group All 1's Together](MinimumSwapstoGroupAll1'sTogether/minimum_swaps_to_group_all_1's_together.py)
 * [Article Views II](ArticleViewsII/article_views_ii.py)
