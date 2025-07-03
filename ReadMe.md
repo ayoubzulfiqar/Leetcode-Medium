@@ -1,5 +1,6 @@
 
 ## Medium
+* [Flip Columns For Maximum Number of Equal Rows](FlipColumnsForMaximumNumberofEqualRows/flip_columns_for_maximum_number_of_equal_rows.py)
 * [Product Sales Analysis III](ProductSalesAnalysisIII/product_sales_analysis_iii.py)
 * [Missing Element in Sorted Array](MissingElementinSortedArray/missing_element_in_sorted_array.py)
 * [All Paths from Source Lead to Destination](AllPathsfromSourceLeadtoDestination/all_paths_from_source_lead_to_destination.py)
