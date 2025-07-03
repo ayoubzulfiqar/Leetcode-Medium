@@ -1,5 +1,6 @@
 
 ## Medium
+* [Compare Strings by Frequency of the Smallest Character](CompareStringsbyFrequencyoftheSmallestCharacter/compare_strings_by_frequency_of_the_smallest_character.py)
 * [Invalid Transactions](InvalidTransactions/invalid_transactions.py)
 * [Minimum Cost to Connect Sticks](MinimumCosttoConnectSticks/minimum_cost_to_connect_sticks.py)
 * [Design File System](DesignFileSystem/design_file_system.py)
