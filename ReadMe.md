@@ -1,5 +1,6 @@
 
 ## Medium
+* [Largest 1-Bordered Square](Largest1-BorderedSquare/largest_1-bordered_square.py)
 * [Parallel Courses](ParallelCourses/parallel_courses.py)
 * [Connecting Cities With Minimum Cost](ConnectingCitiesWithMinimumCost/connecting_cities_with_minimum_cost.py)
 * [Reported Posts II](ReportedPostsII/reported_posts_ii.py)
