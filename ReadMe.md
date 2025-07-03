@@ -1,5 +1,6 @@
 
 ## Medium
+* [3Sum With Multiplicity](3SumWithMultiplicity/3sum_with_multiplicity.py)
 * [Minimum Add to Make Parentheses Valid](MinimumAddtoMakeParenthesesValid/minimum_add_to_make_parentheses_valid.py)
 * [Complete Binary Tree Inserter](CompleteBinaryTreeInserter/complete_binary_tree_inserter.py)
 * [Maximum Sum Circular Subarray](MaximumSumCircularSubarray/maximum_sum_circular_subarray.py)
