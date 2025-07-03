@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sort an Array](SortanArray/sort_an_array.py)
 * [Online Election](OnlineElection/online_election.py)
 * [Snakes and Ladders](SnakesandLadders/snakes_and_ladders.py)
 * [Sum of Subarray Minimums](SumofSubarrayMinimums/sum_of_subarray_minimums.py)
