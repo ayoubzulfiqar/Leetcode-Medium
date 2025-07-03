@@ -1,5 +1,6 @@
 
 ## Medium
+* [Corporate Flight Bookings](CorporateFlightBookings/corporate_flight_bookings.py)
 * [New Users Daily Count](NewUsersDailyCount/new_users_daily_count.py)
 * [Filling Bookcase Shelves](FillingBookcaseShelves/filling_bookcase_shelves.py)
 * [Path In Zigzag Labelled Binary Tree](PathInZigzagLabelledBinaryTree/path_in_zigzag_labelled_binary_tree.py)
