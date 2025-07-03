@@ -1,5 +1,6 @@
 
 ## Medium
+* [Smallest Integer Divisible by K](SmallestIntegerDivisiblebyK/smallest_integer_divisible_by_k.py)
 * [Best Sightseeing Pair](BestSightseeingPair/best_sightseeing_pair.py)
 * [Capacity To Ship Packages Within D Days](CapacityToShipPackagesWithinDDays/capacity_to_ship_packages_within_d_days.py)
 * [Pairs of Songs With Total Durations Divisible by 60](PairsofSongsWithTotalDurationsDivisibleby60/pairs_of_songs_with_total_durations_divisible_by_60.py)
