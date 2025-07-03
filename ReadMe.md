@@ -1,5 +1,6 @@
 
 ## Medium
+* [Numbers With Same Consecutive Differences](NumbersWithSameConsecutiveDifferences/numbers_with_same_consecutive_differences.py)
 * [Vowel Spellchecker](VowelSpellchecker/vowel_spellchecker.py)
 * [Regions Cut By Slashes](RegionsCutBySlashes/regions_cut_by_slashes.py)
 * [Check Completeness of a Binary Tree](CheckCompletenessofaBinaryTree/check_completeness_of_a_binary_tree.py)
