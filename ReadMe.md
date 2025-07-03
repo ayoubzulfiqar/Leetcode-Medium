@@ -1,5 +1,6 @@
 
 ## Medium
+* [Product Price at a Given Date](ProductPriceataGivenDate/product_price_at_a_given_date.py)
 * [As Far from Land as Possible](AsFarfromLandasPossible/as_far_from_land_as_possible.py)
 * [Maximum Level Sum of a Binary Tree](MaximumLevelSumofaBinaryTree/maximum_level_sum_of_a_binary_tree.py)
 * [Market Analysis I](MarketAnalysisI/market_analysis_i.py)
