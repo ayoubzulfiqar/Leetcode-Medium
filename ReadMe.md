@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Swaps to Group All 1's Together](MinimumSwapstoGroupAll1'sTogether/minimum_swaps_to_group_all_1's_together.py)
 * [Article Views II](ArticleViewsII/article_views_ii.py)
 * [Snapshot Array](SnapshotArray/snapshot_array.py)
 * [Binary Tree Coloring Game](BinaryTreeColoringGame/binary_tree_coloring_game.py)
