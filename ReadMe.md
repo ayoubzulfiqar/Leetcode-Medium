@@ -1,5 +1,6 @@
 
 ## Medium
+* [Ugly Number III](UglyNumberIII/ugly_number_iii.py)
 * [Find Smallest Common Element in All Rows](FindSmallestCommonElementinAllRows/find_smallest_common_element_in_all_rows.py)
 * [Fizz Buzz Multithreaded](FizzBuzzMultithreaded/fizz_buzz_multithreaded.py)
 * [Monthly Transactions I](MonthlyTransactionsI/monthly_transactions_i.py)
