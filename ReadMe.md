@@ -1,5 +1,6 @@
 
 ## Medium
+* [Remove All Adjacent Duplicates in String II](RemoveAllAdjacentDuplicatesinStringII/remove_all_adjacent_duplicates_in_string_ii.py)
 * [Get Equal Substrings Within Budget](GetEqualSubstringsWithinBudget/get_equal_substrings_within_budget.py)
 * [Monthly Transactions II](MonthlyTransactionsII/monthly_transactions_ii.py)
 * [Last Person to Fit in the Bus](LastPersontoFitintheBus/last_person_to_fit_in_the_bus.py)
