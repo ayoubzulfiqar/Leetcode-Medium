@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sum of Subarray Minimums](SumofSubarrayMinimums/sum_of_subarray_minimums.py)
 * [Fruit Into Baskets](FruitIntoBaskets/fruit_into_baskets.py)
 * [Online Stock Span](OnlineStockSpan/online_stock_span.py)
 * [RLE Iterator](RLEIterator/rle_iterator.py)
