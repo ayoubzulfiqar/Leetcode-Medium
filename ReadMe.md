@@ -1,5 +1,6 @@
 
 ## Medium
+* [Spiral Matrix III](SpiralMatrixIII/spiral_matrix_iii.py)
 * [Prime Palindrome](PrimePalindrome/prime_palindrome.py)
 * [Push Dominoes](PushDominoes/push_dominoes.py)
 * [K-th Smallest Prime Fraction](K-thSmallestPrimeFraction/k-th_smallest_prime_fraction.py)
