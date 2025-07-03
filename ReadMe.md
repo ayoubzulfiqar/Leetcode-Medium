@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Increment to Make Array Unique](MinimumIncrementtoMakeArrayUnique/minimum_increment_to_make_array_unique.py)
 * [Minimum Area Rectangle](MinimumAreaRectangle/minimum_area_rectangle.py)
 * [Reorder Data in Log Files](ReorderDatainLogFiles/reorder_data_in_log_files.py)
 * [Knight Dialer](KnightDialer/knight_dialer.py)
