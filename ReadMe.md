@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Arithmetic Subsequence](LongestArithmeticSubsequence/longest_arithmetic_subsequence.py)
 * [Maximum Difference Between Node and Ancestor](MaximumDifferenceBetweenNodeandAncestor/maximum_difference_between_node_and_ancestor.py)
 * [Video Stitching](VideoStitching/video_stitching.py)
 * [Camelcase Matching](CamelcaseMatching/camelcase_matching.py)
