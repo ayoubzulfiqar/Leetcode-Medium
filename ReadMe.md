@@ -1,5 +1,6 @@
 
 ## Medium
+* [Most Stones Removed with Same Row or Column](MostStonesRemovedwithSameRoworColumn/most_stones_removed_with_same_row_or_column.py)
 * [Validate Stack Sequences](ValidateStackSequences/validate_stack_sequences.py)
 * [Minimum Increment to Make Array Unique](MinimumIncrementtoMakeArrayUnique/minimum_increment_to_make_array_unique.py)
 * [Minimum Area Rectangle](MinimumAreaRectangle/minimum_area_rectangle.py)
