@@ -1,5 +1,6 @@
 
 ## Medium
+* [Boats to Save People](BoatstoSavePeople/boats_to_save_people.py)
 * [Decoded String at Index](DecodedStringatIndex/decoded_string_at_index.py)
 * [Stone Game](StoneGame/stone_game.py)
 * [Koko Eating Bananas](KokoEatingBananas/koko_eating_bananas.py)
