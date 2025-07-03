@@ -1,5 +1,6 @@
 
 ## Medium
+* [Partition Array for Maximum Sum](PartitionArrayforMaximumSum/partition_array_for_maximum_sum.py)
 * [Flower Planting With No Adjacent](FlowerPlantingWithNoAdjacent/flower_planting_with_no_adjacent.py)
 * [Robot Bounded In Circle](RobotBoundedInCircle/robot_bounded_in_circle.py)
 * [Minimum Score Triangulation of Polygon](MinimumScoreTriangulationofPolygon/minimum_score_triangulation_of_polygon.py)
