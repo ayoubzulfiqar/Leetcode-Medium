@@ -1,5 +1,6 @@
 
 ## Medium
+* [Beautiful Array](BeautifulArray/beautiful_array.py)
 * [Minimum Falling Path Sum](MinimumFallingPathSum/minimum_falling_path_sum.py)
 * [Binary Subarrays With Sum](BinarySubarraysWithSum/binary_subarrays_with_sum.py)
 * [Flip String to Monotone Increasing](FlipStringtoMonotoneIncreasing/flip_string_to_monotone_increasing.py)
