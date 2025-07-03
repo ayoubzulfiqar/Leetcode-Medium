@@ -1,5 +1,6 @@
 
 ## Medium
+* [Smallest Subsequence of Distinct Characters](SmallestSubsequenceofDistinctCharacters/smallest_subsequence_of_distinct_characters.py)
 * [Letter Tile Possibilities](LetterTilePossibilities/letter_tile_possibilities.py)
 * [Project Employees III](ProjectEmployeesIII/project_employees_iii.py)
 * [Adding Two Negabinary Numbers](AddingTwoNegabinaryNumbers/adding_two_negabinary_numbers.py)
