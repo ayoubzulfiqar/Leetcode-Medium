@@ -1,5 +1,6 @@
 
 ## Medium
+* [Path with Maximum Gold](PathwithMaximumGold/path_with_maximum_gold.py)
 * [Longest Arithmetic Subsequence of Given Difference](LongestArithmeticSubsequenceofGivenDifference/longest_arithmetic_subsequence_of_given_difference.py)
 * [Stepping Numbers](SteppingNumbers/stepping_numbers.py)
 * [Two Sum BSTs](TwoSumBSTs/two_sum_bsts.py)
