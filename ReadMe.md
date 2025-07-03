@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Domino Rotations For Equal Row](MinimumDominoRotationsForEqualRow/minimum_domino_rotations_for_equal_row.py)
 * [Clumsy Factorial](ClumsyFactorial/clumsy_factorial.py)
 * [Max Consecutive Ones III](MaxConsecutiveOnesIII/max_consecutive_ones_iii.py)
 * [Check If Word Is Valid After Substitutions](CheckIfWordIsValidAfterSubstitutions/check_if_word_is_valid_after_substitutions.py)
