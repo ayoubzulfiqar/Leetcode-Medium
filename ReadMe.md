@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest Path with Alternating Colors](ShortestPathwithAlternatingColors/shortest_path_with_alternating_colors.py)
 * [Active Businesses](ActiveBusinesses/active_businesses.py)
 * [Lowest Common Ancestor of Deepest Leaves](LowestCommonAncestorofDeepestLeaves/lowest_common_ancestor_of_deepest_leaves.py)
 * [Maximum Average Subtree](MaximumAverageSubtree/maximum_average_subtree.py)
