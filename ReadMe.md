@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Positive Integer Solution for a Given Equation](FindPositiveIntegerSolutionforaGivenEquation/find_positive_integer_solution_for_a_given_equation.py)
 * [Web Crawler](WebCrawler/web_crawler.py)
 * [Remove Sub-Folders from the Filesystem](RemoveSub-FoldersfromtheFilesystem/remove_sub-folders_from_the_filesystem.py)
 * [Toss Strange Coins](TossStrangeCoins/toss_strange_coins.py)
