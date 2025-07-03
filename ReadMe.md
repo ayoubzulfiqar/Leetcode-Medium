@@ -1,5 +1,6 @@
 
 ## Medium
+* [Team Scores in Football Tournament](TeamScoresinFootballTournament/team_scores_in_football_tournament.py)
 * [Remove All Adjacent Duplicates in String II](RemoveAllAdjacentDuplicatesinStringII/remove_all_adjacent_duplicates_in_string_ii.py)
 * [Get Equal Substrings Within Budget](GetEqualSubstringsWithinBudget/get_equal_substrings_within_budget.py)
 * [Monthly Transactions II](MonthlyTransactionsII/monthly_transactions_ii.py)
