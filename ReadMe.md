@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest Distance to Target Color](ShortestDistancetoTargetColor/shortest_distance_to_target_color.py)
 * [Before and After Puzzle](BeforeandAfterPuzzle/before_and_after_puzzle.py)
 * [Can Make Palindrome from Substring](CanMakePalindromefromSubstring/can_make_palindrome_from_substring.py)
 * [Immediate Food Delivery II](ImmediateFoodDeliveryII/immediate_food_delivery_ii.py)
