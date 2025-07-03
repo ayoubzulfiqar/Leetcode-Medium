@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Cost to Connect Sticks](MinimumCosttoConnectSticks/minimum_cost_to_connect_sticks.py)
 * [Design File System](DesignFileSystem/design_file_system.py)
 * [Product Price at a Given Date](ProductPriceataGivenDate/product_price_at_a_given_date.py)
 * [As Far from Land as Possible](AsFarfromLandasPossible/as_far_from_land_as_possible.py)
