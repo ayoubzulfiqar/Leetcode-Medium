@@ -1,5 +1,6 @@
 
 ## Medium
+* [Toss Strange Coins](TossStrangeCoins/toss_strange_coins.py)
 * [Meeting Scheduler](MeetingScheduler/meeting_scheduler.py)
 * [Airplane Seat Assignment Probability](AirplaneSeatAssignmentProbability/airplane_seat_assignment_probability.py)
 * [The Dining Philosophers](TheDiningPhilosophers/the_dining_philosophers.py)
