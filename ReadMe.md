@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Arithmetic Subsequence of Given Difference](LongestArithmeticSubsequenceofGivenDifference/longest_arithmetic_subsequence_of_given_difference.py)
 * [Stepping Numbers](SteppingNumbers/stepping_numbers.py)
 * [Two Sum BSTs](TwoSumBSTs/two_sum_bsts.py)
 * [Team Scores in Football Tournament](TeamScoresinFootballTournament/team_scores_in_football_tournament.py)
