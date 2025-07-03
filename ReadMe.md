@@ -1,5 +1,6 @@
 
 ## Medium
+* [Decoded String at Index](DecodedStringatIndex/decoded_string_at_index.py)
 * [Stone Game](StoneGame/stone_game.py)
 * [Koko Eating Bananas](KokoEatingBananas/koko_eating_bananas.py)
 * [Walking Robot Simulation](WalkingRobotSimulation/walking_robot_simulation.py)
