@@ -1,5 +1,6 @@
 
 ## Medium
+* [K-Concatenation Maximum Sum](K-ConcatenationMaximumSum/k-concatenation_maximum_sum.py)
 * [Reverse Substrings Between Each Pair of Parentheses](ReverseSubstringsBetweenEachPairofParentheses/reverse_substrings_between_each_pair_of_parentheses.py)
 * [Design Bounded Blocking Queue](DesignBoundedBlockingQueue/design_bounded_blocking_queue.py)
 * [Maximum Subarray Sum with One Deletion](MaximumSubarraySumwithOneDeletion/maximum_subarray_sum_with_one_deletion.py)
