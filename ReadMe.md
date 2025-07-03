@@ -1,5 +1,6 @@
 
 ## Medium
+* [Can Make Palindrome from Substring](CanMakePalindromefromSubstring/can_make_palindrome_from_substring.py)
 * [Immediate Food Delivery II](ImmediateFoodDeliveryII/immediate_food_delivery_ii.py)
 * [Compare Strings by Frequency of the Smallest Character](CompareStringsbyFrequencyoftheSmallestCharacter/compare_strings_by_frequency_of_the_smallest_character.py)
 * [Invalid Transactions](InvalidTransactions/invalid_transactions.py)
