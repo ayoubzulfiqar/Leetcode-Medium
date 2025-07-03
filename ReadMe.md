@@ -1,5 +1,6 @@
 
 ## Medium
+* [Delete Nodes And Return Forest](DeleteNodesAndReturnForest/delete_nodes_and_return_forest.py)
 * [Corporate Flight Bookings](CorporateFlightBookings/corporate_flight_bookings.py)
 * [New Users Daily Count](NewUsersDailyCount/new_users_daily_count.py)
 * [Filling Bookcase Shelves](FillingBookcaseShelves/filling_bookcase_shelves.py)
