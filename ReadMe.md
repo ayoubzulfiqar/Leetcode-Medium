@@ -1,5 +1,6 @@
 
 ## Medium
+* [Advantage Shuffle](AdvantageShuffle/advantage_shuffle.py)
 * [Reordered Power of 2](ReorderedPowerof2/reordered_power_of_2.py)
 * [Smallest Subtree with all the Deepest Nodes](SmallestSubtreewithalltheDeepestNodes/smallest_subtree_with_all_the_deepest_nodes.py)
 * [All Nodes Distance K in Binary Tree](AllNodesDistanceKinBinaryTree/all_nodes_distance_k_in_binary_tree.py)
