@@ -1,5 +1,6 @@
 
 ## Medium
+* [Score After Flipping Matrix](ScoreAfterFlippingMatrix/score_after_flipping_matrix.py)
 * [Mirror Reflection](MirrorReflection/mirror_reflection.py)
 * [Score of Parentheses](ScoreofParentheses/score_of_parentheses.py)
 * [Exam Room](ExamRoom/exam_room.py)
