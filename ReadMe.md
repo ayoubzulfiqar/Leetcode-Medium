@@ -1,5 +1,6 @@
 
 ## Medium
+* [Smallest String Starting From Leaf](SmallestStringStartingFromLeaf/smallest_string_starting_from_leaf.py)
 * [Interval List Intersections](IntervalListIntersections/interval_list_intersections.py)
 * [Sum of Even Numbers After Queries](SumofEvenNumbersAfterQueries/sum_of_even_numbers_after_queries.py)
 * [String Without AAA or BBB](StringWithoutAAAorBBB/string_without_aaa_or_bbb.py)
