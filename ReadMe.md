@@ -1,5 +1,6 @@
 
 ## Medium
+* [Check If Word Is Valid After Substitutions](CheckIfWordIsValidAfterSubstitutions/check_if_word_is_valid_after_substitutions.py)
 * [Maximum Binary Tree II](MaximumBinaryTreeII/maximum_binary_tree_ii.py)
 * [Rotting Oranges](RottingOranges/rotting_oranges.py)
 * [Broken Calculator](BrokenCalculator/broken_calculator.py)
