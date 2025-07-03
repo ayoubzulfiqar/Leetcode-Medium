@@ -1,5 +1,6 @@
 
 ## Medium
+* [Article Views II](ArticleViewsII/article_views_ii.py)
 * [Snapshot Array](SnapshotArray/snapshot_array.py)
 * [Binary Tree Coloring Game](BinaryTreeColoringGame/binary_tree_coloring_game.py)
 * [Longest Common Subsequence](LongestCommonSubsequence/longest_common_subsequence.py)
