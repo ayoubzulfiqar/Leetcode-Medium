@@ -1,5 +1,6 @@
 
 ## Medium
+* [Complete Binary Tree Inserter](CompleteBinaryTreeInserter/complete_binary_tree_inserter.py)
 * [Maximum Sum Circular Subarray](MaximumSumCircularSubarray/maximum_sum_circular_subarray.py)
 * [Word Subsets](WordSubsets/word_subsets.py)
 * [Sort an Array](SortanArray/sort_an_array.py)
