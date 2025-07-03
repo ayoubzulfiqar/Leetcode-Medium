@@ -1,5 +1,6 @@
 
 ## Medium
+* [Clumsy Factorial](ClumsyFactorial/clumsy_factorial.py)
 * [Max Consecutive Ones III](MaxConsecutiveOnesIII/max_consecutive_ones_iii.py)
 * [Check If Word Is Valid After Substitutions](CheckIfWordIsValidAfterSubstitutions/check_if_word_is_valid_after_substitutions.py)
 * [Maximum Binary Tree II](MaximumBinaryTreeII/maximum_binary_tree_ii.py)
