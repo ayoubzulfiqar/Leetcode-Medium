@@ -1,5 +1,6 @@
 
 ## Medium
+* [Check Completeness of a Binary Tree](CheckCompletenessofaBinaryTree/check_completeness_of_a_binary_tree.py)
 * [Delete Columns to Make Sorted II](DeleteColumnstoMakeSortedII/delete_columns_to_make_sorted_ii.py)
 * [Array of Doubled Pairs](ArrayofDoubledPairs/array_of_doubled_pairs.py)
 * [Flip Equivalent Binary Trees](FlipEquivalentBinaryTrees/flip_equivalent_binary_trees.py)
