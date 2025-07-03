@@ -1,5 +1,6 @@
 
 ## Medium
+* [Delete Columns to Make Sorted II](DeleteColumnstoMakeSortedII/delete_columns_to_make_sorted_ii.py)
 * [Array of Doubled Pairs](ArrayofDoubledPairs/array_of_doubled_pairs.py)
 * [Flip Equivalent Binary Trees](FlipEquivalentBinaryTrees/flip_equivalent_binary_trees.py)
 * [Reveal Cards In Increasing Order](RevealCardsInIncreasingOrder/reveal_cards_in_increasing_order.py)
