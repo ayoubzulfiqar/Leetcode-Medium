@@ -1,5 +1,6 @@
 
 ## Medium
+* [The Earliest Moment When Everyone Become Friends](TheEarliestMomentWhenEveryoneBecomeFriends/the_earliest_moment_when_everyone_become_friends.py)
 * [Find K-Length Substrings With No Repeated Characters](FindK-LengthSubstringsWithNoRepeatedCharacters/find_k-length_substrings_with_no_repeated_characters.py)
 * [Unpopular Books](UnpopularBooks/unpopular_books.py)
 * [Car Pooling](CarPooling/car_pooling.py)
