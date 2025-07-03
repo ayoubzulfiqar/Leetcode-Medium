@@ -1,5 +1,6 @@
 
 ## Medium
+* [Coloring A Border](ColoringABorder/coloring_a_border.py)
 * [Moving Stones Until Consecutive](MovingStonesUntilConsecutive/moving_stones_until_consecutive.py)
 * [Maximum Sum of Two Non-Overlapping Subarrays](MaximumSumofTwoNon-OverlappingSubarrays/maximum_sum_of_two_non-overlapping_subarrays.py)
 * [Two City Scheduling](TwoCityScheduling/two_city_scheduling.py)
