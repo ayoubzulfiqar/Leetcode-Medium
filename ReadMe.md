@@ -1,5 +1,6 @@
 
 ## Medium
+* [Next Greater Node In Linked List](NextGreaterNodeInLinkedList/next_greater_node_in_linked_list.py)
 * [Convert to Base -2](ConverttoBase-2/convert_to_base_-2.py)
 * [Smallest Integer Divisible by K](SmallestIntegerDivisiblebyK/smallest_integer_divisible_by_k.py)
 * [Best Sightseeing Pair](BestSightseeingPair/best_sightseeing_pair.py)
