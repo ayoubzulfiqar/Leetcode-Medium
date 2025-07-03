@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Cost For Tickets](MinimumCostForTickets/minimum_cost_for_tickets.py)
 * [Time Based Key-Value Store](TimeBasedKey-ValueStore/time_based_key-value_store.py)
 * [Distribute Coins in Binary Tree](DistributeCoinsinBinaryTree/distribute_coins_in_binary_tree.py)
 * [Subarray Sums Divisible by K](SubarraySumsDivisiblebyK/subarray_sums_divisible_by_k.py)
