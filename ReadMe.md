@@ -1,5 +1,6 @@
 
 ## Medium
+* [Parallel Courses](ParallelCourses/parallel_courses.py)
 * [Connecting Cities With Minimum Cost](ConnectingCitiesWithMinimumCost/connecting_cities_with_minimum_cost.py)
 * [Reported Posts II](ReportedPostsII/reported_posts_ii.py)
 * [Maximum of Absolute Value Expression](MaximumofAbsoluteValueExpression/maximum_of_absolute_value_expression.py)
