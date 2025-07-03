@@ -1,5 +1,6 @@
 
 ## Medium
+* [Print Zero Even Odd](PrintZeroEvenOdd/print_zero_even_odd.py)
 * [Print FooBar Alternately](PrintFooBarAlternately/print_foobar_alternately.py)
 * [Highest Grade For Each Student](HighestGradeForEachStudent/highest_grade_for_each_student.py)
 * [Maximum Nesting Depth of Two Valid Parentheses Strings](MaximumNestingDepthofTwoValidParenthesesStrings/maximum_nesting_depth_of_two_valid_parentheses_strings.py)
