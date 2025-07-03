@@ -1,5 +1,6 @@
 
 ## Medium
+* [Active Businesses](ActiveBusinesses/active_businesses.py)
 * [Lowest Common Ancestor of Deepest Leaves](LowestCommonAncestorofDeepestLeaves/lowest_common_ancestor_of_deepest_leaves.py)
 * [Maximum Average Subtree](MaximumAverageSubtree/maximum_average_subtree.py)
 * [Building H2O](BuildingH2O/building_h2o.py)
