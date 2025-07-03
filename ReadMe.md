@@ -1,5 +1,6 @@
 
 ## Medium
+* [Previous Permutation With One Swap](PreviousPermutationWithOneSwap/previous_permutation_with_one_swap.py)
 * [Grumpy Bookstore Owner](GrumpyBookstoreOwner/grumpy_bookstore_owner.py)
 * [Last Stone Weight II](LastStoneWeightII/last_stone_weight_ii.py)
 * [Longest String Chain](LongestStringChain/longest_string_chain.py)
