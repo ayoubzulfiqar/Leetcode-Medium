@@ -1,5 +1,6 @@
 
 ## Medium
+* [Powerful Integers](PowerfulIntegers/powerful_integers.py)
 * [Pancake Sorting](PancakeSorting/pancake_sorting.py)
 * [Numbers With Same Consecutive Differences](NumbersWithSameConsecutiveDifferences/numbers_with_same_consecutive_differences.py)
 * [Vowel Spellchecker](VowelSpellchecker/vowel_spellchecker.py)
