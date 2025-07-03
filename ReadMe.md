@@ -1,5 +1,6 @@
 
 ## Medium
+* [Swap For Longest Repeated Character Substring](SwapForLongestRepeatedCharacterSubstring/swap_for_longest_repeated_character_substring.py)
 * [Number of Dice Rolls With Target Sum](NumberofDiceRollsWithTargetSum/number_of_dice_rolls_with_target_sum.py)
 * [Analyze User Website Visit Pattern](AnalyzeUserWebsiteVisitPattern/analyze_user_website_visit_pattern.py)
 * [Minimum Swaps to Group All 1's Together](MinimumSwapstoGroupAll1'sTogether/minimum_swaps_to_group_all_1's_together.py)
