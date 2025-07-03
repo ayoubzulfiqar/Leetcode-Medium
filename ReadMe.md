@@ -1,5 +1,6 @@
 
 ## Medium
+* [Flip Equivalent Binary Trees](FlipEquivalentBinaryTrees/flip_equivalent_binary_trees.py)
 * [Reveal Cards In Increasing Order](RevealCardsInIncreasingOrder/reveal_cards_in_increasing_order.py)
 * [Largest Time for Given Digits](LargestTimeforGivenDigits/largest_time_for_given_digits.py)
 * [Bag of Tokens](BagofTokens/bag_of_tokens.py)
