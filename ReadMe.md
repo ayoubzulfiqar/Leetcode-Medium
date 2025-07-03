@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Area Rectangle](MinimumAreaRectangle/minimum_area_rectangle.py)
 * [Reorder Data in Log Files](ReorderDatainLogFiles/reorder_data_in_log_files.py)
 * [Knight Dialer](KnightDialer/knight_dialer.py)
 * [Shortest Bridge](ShortestBridge/shortest_bridge.py)
