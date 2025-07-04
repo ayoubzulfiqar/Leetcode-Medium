@@ -1,5 +1,6 @@
 
 ## Medium
+* [Add Two Polynomials Represented as Linked Lists](AddTwoPolynomialsRepresentedasLinkedLists/add_two_polynomials_represented_as_linked_lists.py)
 * [Path With Minimum Effort](PathWithMinimumEffort/path_with_minimum_effort.py)
 * [Arithmetic Subarrays](ArithmeticSubarrays/arithmetic_subarrays.py)
 * [Design an Expression Tree With Evaluate Function](DesignanExpressionTreeWithEvaluateFunction/design_an_expression_tree_with_evaluate_function.py)
