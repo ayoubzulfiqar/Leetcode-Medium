@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Trusted Contacts of a Customer](NumberofTrustedContactsofaCustomer/number_of_trusted_contacts_of_a_customer.py)
 * [Closest Divisors](ClosestDivisors/closest_divisors.py)
 * [Validate Binary Tree Nodes](ValidateBinaryTreeNodes/validate_binary_tree_nodes.py)
 * [Number of Substrings Containing All Three Characters](NumberofSubstringsContainingAllThreeCharacters/number_of_substrings_containing_all_three_characters.py)
