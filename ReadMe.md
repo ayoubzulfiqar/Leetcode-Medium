@@ -1,5 +1,6 @@
 
 ## Medium
+* [Lexicographically Smallest Equivalent String](LexicographicallySmallestEquivalentString/lexicographically_smallest_equivalent_string.py)
 * [Shortest Way to Form String](ShortestWaytoFormString/shortest_way_to_form_string.py)
 * [Longest Turbulent Subarray](LongestTurbulentSubarray/longest_turbulent_subarray.py)
 * [Maximum Width Ramp](MaximumWidthRamp/maximum_width_ramp.py)
