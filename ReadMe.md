@@ -1,5 +1,6 @@
 
 ## Medium
+* [Last Moment Before All Ants Fall Out of a Plank](LastMomentBeforeAllAntsFallOutofaPlank/last_moment_before_all_ants_fall_out_of_a_plank.py)
 * [Countries You Can Safely Invest In](CountriesYouCanSafelyInvestIn/countries_you_can_safely_invest_in.py)
 * [Design a File Sharing System](DesignaFileSharingSystem/design_a_file_sharing_system.py)
 * [Number of Subsequences That Satisfy the Given Sum Condition](NumberofSubsequencesThatSatisfytheGivenSumCondition/number_of_subsequences_that_satisfy_the_given_sum_condition.py)
