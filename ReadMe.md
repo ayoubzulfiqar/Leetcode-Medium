@@ -1,5 +1,6 @@
 
 ## Medium
+* [Subrectangle Queries](SubrectangleQueries/subrectangle_queries.py)
 * [Design Browser History](DesignBrowserHistory/design_browser_history.py)
 * [The k Strongest Values in an Array](ThekStrongestValuesinanArray/the_k_strongest_values_in_an_array.py)
 * [Calculate Salaries](CalculateSalaries/calculate_salaries.py)
