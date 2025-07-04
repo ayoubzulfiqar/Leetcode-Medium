@@ -1,5 +1,6 @@
 
 ## Medium
+* [Delete Leaves With a Given Value](DeleteLeavesWithaGivenValue/delete_leaves_with_a_given_value.py)
 * [Print Words Vertically](PrintWordsVertically/print_words_vertically.py)
 * [Restaurant Growth](RestaurantGrowth/restaurant_growth.py)
 * [Number of Operations to Make Network Connected](NumberofOperationstoMakeNetworkConnected/number_of_operations_to_make_network_connected.py)
