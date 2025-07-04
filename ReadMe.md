@@ -1,5 +1,6 @@
 
 ## Medium
+* [Check If Two Expression Trees are Equivalent](CheckIfTwoExpressionTreesareEquivalent/check_if_two_expression_trees_are_equivalent.py)
 * [Even Odd Tree](EvenOddTree/even_odd_tree.py)
 * [Find Valid Matrix Given Row and Column Sums](FindValidMatrixGivenRowandColumnSums/find_valid_matrix_given_row_and_column_sums.py)
 * [Alert Using Same Key-Card Three or More Times in a One Hour Period](AlertUsingSameKey-CardThreeorMoreTimesinaOneHourPeriod/alert_using_same_key-card_three_or_more_times_in_a_one_hour_period.py)
