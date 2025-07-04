@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Knight Moves](MinimumKnightMoves/minimum_knight_moves.py)
 * [Alphabet Board Path](AlphabetBoardPath/alphabet_board_path.py)
 * [Campus Bikes II](CampusBikesII/campus_bikes_ii.py)
 * [Longest Repeating Substring](LongestRepeatingSubstring/longest_repeating_substring.py)
