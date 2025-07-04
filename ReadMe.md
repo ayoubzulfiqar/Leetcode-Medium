@@ -1,5 +1,6 @@
 
 ## Medium
+* [Activity Participants](ActivityParticipants/activity_participants.py)
 * [Maximum Number of Events That Can Be Attended](MaximumNumberofEventsThatCanBeAttended/maximum_number_of_events_that_can_be_attended.py)
 * [Product of the Last K Numbers](ProductoftheLastKNumbers/product_of_the_last_k_numbers.py)
 * [Tweet Counts Per Frequency](TweetCountsPerFrequency/tweet_counts_per_frequency.py)
