@@ -1,5 +1,6 @@
 
 ## Medium
+* [Diagonal Traverse II](DiagonalTraverseII/diagonal_traverse_ii.py)
 * [Maximum Points You Can Obtain from Cards](MaximumPointsYouCanObtainfromCards/maximum_points_you_can_obtain_from_cards.py)
 * [Display Table of Food Orders in a Restaurant](DisplayTableofFoodOrdersinaRestaurant/display_table_of_food_orders_in_a_restaurant.py)
 * [The k-th Lexicographical String of All Happy Strings of Length n](Thek-thLexicographicalStringofAllHappyStringsofLengthn/the_k-th_lexicographical_string_of_all_happy_strings_of_length_n.py)
