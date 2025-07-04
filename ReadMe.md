@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Smallest Divisor Given a Threshold](FindtheSmallestDivisorGivenaThreshold/find_the_smallest_divisor_given_a_threshold.py)
 * [Group the People Given the Group Size They Belong To](GroupthePeopleGiventheGroupSizeTheyBelongTo/group_the_people_given_the_group_size_they_belong_to.py)
 * [Count Square Submatrices with All Ones](CountSquareSubmatriceswithAllOnes/count_square_submatrices_with_all_ones.py)
 * [Number of Burgers with No Waste of Ingredients](NumberofBurgerswithNoWasteofIngredients/number_of_burgers_with_no_waste_of_ingredients.py)
