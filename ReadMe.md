@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Sum Obtained of Any Permutation](MaximumSumObtainedofAnyPermutation/maximum_sum_obtained_of_any_permutation.py)
 * [Binary Search Tree Iterator II](BinarySearchTreeIteratorII/binary_search_tree_iterator_ii.py)
 * [Min Cost to Connect All Points](MinCosttoConnectAllPoints/min_cost_to_connect_all_points.py)
 * [Count Unhappy Friends](CountUnhappyFriends/count_unhappy_friends.py)
