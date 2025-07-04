@@ -1,5 +1,6 @@
 
 ## Medium
+* [The Most Recent Three Orders](TheMostRecentThreeOrders/the_most_recent_three_orders.py)
 * [Number of Good Leaf Nodes Pairs](NumberofGoodLeafNodesPairs/number_of_good_leaf_nodes_pairs.py)
 * [Minimum Suffix Flips](MinimumSuffixFlips/minimum_suffix_flips.py)
 * [Number of Good Ways to Split a String](NumberofGoodWaystoSplitaString/number_of_good_ways_to_split_a_string.py)
