@@ -1,5 +1,6 @@
 
 ## Medium
+* [Check If a String Can Break Another String](CheckIfaStringCanBreakAnotherString/check_if_a_string_can_break_another_string.py)
 * [Max Difference You Can Get From Changing an Integer](MaxDifferenceYouCanGetFromChanginganInteger/max_difference_you_can_get_from_changing_an_integer.py)
 * [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](CheckIfaStringIsaValidSequencefromRoottoLeavesPathinaBinaryTree/check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path_in_a_binary_tree.py)
 * [First Unique Number](FirstUniqueNumber/first_unique_number.py)
