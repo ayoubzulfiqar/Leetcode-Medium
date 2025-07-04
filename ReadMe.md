@@ -1,5 +1,6 @@
 
 ## Medium
+* [Display Table of Food Orders in a Restaurant](DisplayTableofFoodOrdersinaRestaurant/display_table_of_food_orders_in_a_restaurant.py)
 * [The k-th Lexicographical String of All Happy Strings of Length n](Thek-thLexicographicalStringofAllHappyStringsofLengthn/the_k-th_lexicographical_string_of_all_happy_strings_of_length_n.py)
 * [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](FindtheMinimumNumberofFibonacciNumbersWhoseSumIsK/find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.py)
 * [HTML Entity Parser](HTMLEntityParser/html_entity_parser.py)
