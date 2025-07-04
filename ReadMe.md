@@ -1,5 +1,6 @@
 
 ## Medium
+* [Replace the Substring for Balanced String](ReplacetheSubstringforBalancedString/replace_the_substring_for_balanced_string.py)
 * [Minimum Knight Moves](MinimumKnightMoves/minimum_knight_moves.py)
 * [Alphabet Board Path](AlphabetBoardPath/alphabet_board_path.py)
 * [Campus Bikes II](CampusBikesII/campus_bikes_ii.py)
