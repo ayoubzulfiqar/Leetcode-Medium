@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest ZigZag Path in a Binary Tree](LongestZigZagPathinaBinaryTree/longest_zigzag_path_in_a_binary_tree.py)
 * [Find the Longest Substring Containing Vowels in Even Counts](FindtheLongestSubstringContainingVowelsinEvenCounts/find_the_longest_substring_containing_vowels_in_even_counts.py)
 * [Linked List in Binary Tree](LinkedListinBinaryTree/linked_list_in_binary_tree.py)
 * [Rank Teams by Votes](RankTeamsbyVotes/rank_teams_by_votes.py)
