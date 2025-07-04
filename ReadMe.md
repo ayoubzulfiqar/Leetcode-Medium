@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Area Rectangle II](MinimumAreaRectangleII/minimum_area_rectangle_ii.py)
 * [Circular Array Loop](CircularArrayLoop/circular_array_loop.py)
 * [Sum of Two Integers](SumofTwoIntegers/sum_of_two_integers.py)
 * [Check if There is a Valid Path in a Grid](CheckifThereisaValidPathinaGrid/check_if_there_is_a_valid_path_in_a_grid.py)
