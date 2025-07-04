@@ -1,5 +1,6 @@
 
 ## Medium
+* [Split Two Strings to Make Palindrome](SplitTwoStringstoMakePalindrome/split_two_strings_to_make_palindrome.py)
 * [Maximal Network Rank](MaximalNetworkRank/maximal_network_rank.py)
 * [Find the Missing IDs](FindtheMissingIDs/find_the_missing_ids.py)
 * [Check If Two Expression Trees are Equivalent](CheckIfTwoExpressionTreesareEquivalent/check_if_two_expression_trees_are_equivalent.py)
