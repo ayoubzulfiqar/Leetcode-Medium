@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Triplets That Can Form Two Arrays of Equal XOR](CountTripletsThatCanFormTwoArraysofEqualXOR/count_triplets_that_can_form_two_arrays_of_equal_xor.py)
 * [Build an Array With Stack Operations](BuildanArrayWithStackOperations/build_an_array_with_stack_operations.py)
 * [Evaluate Boolean Expression](EvaluateBooleanExpression/evaluate_boolean_expression.py)
 * [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.py)
