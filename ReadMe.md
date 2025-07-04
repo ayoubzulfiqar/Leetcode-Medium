@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Vowels in a Substring of Given Length](MaximumNumberofVowelsinaSubstringofGivenLength/maximum_number_of_vowels_in_a_substring_of_given_length.py)
 * [Active Users](ActiveUsers/active_users.py)
 * [People Whose List of Favorite Companies Is Not a Subset of Another List](PeopleWhoseListofFavoriteCompaniesIsNotaSubsetofAnotherList/people_whose_list_of_favorite_companies_is_not_a_subset_of_another_list.py)
 * [Rearrange Words in a Sentence](RearrangeWordsinaSentence/rearrange_words_in_a_sentence.py)
