@@ -1,5 +1,6 @@
 
 ## Medium
+* [The k Strongest Values in an Array](ThekStrongestValuesinanArray/the_k_strongest_values_in_an_array.py)
 * [Calculate Salaries](CalculateSalaries/calculate_salaries.py)
 * [Reorder Routes to Make All Paths Lead to the City Zero](ReorderRoutestoMakeAllPathsLeadtotheCityZero/reorder_routes_to_make_all_paths_lead_to_the_city_zero.py)
 * [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCuts/maximum_area_of_a_piece_of_cake_after_horizontal_and_vertical_cuts.py)
