@@ -1,5 +1,6 @@
 
 ## Medium
+* [Delete Tree Nodes](DeleteTreeNodes/delete_tree_nodes.py)
 * [Remove Interval](RemoveInterval/remove_interval.py)
 * [All People Report to the Given Manager](AllPeopleReporttotheGivenManager/all_people_report_to_the_given_manager.py)
 * [Search Suggestions System](SearchSuggestionsSystem/search_suggestions_system.py)
