@@ -1,5 +1,6 @@
 
 ## Medium
+* [Reduce Array Size to The Half](ReduceArraySizetoTheHalf/reduce_array_size_to_the_half.py)
 * [Find the City With the Smallest Number of Neighbors at a Threshold Distance](FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance/find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.py)
 * [Filter Restaurants by Vegan-Friendly, Price and Distance](FilterRestaurantsbyVegan-Friendly,PriceandDistance/filter_restaurants_by_vegan-friendly,_price_and_distance.py)
 * [Sort the Matrix Diagonally](SorttheMatrixDiagonally/sort_the_matrix_diagonally.py)
