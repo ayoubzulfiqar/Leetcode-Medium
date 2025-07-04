@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Happy String](LongestHappyString/longest_happy_string.py)
 * [Number of Steps to Reduce a Number in Binary Representation to One](NumberofStepstoReduceaNumberinBinaryRepresentationtoOne/number_of_steps_to_reduce_a_number_in_binary_representation_to_one.py)
 * [Circle and Rectangle Overlapping](CircleandRectangleOverlapping/circle_and_rectangle_overlapping.py)
 * [Construct K Palindrome Strings](ConstructKPalindromeStrings/construct_k_palindrome_strings.py)
