@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design Browser History](DesignBrowserHistory/design_browser_history.py)
 * [The k Strongest Values in an Array](ThekStrongestValuesinanArray/the_k_strongest_values_in_an_array.py)
 * [Calculate Salaries](CalculateSalaries/calculate_salaries.py)
 * [Reorder Routes to Make All Paths Lead to the City Zero](ReorderRoutestoMakeAllPathsLeadtotheCityZero/reorder_routes_to_make_all_paths_lead_to_the_city_zero.py)
