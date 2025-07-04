@@ -1,5 +1,6 @@
 
 ## Medium
+* [The kth Factor of n](ThekthFactorofn/the_kth_factor_of_n.py)
 * [Clone N-ary Tree](CloneN-aryTree/clone_n-ary_tree.py)
 * [Making File Names Unique](MakingFileNamesUnique/making_file_names_unique.py)
 * [Clone Binary Tree With Random Pointer](CloneBinaryTreeWithRandomPointer/clone_binary_tree_with_random_pointer.py)
