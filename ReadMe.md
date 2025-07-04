@@ -1,5 +1,6 @@
 
 ## Medium
+* [All People Report to the Given Manager](AllPeopleReporttotheGivenManager/all_people_report_to_the_given_manager.py)
 * [Search Suggestions System](SearchSuggestionsSystem/search_suggestions_system.py)
 * [Count Servers that Communicate](CountServersthatCommunicate/count_servers_that_communicate.py)
 * [Print Immutable Linked List in Reverse](PrintImmutableLinkedListinReverse/print_immutable_linked_list_in_reverse.py)
