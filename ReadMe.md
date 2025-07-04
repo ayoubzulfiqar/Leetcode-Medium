@@ -1,5 +1,6 @@
 
 ## Medium
+* [Magnetic Force Between Two Balls](MagneticForceBetweenTwoBalls/magnetic_force_between_two_balls.py)
 * [Minimum Operations to Make Array Equal](MinimumOperationstoMakeArrayEqual/minimum_operations_to_make_array_equal.py)
 * [The Most Recent Orders for Each Product](TheMostRecentOrdersforEachProduct/the_most_recent_orders_for_each_product.py)
 * [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](MaximumNumberofNon-OverlappingSubarraysWithSumEqualsTarget/maximum_number_of_non-overlapping_subarrays_with_sum_equals_target.py)
