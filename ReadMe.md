@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Profit of Operating a Centennial Wheel](MaximumProfitofOperatingaCentennialWheel/maximum_profit_of_operating_a_centennial_wheel.py)
 * [The Most Frequently Ordered Products for Each Customer](TheMostFrequentlyOrderedProductsforEachCustomer/the_most_frequently_ordered_products_for_each_customer.py)
 * [Maximum Non Negative Product in a Matrix](MaximumNonNegativeProductinaMatrix/maximum_non_negative_product_in_a_matrix.py)
 * [Split a String Into the Max Number of Unique Substrings](SplitaStringIntotheMaxNumberofUniqueSubstrings/split_a_string_into_the_max_number_of_unique_substrings.py)
