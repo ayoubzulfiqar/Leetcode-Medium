@@ -1,5 +1,6 @@
 
 ## Medium
+* [Arithmetic Subarrays](ArithmeticSubarrays/arithmetic_subarrays.py)
 * [Design an Expression Tree With Evaluate Function](DesignanExpressionTreeWithEvaluateFunction/design_an_expression_tree_with_evaluate_function.py)
 * [Best Team With No Conflicts](BestTeamWithNoConflicts/best_team_with_no_conflicts.py)
 * [Lexicographically Smallest String After Applying Operations](LexicographicallySmallestStringAfterApplyingOperations/lexicographically_smallest_string_after_applying_operations.py)
