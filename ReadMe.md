@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Subsequences That Satisfy the Given Sum Condition](NumberofSubsequencesThatSatisfytheGivenSumCondition/number_of_subsequences_that_satisfy_the_given_sum_condition.py)
 * [Check If Array Pairs Are Divisible by k](CheckIfArrayPairsAreDivisiblebyk/check_if_array_pairs_are_divisible_by_k.py)
 * [Longest Subarray of 1's After Deleting One Element](LongestSubarrayof1'sAfterDeletingOneElement/longest_subarray_of_1's_after_deleting_one_element.py)
 * [The kth Factor of n](ThekthFactorofn/the_kth_factor_of_n.py)
