@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](MaximumNumberofNon-OverlappingSubarraysWithSumEqualsTarget/maximum_number_of_non-overlapping_subarrays_with_sum_equals_target.py)
 * [Find Kth Bit in Nth Binary String](FindKthBitinNthBinaryString/find_kth_bit_in_nth_binary_string.py)
 * [Can Convert String in K Moves](CanConvertStringinKMoves/can_convert_string_in_k_moves.py)
 * [Minimum Swaps to Arrange a Binary Grid](MinimumSwapstoArrangeaBinaryGrid/minimum_swaps_to_arrange_a_binary_grid.py)
