@@ -1,5 +1,6 @@
 
 ## Medium
+* [Path With Minimum Effort](PathWithMinimumEffort/path_with_minimum_effort.py)
 * [Arithmetic Subarrays](ArithmeticSubarrays/arithmetic_subarrays.py)
 * [Design an Expression Tree With Evaluate Function](DesignanExpressionTreeWithEvaluateFunction/design_an_expression_tree_with_evaluate_function.py)
 * [Best Team With No Conflicts](BestTeamWithNoConflicts/best_team_with_no_conflicts.py)
