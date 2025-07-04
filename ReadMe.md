@@ -1,5 +1,6 @@
 
 ## Medium
+* [Linked List in Binary Tree](LinkedListinBinaryTree/linked_list_in_binary_tree.py)
 * [Rank Teams by Votes](RankTeamsbyVotes/rank_teams_by_votes.py)
 * [Number of Trusted Contacts of a Customer](NumberofTrustedContactsofaCustomer/number_of_trusted_contacts_of_a_customer.py)
 * [Closest Divisors](ClosestDivisors/closest_divisors.py)
