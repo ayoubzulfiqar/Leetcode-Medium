@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Good Leaf Nodes Pairs](NumberofGoodLeafNodesPairs/number_of_good_leaf_nodes_pairs.py)
 * [Minimum Suffix Flips](MinimumSuffixFlips/minimum_suffix_flips.py)
 * [Number of Good Ways to Split a String](NumberofGoodWaystoSplitaString/number_of_good_ways_to_split_a_string.py)
 * [Number of Sub-arrays With Odd Sum](NumberofSub-arraysWithOddSum/number_of_sub-arrays_with_odd_sum.py)
