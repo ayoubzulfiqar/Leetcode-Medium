@@ -1,5 +1,6 @@
 
 ## Medium
+* [Cinema Seat Allocation](CinemaSeatAllocation/cinema_seat_allocation.py)
 * [Balance a Binary Search Tree](BalanceaBinarySearchTree/balance_a_binary_search_tree.py)
 * [Design a Stack With Increment Operation](DesignaStackWithIncrementOperation/design_a_stack_with_increment_operation.py)
 * [Time Needed to Inform All Employees](TimeNeededtoInformAllEmployees/time_needed_to_inform_all_employees.py)
