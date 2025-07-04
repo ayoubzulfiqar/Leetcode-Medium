@@ -1,5 +1,6 @@
 
 ## Medium
+* [Queries on a Permutation With Key](QueriesonaPermutationWithKey/queries_on_a_permutation_with_key.py)
 * [Longest Happy String](LongestHappyString/longest_happy_string.py)
 * [Number of Steps to Reduce a Number in Binary Representation to One](NumberofStepstoReduceaNumberinBinaryRepresentationtoOne/number_of_steps_to_reduce_a_number_in_binary_representation_to_one.py)
 * [Circle and Rectangle Overlapping](CircleandRectangleOverlapping/circle_and_rectangle_overlapping.py)
