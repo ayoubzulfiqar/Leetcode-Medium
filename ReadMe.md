@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Servers that Communicate](CountServersthatCommunicate/count_servers_that_communicate.py)
 * [Print Immutable Linked List in Reverse](PrintImmutableLinkedListinReverse/print_immutable_linked_list_in_reverse.py)
 * [Replace the Substring for Balanced String](ReplacetheSubstringforBalancedString/replace_the_substring_for_balanced_string.py)
 * [Minimum Knight Moves](MinimumKnightMoves/minimum_knight_moves.py)
