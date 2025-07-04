@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Sub-arrays With Odd Sum](NumberofSub-arraysWithOddSum/number_of_sub-arrays_with_odd_sum.py)
 * [Diameter of N-Ary Tree](DiameterofN-AryTree/diameter_of_n-ary_tree.py)
 * [Number of Nodes in the Sub-Tree With the Same Label](NumberofNodesintheSub-TreeWiththeSameLabel/number_of_nodes_in_the_sub-tree_with_the_same_label.py)
 * [Path with Maximum Probability](PathwithMaximumProbability/path_with_maximum_probability.py)
