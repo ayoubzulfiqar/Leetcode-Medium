@@ -1,5 +1,6 @@
 
 ## Medium
+* [Partition Array into Disjoint Intervals](PartitionArrayintoDisjointIntervals/partition_array_into_disjoint_intervals.py)
 * [Smallest Range II](SmallestRangeII/smallest_range_ii.py)
 * [Page Recommendations](PageRecommendations/page_recommendations.py)
 * [Greatest Sum Divisible by Three](GreatestSumDivisiblebyThree/greatest_sum_divisible_by_three.py)
