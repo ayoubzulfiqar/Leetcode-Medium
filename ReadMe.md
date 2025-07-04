@@ -1,5 +1,6 @@
 
 ## Medium
+* [Min Cost to Connect All Points](MinCosttoConnectAllPoints/min_cost_to_connect_all_points.py)
 * [Count Unhappy Friends](CountUnhappyFriends/count_unhappy_friends.py)
 * [Put Boxes Into the Warehouse II](PutBoxesIntotheWarehouseII/put_boxes_into_the_warehouse_ii.py)
 * [Minimum Time to Make Rope Colorful](MinimumTimetoMakeRopeColorful/minimum_time_to_make_rope_colorful.py)
