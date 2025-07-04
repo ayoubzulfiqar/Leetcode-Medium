@@ -1,5 +1,6 @@
 
 ## Medium
+* [Alert Using Same Key-Card Three or More Times in a One Hour Period](AlertUsingSameKey-CardThreeorMoreTimesinaOneHourPeriod/alert_using_same_key-card_three_or_more_times_in_a_one_hour_period.py)
 * [Find Nearest Right Node in Binary Tree](FindNearestRightNodeinBinaryTree/find_nearest_right_node_in_binary_tree.py)
 * [Throne Inheritance](ThroneInheritance/throne_inheritance.py)
 * [Maximum Profit of Operating a Centennial Wheel](MaximumProfitofOperatingaCentennialWheel/maximum_profit_of_operating_a_centennial_wheel.py)
