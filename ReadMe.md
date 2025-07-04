@@ -1,5 +1,6 @@
 
 ## Medium
+* [Dot Product of Two Sparse Vectors](DotProductofTwoSparseVectors/dot_product_of_two_sparse_vectors.py)
 * [Find Latest Group of Size M](FindLatestGroupofSizeM/find_latest_group_of_size_m.py)
 * [Maximum Number of Coins You Can Get](MaximumNumberofCoinsYouCanGet/maximum_number_of_coins_you_can_get.py)
 * [Detect Cycles in 2D Grid](DetectCyclesin2DGrid/detect_cycles_in_2d_grid.py)
