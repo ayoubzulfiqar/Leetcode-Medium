@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Flips to Make a OR b Equal to c](MinimumFlipstoMakeaORbEqualtoc/minimum_flips_to_make_a_or_b_equal_to_c.py)
 * [Sum of Nodes with Even-Valued Grandparent](SumofNodeswithEven-ValuedGrandparent/sum_of_nodes_with_even-valued_grandparent.py)
 * [Matrix Block Sum](MatrixBlockSum/matrix_block_sum.py)
 * [Get Watched Videos by Your Friends](GetWatchedVideosbyYourFriends/get_watched_videos_by_your_friends.py)
