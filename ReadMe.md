@@ -1,5 +1,6 @@
 
 ## Medium
+* [Simplified Fractions](SimplifiedFractions/simplified_fractions.py)
 * [Apples & Oranges](Apples&Oranges/apples_&_oranges.py)
 * [Minimum Time to Collect All Apples in a Tree](MinimumTimetoCollectAllApplesinaTree/minimum_time_to_collect_all_apples_in_a_tree.py)
 * [Count Triplets That Can Form Two Arrays of Equal XOR](CountTripletsThatCanFormTwoArraysofEqualXOR/count_triplets_that_can_form_two_arrays_of_equal_xor.py)
