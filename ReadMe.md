@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Coins You Can Get](MaximumNumberofCoinsYouCanGet/maximum_number_of_coins_you_can_get.py)
 * [Detect Cycles in 2D Grid](DetectCyclesin2DGrid/detect_cycles_in_2d_grid.py)
 * [Minimum Numbers of Function Calls to Make Target Array](MinimumNumbersofFunctionCallstoMakeTargetArray/minimum_numbers_of_function_calls_to_make_target_array.py)
 * [Minimum Number of Vertices to Reach All Nodes](MinimumNumberofVerticestoReachAllNodes/minimum_number_of_vertices_to_reach_all_nodes.py)
