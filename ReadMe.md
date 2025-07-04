@@ -1,5 +1,6 @@
 
 ## Medium
+* [Restaurant Growth](RestaurantGrowth/restaurant_growth.py)
 * [Number of Operations to Make Network Connected](NumberofOperationstoMakeNetworkConnected/number_of_operations_to_make_network_connected.py)
 * [Minimum Flips to Make a OR b Equal to c](MinimumFlipstoMakeaORbEqualtoc/minimum_flips_to_make_a_or_b_equal_to_c.py)
 * [Sum of Nodes with Even-Valued Grandparent](SumofNodeswithEven-ValuedGrandparent/sum_of_nodes_with_even-valued_grandparent.py)
