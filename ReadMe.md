@@ -1,5 +1,6 @@
 
 ## Medium
+* [All Elements in Two Binary Search Trees](AllElementsinTwoBinarySearchTrees/all_elements_in_two_binary_search_trees.py)
 * [Deepest Leaves Sum](DeepestLeavesSum/deepest_leaves_sum.py)
 * [Maximum Number of Occurrences of a Substring](MaximumNumberofOccurrencesofaSubstring/maximum_number_of_occurrences_of_a_substring.py)
 * [Divide Array in Sets of K Consecutive Numbers](DivideArrayinSetsofKConsecutiveNumbers/divide_array_in_sets_of_k_consecutive_numbers.py)
