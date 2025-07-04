@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Burgers with No Waste of Ingredients](NumberofBurgerswithNoWasteofIngredients/number_of_burgers_with_no_waste_of_ingredients.py)
 * [Delete Tree Nodes](DeleteTreeNodes/delete_tree_nodes.py)
 * [Remove Interval](RemoveInterval/remove_interval.py)
 * [All People Report to the Given Manager](AllPeopleReporttotheGivenManager/all_people_report_to_the_given_manager.py)
