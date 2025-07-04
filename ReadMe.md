@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Good Nodes in Binary Tree](CountGoodNodesinBinaryTree/count_good_nodes_in_binary_tree.py)
 * [Simplified Fractions](SimplifiedFractions/simplified_fractions.py)
 * [Apples & Oranges](Apples&Oranges/apples_&_oranges.py)
 * [Minimum Time to Collect All Apples in a Tree](MinimumTimetoCollectAllApplesinaTree/minimum_time_to_collect_all_apples_in_a_tree.py)
