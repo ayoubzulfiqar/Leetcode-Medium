@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Unhappy Friends](CountUnhappyFriends/count_unhappy_friends.py)
 * [Put Boxes Into the Warehouse II](PutBoxesIntotheWarehouseII/put_boxes_into_the_warehouse_ii.py)
 * [Minimum Time to Make Rope Colorful](MinimumTimetoMakeRopeColorful/minimum_time_to_make_rope_colorful.py)
 * [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](NumberofWaysWhereSquareofNumberIsEqualtoProductofTwoNumbers/number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers.py)
