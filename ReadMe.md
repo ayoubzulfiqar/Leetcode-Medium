@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Subarray of 1's After Deleting One Element](LongestSubarrayof1'sAfterDeletingOneElement/longest_subarray_of_1's_after_deleting_one_element.py)
 * [The kth Factor of n](ThekthFactorofn/the_kth_factor_of_n.py)
 * [Clone N-ary Tree](CloneN-aryTree/clone_n-ary_tree.py)
 * [Making File Names Unique](MakingFileNamesUnique/making_file_names_unique.py)
