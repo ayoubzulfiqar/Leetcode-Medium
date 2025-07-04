@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Substrings Containing All Three Characters](NumberofSubstringsContainingAllThreeCharacters/number_of_substrings_containing_all_three_characters.py)
 * [Apply Discount Every n Orders](ApplyDiscountEverynOrders/apply_discount_every_n_orders.py)
 * [Activity Participants](ActivityParticipants/activity_participants.py)
 * [Maximum Number of Events That Can Be Attended](MaximumNumberofEventsThatCanBeAttended/maximum_number_of_events_that_can_be_attended.py)
