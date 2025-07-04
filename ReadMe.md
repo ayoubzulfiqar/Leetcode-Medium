@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sum of Mutated Array Closest to Target](SumofMutatedArrayClosesttoTarget/sum_of_mutated_array_closest_to_target.py)
 * [Domino and Tromino Tiling](DominoandTrominoTiling/domino_and_tromino_tiling.py)
 * [Repeated String Match](RepeatedStringMatch/repeated_string_match.py)
 * [Insufficient Nodes in Root to Leaf Paths](InsufficientNodesinRoottoLeafPaths/insufficient_nodes_in_root_to_leaf_paths.py)
