@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest Way to Form String](ShortestWaytoFormString/shortest_way_to_form_string.py)
 * [Longest Turbulent Subarray](LongestTurbulentSubarray/longest_turbulent_subarray.py)
 * [Maximum Width Ramp](MaximumWidthRamp/maximum_width_ramp.py)
 * [Partition Array into Disjoint Intervals](PartitionArrayintoDisjointIntervals/partition_array_into_disjoint_intervals.py)
