@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sort the Matrix Diagonally](SorttheMatrixDiagonally/sort_the_matrix_diagonally.py)
 * [Break a Palindrome](BreakaPalindrome/break_a_palindrome.py)
 * [Delete Leaves With a Given Value](DeleteLeavesWithaGivenValue/delete_leaves_with_a_given_value.py)
 * [Print Words Vertically](PrintWordsVertically/print_words_vertically.py)
