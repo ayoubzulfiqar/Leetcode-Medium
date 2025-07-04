@@ -1,5 +1,6 @@
 
 ## Medium
+* [Rearrange Words in a Sentence](RearrangeWordsinaSentence/rearrange_words_in_a_sentence.py)
 * [Count Good Nodes in Binary Tree](CountGoodNodesinBinaryTree/count_good_nodes_in_binary_tree.py)
 * [Simplified Fractions](SimplifiedFractions/simplified_fractions.py)
 * [Apples & Oranges](Apples&Oranges/apples_&_oranges.py)
