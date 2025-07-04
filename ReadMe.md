@@ -1,5 +1,6 @@
 
 ## Medium
+* [Apply Discount Every n Orders](ApplyDiscountEverynOrders/apply_discount_every_n_orders.py)
 * [Activity Participants](ActivityParticipants/activity_participants.py)
 * [Maximum Number of Events That Can Be Attended](MaximumNumberofEventsThatCanBeAttended/maximum_number_of_events_that_can_be_attended.py)
 * [Product of the Last K Numbers](ProductoftheLastKNumbers/product_of_the_last_k_numbers.py)
