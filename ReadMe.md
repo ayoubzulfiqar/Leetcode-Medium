@@ -1,5 +1,6 @@
 
 ## Medium
+* [Customers Who Bought Products A and B but Not C](CustomersWhoBoughtProductsAandBbutNotC/customers_who_bought_products_a_and_b_but_not_c.py)
 * [Design Underground System](DesignUndergroundSystem/design_underground_system.py)
 * [Count Number of Teams](CountNumberofTeams/count_number_of_teams.py)
 * [Capital Gain Loss](CapitalGainLoss/capital_gain_loss.py)
