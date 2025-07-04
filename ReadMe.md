@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Substrings With Only 1s](NumberofSubstringsWithOnly1s/number_of_substrings_with_only_1s.py)
 * [Minimum Difference Between Largest and Smallest Value in Three Moves](MinimumDifferenceBetweenLargestandSmallestValueinThreeMoves/minimum_difference_between_largest_and_smallest_value_in_three_moves.py)
 * [Range Sum of Sorted Subarray Sums](RangeSumofSortedSubarraySums/range_sum_of_sorted_subarray_sums.py)
 * [Find Root of N-Ary Tree](FindRootofN-AryTree/find_root_of_n-ary_tree.py)
