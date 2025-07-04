@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Font to Fit a Sentence in a Screen](MaximumFonttoFitaSentenceinaScreen/maximum_font_to_fit_a_sentence_in_a_screen.py)
 * [Split Two Strings to Make Palindrome](SplitTwoStringstoMakePalindrome/split_two_strings_to_make_palindrome.py)
 * [Maximal Network Rank](MaximalNetworkRank/maximal_network_rank.py)
 * [Find the Missing IDs](FindtheMissingIDs/find_the_missing_ids.py)
