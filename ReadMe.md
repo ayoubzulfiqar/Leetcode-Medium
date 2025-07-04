@@ -1,5 +1,6 @@
 
 ## Medium
+* [Rectangles Area](RectanglesArea/rectangles_area.py)
 * [Pseudo-Palindromic Paths in a Binary Tree](Pseudo-PalindromicPathsinaBinaryTree/pseudo-palindromic_paths_in_a_binary_tree.py)
 * [Maximum Number of Vowels in a Substring of Given Length](MaximumNumberofVowelsinaSubstringofGivenLength/maximum_number_of_vowels_in_a_substring_of_given_length.py)
 * [Active Users](ActiveUsers/active_users.py)
