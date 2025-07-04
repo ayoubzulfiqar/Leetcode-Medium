@@ -1,5 +1,6 @@
 
 ## Medium
+* [Domino and Tromino Tiling](DominoandTrominoTiling/domino_and_tromino_tiling.py)
 * [Repeated String Match](RepeatedStringMatch/repeated_string_match.py)
 * [Insufficient Nodes in Root to Leaf Paths](InsufficientNodesinRoottoLeafPaths/insufficient_nodes_in_root_to_leaf_paths.py)
 * [Minimum Area Rectangle II](MinimumAreaRectangleII/minimum_area_rectangle_ii.py)
