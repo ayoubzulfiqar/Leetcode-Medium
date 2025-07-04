@@ -1,5 +1,6 @@
 
 ## Medium
+* [Countries You Can Safely Invest In](CountriesYouCanSafelyInvestIn/countries_you_can_safely_invest_in.py)
 * [Design a File Sharing System](DesignaFileSharingSystem/design_a_file_sharing_system.py)
 * [Number of Subsequences That Satisfy the Given Sum Condition](NumberofSubsequencesThatSatisfytheGivenSumCondition/number_of_subsequences_that_satisfy_the_given_sum_condition.py)
 * [Check If Array Pairs Are Divisible by k](CheckIfArrayPairsAreDivisiblebyk/check_if_array_pairs_are_divisible_by_k.py)
