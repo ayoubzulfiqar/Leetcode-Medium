@@ -1,5 +1,6 @@
 
 ## Medium
+* [Insufficient Nodes in Root to Leaf Paths](InsufficientNodesinRoottoLeafPaths/insufficient_nodes_in_root_to_leaf_paths.py)
 * [Minimum Area Rectangle II](MinimumAreaRectangleII/minimum_area_rectangle_ii.py)
 * [Circular Array Loop](CircularArrayLoop/circular_array_loop.py)
 * [Sum of Two Integers](SumofTwoIntegers/sum_of_two_integers.py)
