@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Width Ramp](MaximumWidthRamp/maximum_width_ramp.py)
 * [Partition Array into Disjoint Intervals](PartitionArrayintoDisjointIntervals/partition_array_into_disjoint_intervals.py)
 * [Smallest Range II](SmallestRangeII/smallest_range_ii.py)
 * [Page Recommendations](PageRecommendations/page_recommendations.py)
