@@ -1,5 +1,6 @@
 
 ## Medium
+* [The k-th Lexicographical String of All Happy Strings of Length n](Thek-thLexicographicalStringofAllHappyStringsofLengthn/the_k-th_lexicographical_string_of_all_happy_strings_of_length_n.py)
 * [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](FindtheMinimumNumberofFibonacciNumbersWhoseSumIsK/find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.py)
 * [HTML Entity Parser](HTMLEntityParser/html_entity_parser.py)
 * [Queries on a Permutation With Key](QueriesonaPermutationWithKey/queries_on_a_permutation_with_key.py)
