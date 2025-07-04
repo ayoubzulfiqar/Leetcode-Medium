@@ -1,5 +1,6 @@
 
 ## Medium
+* [Jump Game III](JumpGameIII/jump_game_iii.py)
 * [All Elements in Two Binary Search Trees](AllElementsinTwoBinarySearchTrees/all_elements_in_two_binary_search_trees.py)
 * [Deepest Leaves Sum](DeepestLeavesSum/deepest_leaves_sum.py)
 * [Maximum Number of Occurrences of a Substring](MaximumNumberofOccurrencesofaSubstring/maximum_number_of_occurrences_of_a_substring.py)
