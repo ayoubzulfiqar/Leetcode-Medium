@@ -1,5 +1,6 @@
 
 ## Medium
+* [First Unique Number](FirstUniqueNumber/first_unique_number.py)
 * [Leftmost Column with at Least a One](LeftmostColumnwithatLeastaOne/leftmost_column_with_at_least_a_one.py)
 * [Diagonal Traverse II](DiagonalTraverseII/diagonal_traverse_ii.py)
 * [Maximum Points You Can Obtain from Cards](MaximumPointsYouCanObtainfromCards/maximum_points_you_can_obtain_from_cards.py)
