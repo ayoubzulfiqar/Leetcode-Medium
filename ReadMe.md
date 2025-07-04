@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Two Non-overlapping Sub-arrays Each With Target Sum](FindTwoNon-overlappingSub-arraysEachWithTargetSum/find_two_non-overlapping_sub-arrays_each_with_target_sum.py)
 * [Subrectangle Queries](SubrectangleQueries/subrectangle_queries.py)
 * [Design Browser History](DesignBrowserHistory/design_browser_history.py)
 * [The k Strongest Values in an Array](ThekStrongestValuesinanArray/the_k_strongest_values_in_an_array.py)
