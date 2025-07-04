@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Vertices to Reach All Nodes](MinimumNumberofVerticestoReachAllNodes/minimum_number_of_vertices_to_reach_all_nodes.py)
 * [Bank Account Summary](BankAccountSummary/bank_account_summary.py)
 * [Strings Differ by One Character](StringsDifferbyOneCharacter/strings_differ_by_one_character.py)
 * [Magnetic Force Between Two Balls](MagneticForceBetweenTwoBalls/magnetic_force_between_two_balls.py)
