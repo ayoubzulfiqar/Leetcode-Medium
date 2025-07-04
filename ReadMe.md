@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](NumberofSub-arraysofSizeKandAverageGreaterthanorEqualtoThreshold/number_of_sub-arrays_of_size_k_and_average_greater_than_or_equal_to_threshold.py)
 * [Movie Rating](MovieRating/movie_rating.py)
 * [Maximum Product of Splitted Binary Tree](MaximumProductofSplittedBinaryTree/maximum_product_of_splitted_binary_tree.py)
 * [Reduce Array Size to The Half](ReduceArraySizetoTheHalf/reduce_array_size_to_the_half.py)
