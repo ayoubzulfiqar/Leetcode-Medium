@@ -1,5 +1,6 @@
 
 ## Medium
+* [Validate Binary Tree Nodes](ValidateBinaryTreeNodes/validate_binary_tree_nodes.py)
 * [Number of Substrings Containing All Three Characters](NumberofSubstringsContainingAllThreeCharacters/number_of_substrings_containing_all_three_characters.py)
 * [Apply Discount Every n Orders](ApplyDiscountEverynOrders/apply_discount_every_n_orders.py)
 * [Activity Participants](ActivityParticipants/activity_participants.py)
