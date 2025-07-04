@@ -1,5 +1,6 @@
 
 ## Medium
+* [XOR Queries of a Subarray](XORQueriesofaSubarray/xor_queries_of_a_subarray.py)
 * [Running Total for Different Genders](RunningTotalforDifferentGenders/running_total_for_different_genders.py)
 * [Jump Game III](JumpGameIII/jump_game_iii.py)
 * [All Elements in Two Binary Search Trees](AllElementsinTwoBinarySearchTrees/all_elements_in_two_binary_search_trees.py)
