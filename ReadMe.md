@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Nearest Right Node in Binary Tree](FindNearestRightNodeinBinaryTree/find_nearest_right_node_in_binary_tree.py)
 * [Throne Inheritance](ThroneInheritance/throne_inheritance.py)
 * [Maximum Profit of Operating a Centennial Wheel](MaximumProfitofOperatingaCentennialWheel/maximum_profit_of_operating_a_centennial_wheel.py)
 * [The Most Frequently Ordered Products for Each Customer](TheMostFrequentlyOrderedProductsforEachCustomer/the_most_frequently_ordered_products_for_each_customer.py)
