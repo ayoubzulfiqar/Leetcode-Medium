@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Nodes in the Sub-Tree With the Same Label](NumberofNodesintheSub-TreeWiththeSameLabel/number_of_nodes_in_the_sub-tree_with_the_same_label.py)
 * [Path with Maximum Probability](PathwithMaximumProbability/path_with_maximum_probability.py)
 * [Number of Substrings With Only 1s](NumberofSubstringsWithOnly1s/number_of_substrings_with_only_1s.py)
 * [Minimum Difference Between Largest and Smallest Value in Three Moves](MinimumDifferenceBetweenLargestandSmallestValueinThreeMoves/minimum_difference_between_largest_and_smallest_value_in_three_moves.py)
