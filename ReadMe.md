@@ -1,5 +1,6 @@
 
 ## Medium
+* [Least Number of Unique Integers after K Removals](LeastNumberofUniqueIntegersafterKRemovals/least_number_of_unique_integers_after_k_removals.py)
 * [Find Two Non-overlapping Sub-arrays Each With Target Sum](FindTwoNon-overlappingSub-arraysEachWithTargetSum/find_two_non-overlapping_sub-arrays_each_with_target_sum.py)
 * [Subrectangle Queries](SubrectangleQueries/subrectangle_queries.py)
 * [Design Browser History](DesignBrowserHistory/design_browser_history.py)
