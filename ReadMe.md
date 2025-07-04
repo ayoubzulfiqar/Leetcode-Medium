@@ -1,5 +1,6 @@
 
 ## Medium
+* [Four Divisors](FourDivisors/four_divisors.py)
 * [Sort Integers by The Power Value](SortIntegersbyThePowerValue/sort_integers_by_the_power_value.py)
 * [Cinema Seat Allocation](CinemaSeatAllocation/cinema_seat_allocation.py)
 * [Balance a Binary Search Tree](BalanceaBinarySearchTree/balance_a_binary_search_tree.py)
