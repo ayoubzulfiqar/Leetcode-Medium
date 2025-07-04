@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Substrings That Differ by One Character](CountSubstringsThatDifferbyOneCharacter/count_substrings_that_differ_by_one_character.py)
 * [Add Two Polynomials Represented as Linked Lists](AddTwoPolynomialsRepresentedasLinkedLists/add_two_polynomials_represented_as_linked_lists.py)
 * [Path With Minimum Effort](PathWithMinimumEffort/path_with_minimum_effort.py)
 * [Arithmetic Subarrays](ArithmeticSubarrays/arithmetic_subarrays.py)
