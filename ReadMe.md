@@ -1,5 +1,6 @@
 
 ## Medium
+* [Matrix Block Sum](MatrixBlockSum/matrix_block_sum.py)
 * [Get Watched Videos by Your Friends](GetWatchedVideosbyYourFriends/get_watched_videos_by_your_friends.py)
 * [XOR Queries of a Subarray](XORQueriesofaSubarray/xor_queries_of_a_subarray.py)
 * [Running Total for Different Genders](RunningTotalforDifferentGenders/running_total_for_different_genders.py)
