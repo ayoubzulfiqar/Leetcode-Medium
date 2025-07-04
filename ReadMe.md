@@ -1,5 +1,6 @@
 
 ## Medium
+* [People Whose List of Favorite Companies Is Not a Subset of Another List](PeopleWhoseListofFavoriteCompaniesIsNotaSubsetofAnotherList/people_whose_list_of_favorite_companies_is_not_a_subset_of_another_list.py)
 * [Rearrange Words in a Sentence](RearrangeWordsinaSentence/rearrange_words_in_a_sentence.py)
 * [Count Good Nodes in Binary Tree](CountGoodNodesinBinaryTree/count_good_nodes_in_binary_tree.py)
 * [Simplified Fractions](SimplifiedFractions/simplified_fractions.py)
