@@ -1,5 +1,6 @@
 
 ## Medium
+* [Filter Restaurants by Vegan-Friendly, Price and Distance](FilterRestaurantsbyVegan-Friendly,PriceandDistance/filter_restaurants_by_vegan-friendly,_price_and_distance.py)
 * [Sort the Matrix Diagonally](SorttheMatrixDiagonally/sort_the_matrix_diagonally.py)
 * [Break a Palindrome](BreakaPalindrome/break_a_palindrome.py)
 * [Delete Leaves With a Given Value](DeleteLeavesWithaGivenValue/delete_leaves_with_a_given_value.py)
