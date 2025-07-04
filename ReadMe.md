@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design a Stack With Increment Operation](DesignaStackWithIncrementOperation/design_a_stack_with_increment_operation.py)
 * [Time Needed to Inform All Employees](TimeNeededtoInformAllEmployees/time_needed_to_inform_all_employees.py)
 * [Number of Times Binary String Is Prefix-Aligned](NumberofTimesBinaryStringIsPrefix-Aligned/number_of_times_binary_string_is_prefix-aligned.py)
 * [Longest ZigZag Path in a Binary Tree](LongestZigZagPathinaBinaryTree/longest_zigzag_path_in_a_binary_tree.py)
