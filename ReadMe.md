@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Numbers of Function Calls to Make Target Array](MinimumNumbersofFunctionCallstoMakeTargetArray/minimum_numbers_of_function_calls_to_make_target_array.py)
 * [Minimum Number of Vertices to Reach All Nodes](MinimumNumberofVerticestoReachAllNodes/minimum_number_of_vertices_to_reach_all_nodes.py)
 * [Bank Account Summary](BankAccountSummary/bank_account_summary.py)
 * [Strings Differ by One Character](StringsDifferbyOneCharacter/strings_differ_by_one_character.py)
