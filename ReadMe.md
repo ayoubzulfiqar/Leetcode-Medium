@@ -1,5 +1,6 @@
 
 ## Medium
+* [Alphabet Board Path](AlphabetBoardPath/alphabet_board_path.py)
 * [Campus Bikes II](CampusBikesII/campus_bikes_ii.py)
 * [Longest Repeating Substring](LongestRepeatingSubstring/longest_repeating_substring.py)
 * [Lexicographically Smallest Equivalent String](LexicographicallySmallestEquivalentString/lexicographically_smallest_equivalent_string.py)
