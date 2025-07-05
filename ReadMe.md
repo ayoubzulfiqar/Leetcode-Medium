@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Calls Between Two Persons](NumberofCallsBetweenTwoPersons/number_of_calls_between_two_persons.py)
 * [Number of Distinct Substrings in a String](NumberofDistinctSubstringsinaString/number_of_distinct_substrings_in_a_string.py)
 * [Jump Game VI](JumpGameVI/jump_game_vi.py)
 * [Maximum Erasure Value](MaximumErasureValue/maximum_erasure_value.py)
