@@ -1,5 +1,6 @@
 
 ## Medium
+* [Put Boxes Into the Warehouse I](PutBoxesIntotheWarehouseI/put_boxes_into_the_warehouse_i.py)
 * [Minimum Number of Frogs Croaking](MinimumNumberofFrogsCroaking/minimum_number_of_frogs_croaking.py)
 * [Coordinate With Maximum Network Quality](CoordinateWithMaximumNetworkQuality/coordinate_with_maximum_network_quality.py)
 * [Maximum Length of Subarray With Positive Product](MaximumLengthofSubarrayWithPositiveProduct/maximum_length_of_subarray_with_positive_product.py)
