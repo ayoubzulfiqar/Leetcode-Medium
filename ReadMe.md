@@ -1,5 +1,6 @@
 
 ## Medium
+* [Stone Game VI](StoneGameVI/stone_game_vi.py)
 * [Sum of Absolute Differences in a Sorted Array](SumofAbsoluteDifferencesinaSortedArray/sum_of_absolute_differences_in_a_sorted_array.py)
 * [Longest Palindromic Subsequence II](LongestPalindromicSubsequenceII/longest_palindromic_subsequence_ii.py)
 * [Concatenation of Consecutive Binary Numbers](ConcatenationofConsecutiveBinaryNumbers/concatenation_of_consecutive_binary_numbers.py)
