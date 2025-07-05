@@ -1,5 +1,6 @@
 
 ## Medium
+* [Jump Game VI](JumpGameVI/jump_game_vi.py)
 * [Maximum Erasure Value](MaximumErasureValue/maximum_erasure_value.py)
 * [Partitioning Into Minimum Number Of Deci-Binary Numbers](PartitioningIntoMinimumNumberOfDeci-BinaryNumbers/partitioning_into_minimum_number_of_deci-binary_numbers.py)
 * [Stone Game VI](StoneGameVI/stone_game_vi.py)
