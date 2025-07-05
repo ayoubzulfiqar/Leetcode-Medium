@@ -1,5 +1,6 @@
 
 ## Medium
+* [Construct the Lexicographically Largest Valid Sequence](ConstructtheLexicographicallyLargestValidSequence/construct_the_lexicographically_largest_valid_sequence.py)
 * [Maximum Score From Removing Substrings](MaximumScoreFromRemovingSubstrings/maximum_score_from_removing_substrings.py)
 * [Count Apples and Oranges](CountApplesandOranges/count_apples_and_oranges.py)
 * [Count Good Meals](CountGoodMeals/count_good_meals.py)
