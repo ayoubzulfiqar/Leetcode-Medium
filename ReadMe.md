@@ -1,5 +1,6 @@
 
 ## Medium
+* [Largest Submatrix With Rearrangements](LargestSubmatrixWithRearrangements/largest_submatrix_with_rearrangements.py)
 * [Tuple with Same Product](TuplewithSameProduct/tuple_with_same_product.py)
 * [Minimize Hamming Distance After Swap Operations](MinimizeHammingDistanceAfterSwapOperations/minimize_hamming_distance_after_swap_operations.py)
 * [Swapping Nodes in a Linked List](SwappingNodesinaLinkedList/swapping_nodes_in_a_linked_list.py)
