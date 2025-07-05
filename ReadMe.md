@@ -1,5 +1,6 @@
 
 ## Medium
+* [Partitioning Into Minimum Number Of Deci-Binary Numbers](PartitioningIntoMinimumNumberOfDeci-BinaryNumbers/partitioning_into_minimum_number_of_deci-binary_numbers.py)
 * [Stone Game VI](StoneGameVI/stone_game_vi.py)
 * [Sum of Absolute Differences in a Sorted Array](SumofAbsoluteDifferencesinaSortedArray/sum_of_absolute_differences_in_a_sorted_array.py)
 * [Longest Palindromic Subsequence II](LongestPalindromicSubsequenceII/longest_palindromic_subsequence_ii.py)
