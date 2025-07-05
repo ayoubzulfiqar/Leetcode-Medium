@@ -1,5 +1,6 @@
 
 ## Medium
+* [Tuple with Same Product](TuplewithSameProduct/tuple_with_same_product.py)
 * [Minimize Hamming Distance After Swap Operations](MinimizeHammingDistanceAfterSwapOperations/minimize_hamming_distance_after_swap_operations.py)
 * [Swapping Nodes in a Linked List](SwappingNodesinaLinkedList/swapping_nodes_in_a_linked_list.py)
 * [Construct the Lexicographically Largest Valid Sequence](ConstructtheLexicographicallyLargestValidSequence/construct_the_lexicographically_largest_valid_sequence.py)
