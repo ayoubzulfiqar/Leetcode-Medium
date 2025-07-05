@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sum of Absolute Differences in a Sorted Array](SumofAbsoluteDifferencesinaSortedArray/sum_of_absolute_differences_in_a_sorted_array.py)
 * [Longest Palindromic Subsequence II](LongestPalindromicSubsequenceII/longest_palindromic_subsequence_ii.py)
 * [Concatenation of Consecutive Binary Numbers](ConcatenationofConsecutiveBinaryNumbers/concatenation_of_consecutive_binary_numbers.py)
 * [Max Number of K-Sum Pairs](MaxNumberofK-SumPairs/max_number_of_k-sum_pairs.py)
