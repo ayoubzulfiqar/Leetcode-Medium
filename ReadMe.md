@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Distinct Substrings in a String](NumberofDistinctSubstringsinaString/number_of_distinct_substrings_in_a_string.py)
 * [Jump Game VI](JumpGameVI/jump_game_vi.py)
 * [Maximum Erasure Value](MaximumErasureValue/maximum_erasure_value.py)
 * [Partitioning Into Minimum Number Of Deci-Binary Numbers](PartitioningIntoMinimumNumberOfDeci-BinaryNumbers/partitioning_into_minimum_number_of_deci-binary_numbers.py)
