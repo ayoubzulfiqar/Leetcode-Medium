@@ -1,5 +1,6 @@
 
 ## Medium
+* [Change Minimum Characters to Satisfy One of Three Conditions](ChangeMinimumCharacterstoSatisfyOneofThreeConditions/change_minimum_characters_to_satisfy_one_of_three_conditions.py)
 * [Decode XORed Permutation](DecodeXORedPermutation/decode_xored_permutation.py)
 * [Minimum Number of People to Teach](MinimumNumberofPeopletoTeach/minimum_number_of_people_to_teach.py)
 * [Shortest Path to Get Food](ShortestPathtoGetFood/shortest_path_to_get_food.py)
