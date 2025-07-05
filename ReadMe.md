@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Frogs Croaking](MinimumNumberofFrogsCroaking/minimum_number_of_frogs_croaking.py)
 * [Coordinate With Maximum Network Quality](CoordinateWithMaximumNetworkQuality/coordinate_with_maximum_network_quality.py)
 * [Maximum Length of Subarray With Positive Product](MaximumLengthofSubarrayWithPositiveProduct/maximum_length_of_subarray_with_positive_product.py)
 * [Guess the Majority in a Hidden Array](GuesstheMajorityinaHiddenArray/guess_the_majority_in_a_hidden_array.py)
