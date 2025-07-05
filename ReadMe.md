@@ -1,5 +1,6 @@
 
 ## Medium
+* [Smallest String With A Given Numeric Value](SmallestStringWithAGivenNumericValue/smallest_string_with_a_given_numeric_value.py)
 * [Correct a Binary Tree](CorrectaBinaryTree/correct_a_binary_tree.py)
 * [Minimum Operations to Reduce X to Zero](MinimumOperationstoReduceXtoZero/minimum_operations_to_reduce_x_to_zero.py)
 * [Determine if Two Strings Are Close](DetermineifTwoStringsAreClose/determine_if_two_strings_are_close.py)
