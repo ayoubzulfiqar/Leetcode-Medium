@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Kth Largest XOR Coordinate Value](FindKthLargestXORCoordinateValue/find_kth_largest_xor_coordinate_value.py)
 * [Change Minimum Characters to Satisfy One of Three Conditions](ChangeMinimumCharacterstoSatisfyOneofThreeConditions/change_minimum_characters_to_satisfy_one_of_three_conditions.py)
 * [Decode XORed Permutation](DecodeXORedPermutation/decode_xored_permutation.py)
 * [Minimum Number of People to Teach](MinimumNumberofPeopletoTeach/minimum_number_of_people_to_teach.py)
