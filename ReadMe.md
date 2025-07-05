@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of People to Teach](MinimumNumberofPeopletoTeach/minimum_number_of_people_to_teach.py)
 * [Shortest Path to Get Food](ShortestPathtoGetFood/shortest_path_to_get_food.py)
 * [Largest Submatrix With Rearrangements](LargestSubmatrixWithRearrangements/largest_submatrix_with_rearrangements.py)
 * [Tuple with Same Product](TuplewithSameProduct/tuple_with_same_product.py)
