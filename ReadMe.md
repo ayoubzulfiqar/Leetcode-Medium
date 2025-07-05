@@ -1,5 +1,6 @@
 
 ## Medium
+* [Correct a Binary Tree](CorrectaBinaryTree/correct_a_binary_tree.py)
 * [Minimum Operations to Reduce X to Zero](MinimumOperationstoReduceXtoZero/minimum_operations_to_reduce_x_to_zero.py)
 * [Determine if Two Strings Are Close](DetermineifTwoStringsAreClose/determine_if_two_strings_are_close.py)
 * [Minimum Deletions to Make String Balanced](MinimumDeletionstoMakeStringBalanced/minimum_deletions_to_make_string_balanced.py)
