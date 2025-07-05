@@ -1,5 +1,6 @@
 
 ## Medium
+* [Ways to Make a Fair Array](WaystoMakeaFairArray/ways_to_make_a_fair_array.py)
 * [Smallest String With A Given Numeric Value](SmallestStringWithAGivenNumericValue/smallest_string_with_a_given_numeric_value.py)
 * [Correct a Binary Tree](CorrectaBinaryTree/correct_a_binary_tree.py)
 * [Minimum Operations to Reduce X to Zero](MinimumOperationstoReduceXtoZero/minimum_operations_to_reduce_x_to_zero.py)
