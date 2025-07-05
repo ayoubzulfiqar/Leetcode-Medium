@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Most Competitive Subsequence](FindtheMostCompetitiveSubsequence/find_the_most_competitive_subsequence.py)
 * [Design Front Middle Back Queue](DesignFrontMiddleBackQueue/design_front_middle_back_queue.py)
 * [Ways to Make a Fair Array](WaystoMakeaFairArray/ways_to_make_a_fair_array.py)
 * [Smallest String With A Given Numeric Value](SmallestStringWithAGivenNumericValue/smallest_string_with_a_given_numeric_value.py)
