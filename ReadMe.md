@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Submatrices With All Ones](CountSubmatricesWithAllOnes/count_submatrices_with_all_ones.py)
 * [Prison Cells After N Days](PrisonCellsAfterNDays/prison_cells_after_n_days.py)
 * [Interleaving String](InterleavingString/interleaving_string.py)
 * [Lowest Common Ancestor of a Binary Tree II](LowestCommonAncestorofaBinaryTreeII/lowest_common_ancestor_of_a_binary_tree_ii.py)
