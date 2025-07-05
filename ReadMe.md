@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Score From Removing Substrings](MaximumScoreFromRemovingSubstrings/maximum_score_from_removing_substrings.py)
 * [Count Apples and Oranges](CountApplesandOranges/count_apples_and_oranges.py)
 * [Count Good Meals](CountGoodMeals/count_good_meals.py)
 * [Biggest Window Between Visits](BiggestWindowBetweenVisits/biggest_window_between_visits.py)
