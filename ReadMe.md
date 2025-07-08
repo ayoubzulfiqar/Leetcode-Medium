@@ -1,5 +1,6 @@
 
 ## Medium
+* [Splitting a String Into Descending Consecutive Values](SplittingaStringIntoDescendingConsecutiveValues/splitting_a_string_into_descending_consecutive_values.py)
 * [Maximum Element After Decreasing and Rearranging](MaximumElementAfterDecreasingandRearranging/maximum_element_after_decreasing_and_rearranging.py)
 * [Seat Reservation Manager](SeatReservationManager/seat_reservation_manager.py)
 * [Suspicious Bank Accounts](SuspiciousBankAccounts/suspicious_bank_accounts.py)
