@@ -1,5 +1,6 @@
 
 ## Medium
+* [Seat Reservation Manager](SeatReservationManager/seat_reservation_manager.py)
 * [Suspicious Bank Accounts](SuspiciousBankAccounts/suspicious_bank_accounts.py)
 * [League Statistics](LeagueStatistics/league_statistics.py)
 * [Longest Substring Of All Vowels in Order](LongestSubstringOfAllVowelsinOrder/longest_substring_of_all_vowels_in_order.py)
