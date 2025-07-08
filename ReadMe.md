@@ -1,5 +1,6 @@
 
 ## Medium
+* [New 21 Game](New21Game/new_21_game.py)
 * [Can I Win](CanIWin/can_i_win.py)
 * [Largest Number After Mutating Substring](LargestNumberAfterMutatingSubstring/largest_number_after_mutating_substring.py)
 * [Describe the Painting](DescribethePainting/describe_the_painting.py)
