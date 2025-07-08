@@ -1,5 +1,6 @@
 
 ## Medium
+* [Average Height of Buildings in Each Segment](AverageHeightofBuildingsinEachSegment/average_height_of_buildings_in_each_segment.py)
 * [Detect Squares](DetectSquares/detect_squares.py)
 * [Sum of Beauty in the Array](SumofBeautyintheArray/sum_of_beauty_in_the_array.py)
 * [Maximum Earnings From Taxi](MaximumEarningsFromTaxi/maximum_earnings_from_taxi.py)
