@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Good Numbers](CountGoodNumbers/count_good_numbers.py)
 * [Eliminate Maximum Number of Monsters](EliminateMaximumNumberofMonsters/eliminate_maximum_number_of_monsters.py)
 * [Kth Smallest Subarray Sum](KthSmallestSubarraySum/kth_smallest_subarray_sum.py)
 * [Number of Wonderful Substrings](NumberofWonderfulSubstrings/number_of_wonderful_substrings.py)
