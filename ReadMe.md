@@ -1,5 +1,6 @@
 
 ## Medium
+* [Brightest Position on Street](BrightestPositiononStreet/brightest_position_on_street.py)
 * [Number of Accounts That Did Not Stream](NumberofAccountsThatDidNotStream/number_of_accounts_that_did_not_stream.py)
 * [Check if Word Can Be Placed In Crossword](CheckifWordCanBePlacedInCrossword/check_if_word_can_be_placed_in_crossword.py)
 * [Average Height of Buildings in Each Segment](AverageHeightofBuildingsinEachSegment/average_height_of_buildings_in_each_segment.py)
