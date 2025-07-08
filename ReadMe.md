@@ -1,5 +1,6 @@
 
 ## Medium
+* [Widest Pair of Indices With Equal Range Sum](WidestPairofIndicesWithEqualRangeSum/widest_pair_of_indices_with_equal_range_sum.py)
 * [Minimize the Difference Between Target and Chosen Elements](MinimizetheDifferenceBetweenTargetandChosenElements/minimize_the_difference_between_target_and_chosen_elements.py)
 * [Find Unique Binary String](FindUniqueBinaryString/find_unique_binary_string.py)
 * [Number of Ways to Arrive at Destination](NumberofWaystoArriveatDestination/number_of_ways_to_arrive_at_destination.py)
