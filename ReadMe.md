@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Nodes Equal to Sum of Descendants](CountNodesEqualtoSumofDescendants/count_nodes_equal_to_sum_of_descendants.py)
 * [Array With Elements Not Equal to Average of Neighbors](ArrayWithElementsNotEqualtoAverageofNeighbors/array_with_elements_not_equal_to_average_of_neighbors.py)
 * [Binary Searchable Numbers in an Unsorted Array](BinarySearchableNumbersinanUnsortedArray/binary_searchable_numbers_in_an_unsorted_array.py)
 * [Remove Stones to Minimize the Total](RemoveStonestoMinimizetheTotal/remove_stones_to_minimize_the_total.py)
