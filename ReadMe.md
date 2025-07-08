@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Student that Will Replace the Chalk](FindtheStudentthatWillReplacetheChalk/find_the_student_that_will_replace_the_chalk.py)
 * [Cutting Ribbons](CuttingRibbons/cutting_ribbons.py)
 * [Reduction Operations to Make the Array Elements Equal](ReductionOperationstoMaketheArrayElementsEqual/reduction_operations_to_make_the_array_elements_equal.py)
 * [Process Tasks Using Servers](ProcessTasksUsingServers/process_tasks_using_servers.py)
