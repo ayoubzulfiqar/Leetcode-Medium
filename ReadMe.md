@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest Path in a Hidden Grid](ShortestPathinaHiddenGrid/shortest_path_in_a_hidden_grid.py)
 * [Equal Sum Arrays With Minimum Number of Operations](EqualSumArraysWithMinimumNumberofOperations/equal_sum_arrays_with_minimum_number_of_operations.py)
 * [Closest Dessert Cost](ClosestDessertCost/closest_dessert_cost.py)
 * [Sort Features by Popularity](SortFeaturesbyPopularity/sort_features_by_popularity.py)
