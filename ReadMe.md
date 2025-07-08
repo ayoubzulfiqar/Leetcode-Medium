@@ -1,5 +1,6 @@
 
 ## Medium
+* [Finding Pairs With a Certain Sum](FindingPairsWithaCertainSum/finding_pairs_with_a_certain_sum.py)
 * [Minimum Number of Swaps to Make the Binary String Alternating](MinimumNumberofSwapstoMaketheBinaryStringAlternating/minimum_number_of_swaps_to_make_the_binary_string_alternating.py)
 * [Rotating the Box](RotatingtheBox/rotating_the_box.py)
 * [Incremental Memory Leak](IncrementalMemoryLeak/incremental_memory_leak.py)
