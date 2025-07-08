@@ -1,5 +1,6 @@
 
 ## Medium
+* [Remove Zero Sum Consecutive Nodes from Linked List](RemoveZeroSumConsecutiveNodesfromLinkedList/remove_zero_sum_consecutive_nodes_from_linked_list.py)
 * [Ways to Split Array Into Three Subarrays](WaystoSplitArrayIntoThreeSubarrays/ways_to_split_array_into_three_subarrays.py)
 * [Stone Game VII](StoneGameVII/stone_game_vii.py)
 * [Sell Diminishing-Valued Colored Balls](SellDiminishing-ValuedColoredBalls/sell_diminishing-valued_colored_balls.py)
