@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Accepted Invitations](MaximumNumberofAcceptedInvitations/maximum_number_of_accepted_invitations.py)
 * [Minimum Absolute Sum Difference](MinimumAbsoluteSumDifference/minimum_absolute_sum_difference.py)
 * [Finding the Users Active Minutes](FindingtheUsersActiveMinutes/finding_the_users_active_minutes.py)
 * [Count Nice Pairs in an Array](CountNicePairsinanArray/count_nice_pairs_in_an_array.py)
