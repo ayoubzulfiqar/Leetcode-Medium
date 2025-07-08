@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Swaps to Make the Binary String Alternating](MinimumNumberofSwapstoMaketheBinaryStringAlternating/minimum_number_of_swaps_to_make_the_binary_string_alternating.py)
 * [Rotating the Box](RotatingtheBox/rotating_the_box.py)
 * [Incremental Memory Leak](IncrementalMemoryLeak/incremental_memory_leak.py)
 * [Longest Word With All Prefixes](LongestWordWithAllPrefixes/longest_word_with_all_prefixes.py)
