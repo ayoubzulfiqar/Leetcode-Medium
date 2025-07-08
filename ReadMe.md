@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Weeks for Which You Can Work](MaximumNumberofWeeksforWhichYouCanWork/maximum_number_of_weeks_for_which_you_can_work.py)
 * [All the Pairs With the Maximum Number of Common Followers](AllthePairsWiththeMaximumNumberofCommonFollowers/all_the_pairs_with_the_maximum_number_of_common_followers.py)
 * [Strong Friendship](StrongFriendship/strong_friendship.py)
 * [Maximum Compatibility Score Sum](MaximumCompatibilityScoreSum/maximum_compatibility_score_sum.py)
