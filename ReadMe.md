@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Value at a Given Index in a Bounded Array](MaximumValueataGivenIndexinaBoundedArray/maximum_value_at_a_given_index_in_a_bounded_array.py)
 * [Number of Orders in the Backlog](NumberofOrdersintheBacklog/number_of_orders_in_the_backlog.py)
 * [Maximum Number of Consecutive Values You Can Make](MaximumNumberofConsecutiveValuesYouCanMake/maximum_number_of_consecutive_values_you_can_make.py)
 * [Design Authentication Manager](DesignAuthenticationManager/design_authentication_manager.py)
