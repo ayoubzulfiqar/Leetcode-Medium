@@ -1,5 +1,6 @@
 
 ## Medium
+* [Frequency of the Most Frequent Element](FrequencyoftheMostFrequentElement/frequency_of_the_most_frequent_element.py)
 * [Remove Duplicates From an Unsorted Linked List](RemoveDuplicatesFromanUnsortedLinkedList/remove_duplicates_from_an_unsorted_linked_list.py)
 * [Single-Threaded CPU](Single-ThreadedCPU/single-threaded_cpu.py)
 * [Maximum Ice Cream Bars](MaximumIceCreamBars/maximum_ice_cream_bars.py)
