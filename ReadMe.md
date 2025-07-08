@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Absolute Sum of Any Subarray](MaximumAbsoluteSumofAnySubarray/maximum_absolute_sum_of_any_subarray.py)
 * [Leetflex Banned Accounts](LeetflexBannedAccounts/leetflex_banned_accounts.py)
 * [Minimum Moves to Make Array Complementary](MinimumMovestoMakeArrayComplementary/minimum_moves_to_make_array_complementary.py)
 * [Merge In Between Linked Lists](MergeInBetweenLinkedLists/merge_in_between_linked_lists.py)
