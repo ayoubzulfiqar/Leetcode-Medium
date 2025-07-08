@@ -1,5 +1,6 @@
 
 ## Medium
+* [All the Pairs With the Maximum Number of Common Followers](AllthePairsWiththeMaximumNumberofCommonFollowers/all_the_pairs_with_the_maximum_number_of_common_followers.py)
 * [Strong Friendship](StrongFriendship/strong_friendship.py)
 * [Maximum Compatibility Score Sum](MaximumCompatibilityScoreSum/maximum_compatibility_score_sum.py)
 * [Minimum Number of Flips to Make the Binary String Alternating](MinimumNumberofFlipstoMaketheBinaryStringAlternating/minimum_number_of_flips_to_make_the_binary_string_alternating.py)
