@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sum of Beauty of All Substrings](SumofBeautyofAllSubstrings/sum_of_beauty_of_all_substrings.py)
 * [Check if Number is a Sum of Powers of Three](CheckifNumberisaSumofPowersofThree/check_if_number_is_a_sum_of_powers_of_three.py)
 * [Shortest Path in a Hidden Grid](ShortestPathinaHiddenGrid/shortest_path_in_a_hidden_grid.py)
 * [Equal Sum Arrays With Minimum Number of Operations](EqualSumArraysWithMinimumNumberofOperations/equal_sum_arrays_with_minimum_number_of_operations.py)
