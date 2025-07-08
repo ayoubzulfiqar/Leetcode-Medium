@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Missing Observations](FindMissingObservations/find_missing_observations.py)
 * [Maximize the Confusion of an Exam](MaximizetheConfusionofanExam/maximize_the_confusion_of_an_exam.py)
 * [Number of Pairs of Strings With Concatenation Equal to Target](NumberofPairsofStringsWithConcatenationEqualtoTarget/number_of_pairs_of_strings_with_concatenation_equal_to_target.py)
 * [Brightest Position on Street](BrightestPositiononStreet/brightest_position_on_street.py)
