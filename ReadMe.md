@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Subarray Min-Product](MaximumSubarrayMin-Product/maximum_subarray_min-product.py)
 * [Maximum Distance Between a Pair of Values](MaximumDistanceBetweenaPairofValues/maximum_distance_between_a_pair_of_values.py)
 * [Number of Restricted Paths From First to Last Node](NumberofRestrictedPathsFromFirsttoLastNode/number_of_restricted_paths_from_first_to_last_node.py)
 * [Largest Merge Of Two Strings](LargestMergeOfTwoStrings/largest_merge_of_two_strings.py)
