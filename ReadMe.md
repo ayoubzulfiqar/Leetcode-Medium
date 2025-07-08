@@ -1,5 +1,6 @@
 
 ## Medium
+* [Detect Squares](DetectSquares/detect_squares.py)
 * [Sum of Beauty in the Array](SumofBeautyintheArray/sum_of_beauty_in_the_array.py)
 * [Maximum Earnings From Taxi](MaximumEarningsFromTaxi/maximum_earnings_from_taxi.py)
 * [Find Original Array From Doubled Array](FindOriginalArrayFromDoubledArray/find_original_array_from_doubled_array.py)
