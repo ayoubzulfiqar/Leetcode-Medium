@@ -1,5 +1,6 @@
 
 ## Medium
+* [Smallest Greater Multiple Made of Two Digits](SmallestGreaterMultipleMadeofTwoDigits/smallest_greater_multiple_made_of_two_digits.py)
 * [First Day Where You Have Been in All the Rooms](FirstDayWhereYouHaveBeeninAlltheRooms/first_day_where_you_have_been_in_all_the_rooms.py)
 * [The Number of Weak Characters in the Game](TheNumberofWeakCharactersintheGame/the_number_of_weak_characters_in_the_game.py)
 * [Operations on Tree](OperationsonTree/operations_on_tree.py)
