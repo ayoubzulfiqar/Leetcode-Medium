@@ -1,5 +1,6 @@
 
 ## Medium
+* [Remove All Occurrences of a Substring](RemoveAllOccurrencesofaSubstring/remove_all_occurrences_of_a_substring.py)
 * [Game of Nim](GameofNim/game_of_nim.py)
 * [Count Salary Categories](CountSalaryCategories/count_salary_categories.py)
 * [Minimum Absolute Difference Queries](MinimumAbsoluteDifferenceQueries/minimum_absolute_difference_queries.py)
