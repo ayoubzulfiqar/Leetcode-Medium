@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Average Pass Ratio](MaximumAveragePassRatio/maximum_average_pass_ratio.py)
 * [Minimum Elements to Add to Form a Given Sum](MinimumElementstoAddtoFormaGivenSum/minimum_elements_to_add_to_form_a_given_sum.py)
 * [Grand Slam Titles](GrandSlamTitles/grand_slam_titles.py)
 * [Sum of Beauty of All Substrings](SumofBeautyofAllSubstrings/sum_of_beauty_of_all_substrings.py)
