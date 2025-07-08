@@ -1,5 +1,6 @@
 
 ## Medium
+* [Game of Nim](GameofNim/game_of_nim.py)
 * [Count Salary Categories](CountSalaryCategories/count_salary_categories.py)
 * [Minimum Absolute Difference Queries](MinimumAbsoluteDifferenceQueries/minimum_absolute_difference_queries.py)
 * [Count Sub Islands](CountSubIslands/count_sub_islands.py)
