@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Elements to Add to Form a Given Sum](MinimumElementstoAddtoFormaGivenSum/minimum_elements_to_add_to_form_a_given_sum.py)
 * [Grand Slam Titles](GrandSlamTitles/grand_slam_titles.py)
 * [Sum of Beauty of All Substrings](SumofBeautyofAllSubstrings/sum_of_beauty_of_all_substrings.py)
 * [Check if Number is a Sum of Powers of Three](CheckifNumberisaSumofPowersofThree/check_if_number_is_a_sum_of_powers_of_three.py)
