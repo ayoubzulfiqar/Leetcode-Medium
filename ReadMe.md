@@ -1,5 +1,6 @@
 
 ## Medium
+* [Change the Root of a Binary Tree](ChangetheRootofaBinaryTree/change_the_root_of_a_binary_tree.py)
 * [Minimum Jumps to Reach Home](MinimumJumpstoReachHome/minimum_jumps_to_reach_home.py)
 * [Depth of BST Given Insertion Order](DepthofBSTGivenInsertionOrder/depth_of_bst_given_insertion_order.py)
 * [Find a Peak Element II](FindaPeakElementII/find_a_peak_element_ii.py)
