@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Ways to Arrive at Destination](NumberofWaystoArriveatDestination/number_of_ways_to_arrive_at_destination.py)
 * [Maximum Matrix Sum](MaximumMatrixSum/maximum_matrix_sum.py)
 * [Count Nodes Equal to Sum of Descendants](CountNodesEqualtoSumofDescendants/count_nodes_equal_to_sum_of_descendants.py)
 * [Array With Elements Not Equal to Average of Neighbors](ArrayWithElementsNotEqualtoAverageofNeighbors/array_with_elements_not_equal_to_average_of_neighbors.py)
