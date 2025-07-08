@@ -1,5 +1,6 @@
 
 ## Medium
+* [Leetflex Banned Accounts](LeetflexBannedAccounts/leetflex_banned_accounts.py)
 * [Minimum Moves to Make Array Complementary](MinimumMovestoMakeArrayComplementary/minimum_moves_to_make_array_complementary.py)
 * [Merge In Between Linked Lists](MergeInBetweenLinkedLists/merge_in_between_linked_lists.py)
 * [Avoid Flood in The City](AvoidFloodinTheCity/avoid_flood_in_the_city.py)
