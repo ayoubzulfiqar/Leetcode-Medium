@@ -1,5 +1,6 @@
 
 ## Medium
+* [Merge Triplets to Form Target Triplet](MergeTripletstoFormTargetTriplet/merge_triplets_to_form_target_triplet.py)
 * [Maximum Number of Removable Characters](MaximumNumberofRemovableCharacters/maximum_number_of_removable_characters.py)
 * [Largest Magic Square](LargestMagicSquare/largest_magic_square.py)
 * [Find the Student that Will Replace the Chalk](FindtheStudentthatWillReplacetheChalk/find_the_student_that_will_replace_the_chalk.py)
