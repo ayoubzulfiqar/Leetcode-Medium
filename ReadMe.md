@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimize Maximum Pair Sum in Array](MinimizeMaximumPairSuminArray/minimize_maximum_pair_sum_in_array.py)
 * [Group Employees of the Same Salary](GroupEmployeesoftheSameSalary/group_employees_of_the_same_salary.py)
 * [Minimize Product Sum of Two Arrays](MinimizeProductSumofTwoArrays/minimize_product_sum_of_two_arrays.py)
 * [Jump Game VII](JumpGameVII/jump_game_vii.py)
