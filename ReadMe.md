@@ -1,5 +1,6 @@
 
 ## Medium
+* [Largest Number After Mutating Substring](LargestNumberAfterMutatingSubstring/largest_number_after_mutating_substring.py)
 * [Describe the Painting](DescribethePainting/describe_the_painting.py)
 * [The Number of the Smallest Unoccupied Chair](TheNumberoftheSmallestUnoccupiedChair/the_number_of_the_smallest_unoccupied_chair.py)
 * [Longest Common Subsequence Between Sorted Arrays](LongestCommonSubsequenceBetweenSortedArrays/longest_common_subsequence_between_sorted_arrays.py)
