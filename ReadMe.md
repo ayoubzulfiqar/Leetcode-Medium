@@ -1,5 +1,6 @@
 
 ## Medium
+* [Egg Drop With 2 Eggs and N Floors](EggDropWith2EggsandNFloors/egg_drop_with_2_eggs_and_n_floors.py)
 * [Maximum Subarray Min-Product](MaximumSubarrayMin-Product/maximum_subarray_min-product.py)
 * [Maximum Distance Between a Pair of Values](MaximumDistanceBetweenaPairofValues/maximum_distance_between_a_pair_of_values.py)
 * [Number of Restricted Paths From First to Last Node](NumberofRestrictedPathsFromFirsttoLastNode/number_of_restricted_paths_from_first_to_last_node.py)
