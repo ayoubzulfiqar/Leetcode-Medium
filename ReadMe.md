@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Orders in the Backlog](NumberofOrdersintheBacklog/number_of_orders_in_the_backlog.py)
 * [Maximum Number of Consecutive Values You Can Make](MaximumNumberofConsecutiveValuesYouCanMake/maximum_number_of_consecutive_values_you_can_make.py)
 * [Design Authentication Manager](DesignAuthenticationManager/design_authentication_manager.py)
 * [Maximum Average Pass Ratio](MaximumAveragePassRatio/maximum_average_pass_ratio.py)
