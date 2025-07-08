@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Adjacent Swaps to Reach the Kth Smallest Number](MinimumAdjacentSwapstoReachtheKthSmallestNumber/minimum_adjacent_swaps_to_reach_the_kth_smallest_number.py)
 * [Splitting a String Into Descending Consecutive Values](SplittingaStringIntoDescendingConsecutiveValues/splitting_a_string_into_descending_consecutive_values.py)
 * [Maximum Element After Decreasing and Rearranging](MaximumElementAfterDecreasingandRearranging/maximum_element_after_decreasing_and_rearranging.py)
 * [Seat Reservation Manager](SeatReservationManager/seat_reservation_manager.py)
