@@ -1,5 +1,6 @@
 
 ## Medium
+* [Equal Sum Arrays With Minimum Number of Operations](EqualSumArraysWithMinimumNumberofOperations/equal_sum_arrays_with_minimum_number_of_operations.py)
 * [Closest Dessert Cost](ClosestDessertCost/closest_dessert_cost.py)
 * [Sort Features by Popularity](SortFeaturesbyPopularity/sort_features_by_popularity.py)
 * [Minimum Number of Operations to Move All Balls to Each Box](MinimumNumberofOperationstoMoveAllBallstoEachBox/minimum_number_of_operations_to_move_all_balls_to_each_box.py)
