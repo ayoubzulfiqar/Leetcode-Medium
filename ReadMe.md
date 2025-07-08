@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Flips to Make the Binary String Alternating](MinimumNumberofFlipstoMaketheBinaryStringAlternating/minimum_number_of_flips_to_make_the_binary_string_alternating.py)
 * [Number of Sets of K Non Overlapping Line Segments](NumberofSetsofKNonOverlappingLineSegments/number_of_sets_of_k_non_overlapping_line_segments.py)
 * [New 21 Game](New21Game/new_21_game.py)
 * [Can I Win](CanIWin/can_i_win.py)
