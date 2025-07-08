@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Jumps to Reach Home](MinimumJumpstoReachHome/minimum_jumps_to_reach_home.py)
 * [Depth of BST Given Insertion Order](DepthofBSTGivenInsertionOrder/depth_of_bst_given_insertion_order.py)
 * [Find a Peak Element II](FindaPeakElementII/find_a_peak_element_ii.py)
 * [Merge Triplets to Form Target Triplet](MergeTripletstoFormTargetTriplet/merge_triplets_to_form_target_triplet.py)
