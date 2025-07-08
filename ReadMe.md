@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum XOR for Each Query](MaximumXORforEachQuery/maximum_xor_for_each_query.py)
 * [Queries on Number of Points Inside a Circle](QueriesonNumberofPointsInsideaCircle/queries_on_number_of_points_inside_a_circle.py)
 * [Find the Winner of the Circular Game](FindtheWinneroftheCircularGame/find_the_winner_of_the_circular_game.py)
 * [Maximum Number of Accepted Invitations](MaximumNumberofAcceptedInvitations/maximum_number_of_accepted_invitations.py)
