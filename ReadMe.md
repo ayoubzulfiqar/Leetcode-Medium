@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Consecutive Values You Can Make](MaximumNumberofConsecutiveValuesYouCanMake/maximum_number_of_consecutive_values_you_can_make.py)
 * [Design Authentication Manager](DesignAuthenticationManager/design_authentication_manager.py)
 * [Maximum Average Pass Ratio](MaximumAveragePassRatio/maximum_average_pass_ratio.py)
 * [Minimum Elements to Add to Form a Given Sum](MinimumElementstoAddtoFormaGivenSum/minimum_elements_to_add_to_form_a_given_sum.py)
