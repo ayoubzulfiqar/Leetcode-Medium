@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sentence Similarity III](SentenceSimilarityIII/sentence_similarity_iii.py)
 * [Find Interview Candidates](FindInterviewCandidates/find_interview_candidates.py)
 * [Minimum Path Cost in a Hidden Grid](MinimumPathCostinaHiddenGrid/minimum_path_cost_in_a_hidden_grid.py)
 * [Evaluate the Bracket Pairs of a String](EvaluatetheBracketPairsofaString/evaluate_the_bracket_pairs_of_a_string.py)
