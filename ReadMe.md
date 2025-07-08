@@ -1,5 +1,6 @@
 
 ## Medium
+* [League Statistics](LeagueStatistics/league_statistics.py)
 * [Longest Substring Of All Vowels in Order](LongestSubstringOfAllVowelsinOrder/longest_substring_of_all_vowels_in_order.py)
 * [Frequency of the Most Frequent Element](FrequencyoftheMostFrequentElement/frequency_of_the_most_frequent_element.py)
 * [Remove Duplicates From an Unsorted Linked List](RemoveDuplicatesFromanUnsortedLinkedList/remove_duplicates_from_an_unsorted_linked_list.py)
