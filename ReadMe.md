@@ -1,5 +1,6 @@
 
 ## Medium
+* [Remove Duplicates From an Unsorted Linked List](RemoveDuplicatesFromanUnsortedLinkedList/remove_duplicates_from_an_unsorted_linked_list.py)
 * [Single-Threaded CPU](Single-ThreadedCPU/single-threaded_cpu.py)
 * [Maximum Ice Cream Bars](MaximumIceCreamBars/maximum_ice_cream_bars.py)
 * [Maximum Transaction Each Day](MaximumTransactionEachDay/maximum_transaction_each_day.py)
