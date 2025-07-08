@@ -1,5 +1,6 @@
 
 ## Medium
+* [Suspicious Bank Accounts](SuspiciousBankAccounts/suspicious_bank_accounts.py)
 * [League Statistics](LeagueStatistics/league_statistics.py)
 * [Longest Substring Of All Vowels in Order](LongestSubstringOfAllVowelsinOrder/longest_substring_of_all_vowels_in_order.py)
 * [Frequency of the Most Frequent Element](FrequencyoftheMostFrequentElement/frequency_of_the_most_frequent_element.py)
