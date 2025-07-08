@@ -1,5 +1,6 @@
 
 ## Medium
+* [Kth Smallest Subarray Sum](KthSmallestSubarraySum/kth_smallest_subarray_sum.py)
 * [Number of Wonderful Substrings](NumberofWonderfulSubstrings/number_of_wonderful_substrings.py)
 * [Cyclically Rotating a Grid](CyclicallyRotatingaGrid/cyclically_rotating_a_grid.py)
 * [Maximum Alternating Subsequence Sum](MaximumAlternatingSubsequenceSum/maximum_alternating_subsequence_sum.py)
