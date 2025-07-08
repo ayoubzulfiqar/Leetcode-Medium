@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Number of Homogenous Substrings](CountNumberofHomogenousSubstrings/count_number_of_homogenous_substrings.py)
 * [Design Most Recently Used Queue](DesignMostRecentlyUsedQueue/design_most_recently_used_queue.py)
 * [Maximum Score From Removing Stones](MaximumScoreFromRemovingStones/maximum_score_from_removing_stones.py)
 * [Minimum Length of String After Deleting Similar Ends](MinimumLengthofStringAfterDeletingSimilarEnds/minimum_length_of_string_after_deleting_similar_ends.py)
