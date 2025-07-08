@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count the Number of Experiments](CounttheNumberofExperiments/count_the_number_of_experiments.py)
 * [Maximum Number of People That Can Be Caught in Tag](MaximumNumberofPeopleThatCanBeCaughtinTag/maximum_number_of_people_that_can_be_caught_in_tag.py)
 * [Find Cutoff Score for Each School](FindCutoffScoreforEachSchool/find_cutoff_score_for_each_school.py)
 * [Minimum Number of Work Sessions to Finish the Tasks](MinimumNumberofWorkSessionstoFinishtheTasks/minimum_number_of_work_sessions_to_finish_the_tasks.py)
