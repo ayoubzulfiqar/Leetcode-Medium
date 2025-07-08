@@ -1,5 +1,6 @@
 
 ## Medium
+* [Single-Threaded CPU](Single-ThreadedCPU/single-threaded_cpu.py)
 * [Maximum Ice Cream Bars](MaximumIceCreamBars/maximum_ice_cream_bars.py)
 * [Maximum Transaction Each Day](MaximumTransactionEachDay/maximum_transaction_each_day.py)
 * [Maximum XOR for Each Query](MaximumXORforEachQuery/maximum_xor_for_each_query.py)
