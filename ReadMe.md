@@ -1,5 +1,6 @@
 
 ## Medium
+* [The Number of Weak Characters in the Game](TheNumberofWeakCharactersintheGame/the_number_of_weak_characters_in_the_game.py)
 * [Operations on Tree](OperationsonTree/operations_on_tree.py)
 * [Find All Groups of Farmland](FindAllGroupsofFarmland/find_all_groups_of_farmland.py)
 * [Count the Number of Experiments](CounttheNumberofExperiments/count_the_number_of_experiments.py)
