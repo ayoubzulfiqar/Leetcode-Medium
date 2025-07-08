@@ -1,5 +1,6 @@
 
 ## Medium
+* [Stone Game VII](StoneGameVII/stone_game_vii.py)
 * [Sell Diminishing-Valued Colored Balls](SellDiminishing-ValuedColoredBalls/sell_diminishing-valued_colored_balls.py)
 * [Binary String With Substrings Representing 1 To N](BinaryStringWithSubstringsRepresenting1ToN/binary_string_with_substrings_representing_1_to_n.py)
 * [Restore the Array From Adjacent Pairs](RestoretheArrayFromAdjacentPairs/restore_the_array_from_adjacent_pairs.py)
