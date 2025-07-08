@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Speed to Arrive on Time](MinimumSpeedtoArriveonTime/minimum_speed_to_arrive_on_time.py)
 * [Product of Two Run-Length Encoded Arrays](ProductofTwoRun-LengthEncodedArrays/product_of_two_run-length_encoded_arrays.py)
 * [Orders With Maximum Quantity Above Average](OrdersWithMaximumQuantityAboveAverage/orders_with_maximum_quantity_above_average.py)
 * [Finding Pairs With a Certain Sum](FindingPairsWithaCertainSum/finding_pairs_with_a_certain_sum.py)
