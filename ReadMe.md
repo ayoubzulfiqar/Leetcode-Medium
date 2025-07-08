@@ -1,5 +1,6 @@
 
 ## Medium
+* [Accepted Candidates From the Interviews](AcceptedCandidatesFromtheInterviews/accepted_candidates_from_the_interviews.py)
 * [The Time When the Network Becomes Idle](TheTimeWhentheNetworkBecomesIdle/the_time_when_the_network_becomes_idle.py)
 * [Remove Colored Pieces if Both Neighbors are the Same Color](RemoveColoredPiecesifBothNeighborsaretheSameColor/remove_colored_pieces_if_both_neighbors_are_the_same_color.py)
 * [Stock Price Fluctuation ](StockPriceFluctuation/stock_price_fluctuation_.py)
