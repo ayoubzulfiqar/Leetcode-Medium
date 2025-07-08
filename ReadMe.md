@@ -1,5 +1,6 @@
 
 ## Medium
+* [Ways to Split Array Into Three Subarrays](WaystoSplitArrayIntoThreeSubarrays/ways_to_split_array_into_three_subarrays.py)
 * [Stone Game VII](StoneGameVII/stone_game_vii.py)
 * [Sell Diminishing-Valued Colored Balls](SellDiminishing-ValuedColoredBalls/sell_diminishing-valued_colored_balls.py)
 * [Binary String With Substrings Representing 1 To N](BinaryStringWithSubstringsRepresenting1ToN/binary_string_with_substrings_representing_1_to_n.py)
