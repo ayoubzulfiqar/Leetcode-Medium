@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Nodes With the Highest Score](CountNodesWiththeHighestScore/count_nodes_with_the_highest_score.py)
 * [Next Greater Numerically Balanced Number](NextGreaterNumericallyBalancedNumber/next_greater_numerically_balanced_number.py)
 * [Count Number of Maximum Bitwise-OR Subsets](CountNumberofMaximumBitwise-ORSubsets/count_number_of_maximum_bitwise-or_subsets.py)
 * [Simple Bank System](SimpleBankSystem/simple_bank_system.py)
