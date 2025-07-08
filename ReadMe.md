@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Salary Categories](CountSalaryCategories/count_salary_categories.py)
 * [Minimum Absolute Difference Queries](MinimumAbsoluteDifferenceQueries/minimum_absolute_difference_queries.py)
 * [Count Sub Islands](CountSubIslands/count_sub_islands.py)
 * [The Number of Full Rounds You Have Played](TheNumberofFullRoundsYouHavePlayed/the_number_of_full_rounds_you_have_played.py)
