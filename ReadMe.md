@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Points with Cost](MaximumNumberofPointswithCost/maximum_number_of_points_with_cost.py)
 * [Add Minimum Number of Rungs](AddMinimumNumberofRungs/add_minimum_number_of_rungs.py)
 * [Confirmation Rate](ConfirmationRate/confirmation_rate.py)
 * [Unique Length-3 Palindromic Subsequences](UniqueLength-3PalindromicSubsequences/unique_length-3_palindromic_subsequences.py)
