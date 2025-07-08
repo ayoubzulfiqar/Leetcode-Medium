@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Element After Decreasing and Rearranging](MaximumElementAfterDecreasingandRearranging/maximum_element_after_decreasing_and_rearranging.py)
 * [Seat Reservation Manager](SeatReservationManager/seat_reservation_manager.py)
 * [Suspicious Bank Accounts](SuspiciousBankAccounts/suspicious_bank_accounts.py)
 * [League Statistics](LeagueStatistics/league_statistics.py)
