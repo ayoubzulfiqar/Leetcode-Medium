@@ -1,5 +1,6 @@
 
 ## Medium
+* [Next Greater Numerically Balanced Number](NextGreaterNumericallyBalancedNumber/next_greater_numerically_balanced_number.py)
 * [Count Number of Maximum Bitwise-OR Subsets](CountNumberofMaximumBitwise-ORSubsets/count_number_of_maximum_bitwise-or_subsets.py)
 * [Simple Bank System](SimpleBankSystem/simple_bank_system.py)
 * [Accepted Candidates From the Interviews](AcceptedCandidatesFromtheInterviews/accepted_candidates_from_the_interviews.py)
