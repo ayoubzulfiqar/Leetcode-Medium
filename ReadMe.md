@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find a Peak Element II](FindaPeakElementII/find_a_peak_element_ii.py)
 * [Merge Triplets to Form Target Triplet](MergeTripletstoFormTargetTriplet/merge_triplets_to_form_target_triplet.py)
 * [Maximum Number of Removable Characters](MaximumNumberofRemovableCharacters/maximum_number_of_removable_characters.py)
 * [Largest Magic Square](LargestMagicSquare/largest_magic_square.py)
