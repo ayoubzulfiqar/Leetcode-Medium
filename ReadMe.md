@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Word With All Prefixes](LongestWordWithAllPrefixes/longest_word_with_all_prefixes.py)
 * [Distinct Numbers in Each Subarray](DistinctNumbersinEachSubarray/distinct_numbers_in_each_subarray.py)
 * [Minimum Adjacent Swaps to Reach the Kth Smallest Number](MinimumAdjacentSwapstoReachtheKthSmallestNumber/minimum_adjacent_swaps_to_reach_the_kth_smallest_number.py)
 * [Splitting a String Into Descending Consecutive Values](SplittingaStringIntoDescendingConsecutiveValues/splitting_a_string_into_descending_consecutive_values.py)
