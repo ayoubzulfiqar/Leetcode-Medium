@@ -1,5 +1,6 @@
 
 ## Medium
+* [Cyclically Rotating a Grid](CyclicallyRotatingaGrid/cyclically_rotating_a_grid.py)
 * [Maximum Alternating Subsequence Sum](MaximumAlternatingSubsequenceSum/maximum_alternating_subsequence_sum.py)
 * [Remove All Occurrences of a Substring](RemoveAllOccurrencesofaSubstring/remove_all_occurrences_of_a_substring.py)
 * [Game of Nim](GameofNim/game_of_nim.py)
