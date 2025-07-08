@@ -1,5 +1,6 @@
 
 ## Medium
+* [Finding the Users Active Minutes](FindingtheUsersActiveMinutes/finding_the_users_active_minutes.py)
 * [Count Nice Pairs in an Array](CountNicePairsinanArray/count_nice_pairs_in_an_array.py)
 * [Sentence Similarity III](SentenceSimilarityIII/sentence_similarity_iii.py)
 * [Find Interview Candidates](FindInterviewCandidates/find_interview_candidates.py)
