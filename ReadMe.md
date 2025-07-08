@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Length of String After Deleting Similar Ends](MinimumLengthofStringAfterDeletingSimilarEnds/minimum_length_of_string_after_deleting_similar_ends.py)
 * [Maximum Absolute Sum of Any Subarray](MaximumAbsoluteSumofAnySubarray/maximum_absolute_sum_of_any_subarray.py)
 * [Leetflex Banned Accounts](LeetflexBannedAccounts/leetflex_banned_accounts.py)
 * [Minimum Moves to Make Array Complementary](MinimumMovestoMakeArrayComplementary/minimum_moves_to_make_array_complementary.py)
