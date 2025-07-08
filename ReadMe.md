@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Operations to Reinitialize a Permutation](MinimumNumberofOperationstoReinitializeaPermutation/minimum_number_of_operations_to_reinitialize_a_permutation.py)
 * [Implement Trie II (Prefix Tree)](ImplementTrieII(PrefixTree)/implement_trie_ii_(prefix_tree).py)
 * [Maximum Value at a Given Index in a Bounded Array](MaximumValueataGivenIndexinaBoundedArray/maximum_value_at_a_given_index_in_a_bounded_array.py)
 * [Number of Orders in the Backlog](NumberofOrdersintheBacklog/number_of_orders_in_the_backlog.py)
