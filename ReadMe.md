@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Number of Maximum Bitwise-OR Subsets](CountNumberofMaximumBitwise-ORSubsets/count_number_of_maximum_bitwise-or_subsets.py)
 * [Simple Bank System](SimpleBankSystem/simple_bank_system.py)
 * [Accepted Candidates From the Interviews](AcceptedCandidatesFromtheInterviews/accepted_candidates_from_the_interviews.py)
 * [The Time When the Network Becomes Idle](TheTimeWhentheNetworkBecomesIdle/the_time_when_the_network_becomes_idle.py)
