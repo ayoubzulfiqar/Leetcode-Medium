@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Limit of Balls in a Bag](MinimumLimitofBallsinaBag/minimum_limit_of_balls_in_a_bag.py)
 * [Count Number of Homogenous Substrings](CountNumberofHomogenousSubstrings/count_number_of_homogenous_substrings.py)
 * [Design Most Recently Used Queue](DesignMostRecentlyUsedQueue/design_most_recently_used_queue.py)
 * [Maximum Score From Removing Stones](MaximumScoreFromRemovingStones/maximum_score_from_removing_stones.py)
