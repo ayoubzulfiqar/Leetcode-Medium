@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Original Array From Doubled Array](FindOriginalArrayFromDoubledArray/find_original_array_from_doubled_array.py)
 * [Maximum Product of the Length of Two Palindromic Subsequences](MaximumProductoftheLengthofTwoPalindromicSubsequences/maximum_product_of_the_length_of_two_palindromic_subsequences.py)
 * [Number of Pairs of Interchangeable Rectangles](NumberofPairsofInterchangeableRectangles/number_of_pairs_of_interchangeable_rectangles.py)
 * [Smallest Greater Multiple Made of Two Digits](SmallestGreaterMultipleMadeofTwoDigits/smallest_greater_multiple_made_of_two_digits.py)
