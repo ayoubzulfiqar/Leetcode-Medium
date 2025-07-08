@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Path Cost in a Hidden Grid](MinimumPathCostinaHiddenGrid/minimum_path_cost_in_a_hidden_grid.py)
 * [Evaluate the Bracket Pairs of a String](EvaluatetheBracketPairsofaString/evaluate_the_bracket_pairs_of_a_string.py)
 * [Minimum Number of Operations to Reinitialize a Permutation](MinimumNumberofOperationstoReinitializeaPermutation/minimum_number_of_operations_to_reinitialize_a_permutation.py)
 * [Implement Trie II (Prefix Tree)](ImplementTrieII(PrefixTree)/implement_trie_ii_(prefix_tree).py)
