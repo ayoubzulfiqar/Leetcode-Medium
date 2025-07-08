@@ -1,5 +1,6 @@
 
 ## Medium
+* [Binary String With Substrings Representing 1 To N](BinaryStringWithSubstringsRepresenting1ToN/binary_string_with_substrings_representing_1_to_n.py)
 * [Restore the Array From Adjacent Pairs](RestoretheArrayFromAdjacentPairs/restore_the_array_from_adjacent_pairs.py)
 * [Find Distance in a Binary Tree](FindDistanceinaBinaryTree/find_distance_in_a_binary_tree.py)
 * [Find Kth Largest XOR Coordinate Value](FindKthLargestXORCoordinateValue/find_kth_largest_xor_coordinate_value.py)
