@@ -1,5 +1,6 @@
 
 ## Medium
+* [The Time When the Network Becomes Idle](TheTimeWhentheNetworkBecomesIdle/the_time_when_the_network_becomes_idle.py)
 * [Remove Colored Pieces if Both Neighbors are the Same Color](RemoveColoredPiecesifBothNeighborsaretheSameColor/remove_colored_pieces_if_both_neighbors_are_the_same_color.py)
 * [Stock Price Fluctuation ](StockPriceFluctuation/stock_price_fluctuation_.py)
 * [Minimum Operations to Make a Uni-Value Grid](MinimumOperationstoMakeaUni-ValueGrid/minimum_operations_to_make_a_uni-value_grid.py)
