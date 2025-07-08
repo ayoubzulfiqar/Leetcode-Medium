@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Unique Binary String](FindUniqueBinaryString/find_unique_binary_string.py)
 * [Number of Ways to Arrive at Destination](NumberofWaystoArriveatDestination/number_of_ways_to_arrive_at_destination.py)
 * [Maximum Matrix Sum](MaximumMatrixSum/maximum_matrix_sum.py)
 * [Count Nodes Equal to Sum of Descendants](CountNodesEqualtoSumofDescendants/count_nodes_equal_to_sum_of_descendants.py)
