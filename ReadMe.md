@@ -1,5 +1,6 @@
 
 ## Medium
+* [Stock Price Fluctuation ](StockPriceFluctuation/stock_price_fluctuation_.py)
 * [Minimum Operations to Make a Uni-Value Grid](MinimumOperationstoMakeaUni-ValueGrid/minimum_operations_to_make_a_uni-value_grid.py)
 * [Count Subarrays With More Ones Than Zeros](CountSubarraysWithMoreOnesThanZeros/count_subarrays_with_more_ones_than_zeros.py)
 * [Find Missing Observations](FindMissingObservations/find_missing_observations.py)
