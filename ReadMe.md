@@ -1,5 +1,6 @@
 
 ## Medium
+* [Group Employees of the Same Salary](GroupEmployeesoftheSameSalary/group_employees_of_the_same_salary.py)
 * [Minimize Product Sum of Two Arrays](MinimizeProductSumofTwoArrays/minimize_product_sum_of_two_arrays.py)
 * [Jump Game VII](JumpGameVII/jump_game_vii.py)
 * [Minimum Speed to Arrive on Time](MinimumSpeedtoArriveonTime/minimum_speed_to_arrive_on_time.py)
