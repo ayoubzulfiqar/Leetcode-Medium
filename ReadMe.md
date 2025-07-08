@@ -1,5 +1,6 @@
 
 ## Medium
+* [Confirmation Rate](ConfirmationRate/confirmation_rate.py)
 * [Unique Length-3 Palindromic Subsequences](UniqueLength-3PalindromicSubsequences/unique_length-3_palindromic_subsequences.py)
 * [Nearest Exit from Entrance in Maze](NearestExitfromEntranceinMaze/nearest_exit_from_entrance_in_maze.py)
 * [Count Good Numbers](CountGoodNumbers/count_good_numbers.py)
