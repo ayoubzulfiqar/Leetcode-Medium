@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Pairs of Strings With Concatenation Equal to Target](NumberofPairsofStringsWithConcatenationEqualtoTarget/number_of_pairs_of_strings_with_concatenation_equal_to_target.py)
 * [Brightest Position on Street](BrightestPositiononStreet/brightest_position_on_street.py)
 * [Number of Accounts That Did Not Stream](NumberofAccountsThatDidNotStream/number_of_accounts_that_did_not_stream.py)
 * [Check if Word Can Be Placed In Crossword](CheckifWordCanBePlacedInCrossword/check_if_word_can_be_placed_in_crossword.py)
