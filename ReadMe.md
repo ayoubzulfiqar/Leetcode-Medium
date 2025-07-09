@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Number of Distinct Integers After Reverse Operations](CountNumberofDistinctIntegersAfterReverseOperations/count_number_of_distinct_integers_after_reverse_operations.py)
 * [Range Product Queries of Powers](RangeProductQueriesofPowers/range_product_queries_of_powers.py)
 * [Minimum Split Into Subarrays With GCD Greater Than One](MinimumSplitIntoSubarraysWithGCDGreaterThanOne/minimum_split_into_subarrays_with_gcd_greater_than_one.py)
 * [Using a Robot to Print the Lexicographically Smallest String](UsingaRobottoPrinttheLexicographicallySmallestString/using_a_robot_to_print_the_lexicographically_smallest_string.py)
