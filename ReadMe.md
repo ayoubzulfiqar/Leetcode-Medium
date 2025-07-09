@@ -1,5 +1,6 @@
 
 ## Medium
+* [Users With Two Purchases Within Seven Days](UsersWithTwoPurchasesWithinSevenDays/users_with_two_purchases_within_seven_days.py)
 * [Maximum Candies Allocated to K Children](MaximumCandiesAllocatedtoKChildren/maximum_candies_allocated_to_k_children.py)
 * [Find Players With Zero or One Losses](FindPlayersWithZeroorOneLosses/find_players_with_zero_or_one_losses.py)
 * [Number of Ways to Select Buildings](NumberofWaystoSelectBuildings/number_of_ways_to_select_buildings.py)
