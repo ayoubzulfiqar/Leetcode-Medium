@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Alternating Subarray Sum](MaximumAlternatingSubarraySum/maximum_alternating_subarray_sum.py)
 * [Minimum Number of Swaps to Make the String Balanced](MinimumNumberofSwapstoMaketheStringBalanced/minimum_number_of_swaps_to_make_the_string_balanced.py)
 * [Maximum of Minimum Values in All Subarrays](MaximumofMinimumValuesinAllSubarrays/maximum_of_minimum_values_in_all_subarrays.py)
 * [Can You Eat Your Favorite Candy on Your Favorite Day](CanYouEatYourFavoriteCandyonYourFavoriteDay/can_you_eat_your_favorite_candy_on_your_favorite_day.py)
