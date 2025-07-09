@@ -1,5 +1,6 @@
 
 ## Medium
+* [Move Pieces to Obtain a String](MovePiecestoObtainaString/move_pieces_to_obtain_a_string.py)
 * [Smallest Number in Infinite Set](SmallestNumberinInfiniteSet/smallest_number_in_infinite_set.py)
 * [Minimum Sum of Squared Difference](MinimumSumofSquaredDifference/minimum_sum_of_squared_difference.py)
 * [The Latest Time to Catch a Bus](TheLatestTimetoCatchaBus/the_latest_time_to_catch_a_bus.py)
