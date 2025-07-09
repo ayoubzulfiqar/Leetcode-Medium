@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Sum of an Hourglass](MaximumSumofanHourglass/maximum_sum_of_an_hourglass.py)
 * [Bitwise XOR of All Pairings](BitwiseXORofAllPairings/bitwise_xor_of_all_pairings.py)
 * [Longest Uploaded Prefix](LongestUploadedPrefix/longest_uploaded_prefix.py)
 * [Merge Operations to Turn Array Into a Palindrome](MergeOperationstoTurnArrayIntoaPalindrome/merge_operations_to_turn_array_into_a_palindrome.py)
