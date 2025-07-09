@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Minimum and Maximum Number of Nodes Between Critical Points](FindtheMinimumandMaximumNumberofNodesBetweenCriticalPoints/find_the_minimum_and_maximum_number_of_nodes_between_critical_points.py)
 * [Plates Between Candles](PlatesBetweenCandles/plates_between_candles.py)
 * [Two Best Non-Overlapping Events](TwoBestNon-OverlappingEvents/two_best_non-overlapping_events.py)
 * [Minimum Cost to Separate Sentence Into Rows](MinimumCosttoSeparateSentenceIntoRows/minimum_cost_to_separate_sentence_into_rows.py)
