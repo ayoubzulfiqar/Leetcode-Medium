@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find All Possible Recipes from Given Supplies](FindAllPossibleRecipesfromGivenSupplies/find_all_possible_recipes_from_given_supplies.py)
 * [Elements in Array After Removing and Replacing Elements](ElementsinArrayAfterRemovingandReplacingElements/elements_in_array_after_removing_and_replacing_elements.py)
 * [The Airport With the Most Traffic](TheAirportWiththeMostTraffic/the_airport_with_the_most_traffic.py)
 * [Number of Smooth Descent Periods of a Stock](NumberofSmoothDescentPeriodsofaStock/number_of_smooth_descent_periods_of_a_stock.py)
