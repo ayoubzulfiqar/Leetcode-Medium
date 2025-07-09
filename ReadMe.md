@@ -1,5 +1,6 @@
 
 ## Medium
+* [Order Two Columns Independently](OrderTwoColumnsIndependently/order_two_columns_independently.py)
 * [All Divisions With the Highest Score of a Binary Array](AllDivisionsWiththeHighestScoreofaBinaryArray/all_divisions_with_the_highest_score_of_a_binary_array.py)
 * [Find All Lonely Numbers in the Array](FindAllLonelyNumbersintheArray/find_all_lonely_numbers_in_the_array.py)
 * [Rearrange Array Elements by Sign](RearrangeArrayElementsbySign/rearrange_array_elements_by_sign.py)
