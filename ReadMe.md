@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Ideal Subsequence](LongestIdealSubsequence/longest_ideal_subsequence.py)
 * [Check if There is a Valid Partition For The Array](CheckifThereisaValidPartitionForTheArray/check_if_there_is_a_valid_partition_for_the_array.py)
 * [Reachable Nodes With Restrictions](ReachableNodesWithRestrictions/reachable_nodes_with_restrictions.py)
 * [Task Scheduler II](TaskSchedulerII/task_scheduler_ii.py)
