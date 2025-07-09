@@ -1,5 +1,6 @@
 
 ## Medium
+* [Append Characters to String to Make Subsequence](AppendCharacterstoStringtoMakeSubsequence/append_characters_to_string_to_make_subsequence.py)
 * [Minimum Penalty for a Shop](MinimumPenaltyforaShop/minimum_penalty_for_a_shop.py)
 * [Difference Between Ones and Zeros in Row and Column](DifferenceBetweenOnesandZerosinRowandColumn/difference_between_ones_and_zeros_in_row_and_column.py)
 * [Minimum Fuel Cost to Report to the Capital](MinimumFuelCosttoReporttotheCapital/minimum_fuel_cost_to_report_to_the_capital.py)
