@@ -1,5 +1,6 @@
 
 ## Medium
+* [Plates Between Candles](PlatesBetweenCandles/plates_between_candles.py)
 * [Two Best Non-Overlapping Events](TwoBestNon-OverlappingEvents/two_best_non-overlapping_events.py)
 * [Minimum Cost to Separate Sentence Into Rows](MinimumCosttoSeparateSentenceIntoRows/minimum_cost_to_separate_sentence_into_rows.py)
 * [Sort Linked List Already Sorted Using Absolute Values](SortLinkedListAlreadySortedUsingAbsoluteValues/sort_linked_list_already_sorted_using_absolute_values.py)
