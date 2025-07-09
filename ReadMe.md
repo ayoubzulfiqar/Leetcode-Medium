@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Positions on Street With Required Brightness](CountPositionsonStreetWithRequiredBrightness/count_positions_on_street_with_required_brightness.py)
 * [Maximum Product After K Increments](MaximumProductAfterKIncrements/maximum_product_after_k_increments.py)
 * [Minimize Result by Adding Parentheses to Expression](MinimizeResultbyAddingParenthesestoExpression/minimize_result_by_adding_parentheses_to_expression.py)
 * [Users With Two Purchases Within Seven Days](UsersWithTwoPurchasesWithinSevenDays/users_with_two_purchases_within_seven_days.py)
