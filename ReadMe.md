@@ -1,5 +1,6 @@
 
 ## Medium
+* [Apply Discount to Prices](ApplyDiscounttoPrices/apply_discount_to_prices.py)
 * [Maximum Total Importance of Roads](MaximumTotalImportanceofRoads/maximum_total_importance_of_roads.py)
 * [Sender With Largest Word Count](SenderWithLargestWordCount/sender_with_largest_word_count.py)
 * [Minimum Lines to Represent a Line Chart](MinimumLinestoRepresentaLineChart/minimum_lines_to_represent_a_line_chart.py)
