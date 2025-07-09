@@ -1,5 +1,6 @@
 
 ## Medium
+* [Substrings That Begin and End With the Same Letter](SubstringsThatBeginandEndWiththeSameLetter/substrings_that_begin_and_end_with_the_same_letter.py)
 * [Range Frequency Queries](RangeFrequencyQueries/range_frequency_queries.py)
 * [Watering Plants](WateringPlants/watering_plants.py)
 * [Paths in Maze That Lead to Same Room](PathsinMazeThatLeadtoSameRoom/paths_in_maze_that_lead_to_same_room.py)
