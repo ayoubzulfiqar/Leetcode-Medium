@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Consecutive Floors Without Special Floors](MaximumConsecutiveFloorsWithoutSpecialFloors/maximum_consecutive_floors_without_special_floors.py)
 * [Number of Ways to Split Array](NumberofWaystoSplitArray/number_of_ways_to_split_array.py)
 * [Minimum Number of Keypresses](MinimumNumberofKeypresses/minimum_number_of_keypresses.py)
 * [Count Number of Texts](CountNumberofTexts/count_number_of_texts.py)
