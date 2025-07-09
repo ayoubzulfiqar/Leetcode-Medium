@@ -1,5 +1,6 @@
 
 ## Medium
+* [Destroying Asteroids](DestroyingAsteroids/destroying_asteroids.py)
 * [Number of Laser Beams in a Bank](NumberofLaserBeamsinaBank/number_of_laser_beams_in_a_bank.py)
 * [Intervals Between Identical Elements](IntervalsBetweenIdenticalElements/intervals_between_identical_elements.py)
 * [Execution of All Suffix Instructions Staying in a Grid](ExecutionofAllSuffixInstructionsStayinginaGrid/execution_of_all_suffix_instructions_staying_in_a_grid.py)
