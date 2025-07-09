@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Subarrays With LCM Equal to K](NumberofSubarraysWithLCMEqualtoK/number_of_subarrays_with_lcm_equal_to_k.py)
 * [Most Profitable Path in a Tree](MostProfitablePathinaTree/most_profitable_path_in_a_tree.py)
 * [Count Ways To Build Good Strings](CountWaysToBuildGoodStrings/count_ways_to_build_good_strings.py)
 * [Total Cost to Hire K Workers](TotalCosttoHireKWorkers/total_cost_to_hire_k_workers.py)
