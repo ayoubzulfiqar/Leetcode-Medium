@@ -1,5 +1,6 @@
 
 ## Medium
+* [Equal Row and Column Pairs](EqualRowandColumnPairs/equal_row_and_column_pairs.py)
 * [Design a Number Container System](DesignaNumberContainerSystem/design_a_number_container_system.py)
 * [Number of Zero-Filled Subarrays](NumberofZero-FilledSubarrays/number_of_zero-filled_subarrays.py)
 * [Compute the Rank as a Percentage](ComputetheRankasaPercentage/compute_the_rank_as_a_percentage.py)
