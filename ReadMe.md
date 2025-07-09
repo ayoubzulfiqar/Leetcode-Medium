@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Ways To Build Good Strings](CountWaysToBuildGoodStrings/count_ways_to_build_good_strings.py)
 * [Total Cost to Hire K Workers](TotalCosttoHireKWorkers/total_cost_to_hire_k_workers.py)
 * [Maximum Sum of Distinct Subarrays With Length K](MaximumSumofDistinctSubarraysWithLengthK/maximum_sum_of_distinct_subarrays_with_length_k.py)
 * [Most Popular Video Creator](MostPopularVideoCreator/most_popular_video_creator.py)
