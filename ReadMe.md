@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Number of Texts](CountNumberofTexts/count_number_of_texts.py)
 * [Count Nodes Equal to Average of Subtree](CountNodesEqualtoAverageofSubtree/count_nodes_equal_to_average_of_subtree.py)
 * [K Divisible Elements Subarrays](KDivisibleElementsSubarrays/k_divisible_elements_subarrays.py)
 * [Minimum Consecutive Cards to Pick Up](MinimumConsecutiveCardstoPickUp/minimum_consecutive_cards_to_pick_up.py)
