@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Total Importance of Roads](MaximumTotalImportanceofRoads/maximum_total_importance_of_roads.py)
 * [Sender With Largest Word Count](SenderWithLargestWordCount/sender_with_largest_word_count.py)
 * [Minimum Lines to Represent a Line Chart](MinimumLinestoRepresentaLineChart/minimum_lines_to_represent_a_line_chart.py)
 * [Maximum Bags With Full Capacity of Rocks](MaximumBagsWithFullCapacityofRocks/maximum_bags_with_full_capacity_of_rocks.py)
