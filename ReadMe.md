@@ -1,5 +1,6 @@
 
 ## Medium
+* [Detonate the Maximum Bombs](DetonatetheMaximumBombs/detonate_the_maximum_bombs.py)
 * [Find Good Days to Rob the Bank](FindGoodDaystoRobtheBank/find_good_days_to_rob_the_bank.py)
 * [Subsequence of Size K With the Largest Even Sum](SubsequenceofSizeKWiththeLargestEvenSum/subsequence_of_size_k_with_the_largest_even_sum.py)
 * [Step-By-Step Directions From a Binary Tree Node to Another](Step-By-StepDirectionsFromaBinaryTreeNodetoAnother/step-by-step_directions_from_a_binary_tree_node_to_another.py)
