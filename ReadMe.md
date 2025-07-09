@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Bags With Full Capacity of Rocks](MaximumBagsWithFullCapacityofRocks/maximum_bags_with_full_capacity_of_rocks.py)
 * [Largest Combination With Bitwise AND Greater Than Zero](LargestCombinationWithBitwiseANDGreaterThanZero/largest_combination_with_bitwise_and_greater_than_zero.py)
 * [Maximum Consecutive Floors Without Special Floors](MaximumConsecutiveFloorsWithoutSpecialFloors/maximum_consecutive_floors_without_special_floors.py)
 * [Number of Ways to Split Array](NumberofWaystoSplitArray/number_of_ways_to_split_array.py)
