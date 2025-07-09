@@ -1,5 +1,6 @@
 
 ## Medium
+* [The Latest Time to Catch a Bus](TheLatestTimetoCatchaBus/the_latest_time_to_catch_a_bus.py)
 * [Valid Palindrome IV](ValidPalindromeIV/valid_palindrome_iv.py)
 * [Spiral Matrix IV](SpiralMatrixIV/spiral_matrix_iv.py)
 * [Product Sales Analysis IV](ProductSalesAnalysisIV/product_sales_analysis_iv.py)
