@@ -1,5 +1,6 @@
 
 ## Medium
+* [All Ancestors of a Node in a Directed Acyclic Graph](AllAncestorsofaNodeinaDirectedAcyclicGraph/all_ancestors_of_a_node_in_a_directed_acyclic_graph.py)
 * [Sort the Jumbled Numbers](SorttheJumbledNumbers/sort_the_jumbled_numbers.py)
 * [Number of Ways to Build House of Cards](NumberofWaystoBuildHouseofCards/number_of_ways_to_build_house_of_cards.py)
 * [Minimum Time to Complete Trips](MinimumTimetoCompleteTrips/minimum_time_to_complete_trips.py)
