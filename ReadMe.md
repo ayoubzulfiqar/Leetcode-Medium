@@ -1,5 +1,6 @@
 
 ## Medium
+* [Smallest Value of the Rearranged Number](SmallestValueoftheRearrangedNumber/smallest_value_of_the_rearranged_number.py)
 * [Minimum Cost to Set Cooking Time](MinimumCosttoSetCookingTime/minimum_cost_to_set_cooking_time.py)
 * [Partition Array According to Given Pivot](PartitionArrayAccordingtoGivenPivot/partition_array_according_to_given_pivot.py)
 * [Order Two Columns Independently](OrderTwoColumnsIndependently/order_two_columns_independently.py)
