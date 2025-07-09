@@ -1,5 +1,6 @@
 
 ## Medium
+* [Employees With Deductions](EmployeesWithDeductions/employees_with_deductions.py)
 * [Count Strictly Increasing Subarrays](CountStrictlyIncreasingSubarrays/count_strictly_increasing_subarrays.py)
 * [Minimum Amount of Time to Collect Garbage](MinimumAmountofTimetoCollectGarbage/minimum_amount_of_time_to_collect_garbage.py)
 * [Removing Stars From a String](RemovingStarsFromaString/removing_stars_from_a_string.py)
