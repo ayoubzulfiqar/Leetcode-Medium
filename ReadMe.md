@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find All Lonely Numbers in the Array](FindAllLonelyNumbersintheArray/find_all_lonely_numbers_in_the_array.py)
 * [Rearrange Array Elements by Sign](RearrangeArrayElementsbySign/rearrange_array_elements_by_sign.py)
 * [K Highest Ranked Items Within a Price Range](KHighestRankedItemsWithinaPriceRange/k_highest_ranked_items_within_a_price_range.py)
 * [Count the Hidden Sequences](CounttheHiddenSequences/count_the_hidden_sequences.py)
