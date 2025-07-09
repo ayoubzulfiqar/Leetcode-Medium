@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Unique Flavors After Sharing K Candies](NumberofUniqueFlavorsAfterSharingKCandies/number_of_unique_flavors_after_sharing_k_candies.py)
 * [Watering Plants II](WateringPlantsII/watering_plants_ii.py)
 * [Sum of Subarray Ranges](SumofSubarrayRanges/sum_of_subarray_ranges.py)
 * [Detonate the Maximum Bombs](DetonatetheMaximumBombs/detonate_the_maximum_bombs.py)
