@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimize XOR](MinimizeXOR/minimize_xor.py)
 * [Maximum Sum of an Hourglass](MaximumSumofanHourglass/maximum_sum_of_an_hourglass.py)
 * [Bitwise XOR of All Pairings](BitwiseXORofAllPairings/bitwise_xor_of_all_pairings.py)
 * [Longest Uploaded Prefix](LongestUploadedPrefix/longest_uploaded_prefix.py)
