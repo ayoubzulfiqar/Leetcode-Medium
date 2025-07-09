@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Lattice Points Inside a Circle](CountLatticePointsInsideaCircle/count_lattice_points_inside_a_circle.py)
 * [Minimum Rounds to Complete All Tasks](MinimumRoundstoCompleteAllTasks/minimum_rounds_to_complete_all_tasks.py)
 * [Design an ATM Machine](DesignanATMMachine/design_an_atm_machine.py)
 * [Number of Ways to Buy Pens and Pencils](NumberofWaystoBuyPensandPencils/number_of_ways_to_buy_pens_and_pencils.py)
