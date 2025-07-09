@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Fuel Cost to Report to the Capital](MinimumFuelCosttoReporttotheCapital/minimum_fuel_cost_to_report_to_the_capital.py)
 * [Closest Nodes Queries in a Binary Search Tree](ClosestNodesQueriesinaBinarySearchTree/closest_nodes_queries_in_a_binary_search_tree.py)
 * [Minimum Cost to Buy Apples](MinimumCosttoBuyApples/minimum_cost_to_buy_apples.py)
 * [Minimum Number of Operations to Sort a Binary Tree by Level](MinimumNumberofOperationstoSortaBinaryTreebyLevel/minimum_number_of_operations_to_sort_a_binary_tree_by_level.py)
