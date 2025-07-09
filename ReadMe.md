@@ -1,5 +1,6 @@
 
 ## Medium
+* [Delete the Middle Node of a Linked List](DeletetheMiddleNodeofaLinkedList/delete_the_middle_node_of_a_linked_list.py)
 * [Minimum Cost to Reach City With Discounts](MinimumCosttoReachCityWithDiscounts/minimum_cost_to_reach_city_with_discounts.py)
 * [Removing Minimum and Maximum From Array](RemovingMinimumandMaximumFromArray/removing_minimum_and_maximum_from_array.py)
 * [K Radius Subarray Averages](KRadiusSubarrayAverages/k_radius_subarray_averages.py)
