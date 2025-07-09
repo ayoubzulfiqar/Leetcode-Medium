@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Equal Count Substrings](NumberofEqualCountSubstrings/number_of_equal_count_substrings.py)
 * [Account Balance](AccountBalance/account_balance.py)
 * [Minimized Maximum of Products Distributed to Any Store](MinimizedMaximumofProductsDistributedtoAnyStore/minimized_maximum_of_products_distributed_to_any_store.py)
 * [Vowels of All Substrings](VowelsofAllSubstrings/vowels_of_all_substrings.py)
