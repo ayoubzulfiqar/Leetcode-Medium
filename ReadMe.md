@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Number of Bad Pairs](CountNumberofBadPairs/count_number_of_bad_pairs.py)
 * [Find Closest Node to Given Two Nodes](FindClosestNodetoGivenTwoNodes/find_closest_node_to_given_two_nodes.py)
 * [Maximum Number of Groups Entering a Competition](MaximumNumberofGroupsEnteringaCompetition/maximum_number_of_groups_entering_a_competition.py)
 * [Design a Food Rating System](DesignaFoodRatingSystem/design_a_food_rating_system.py)
