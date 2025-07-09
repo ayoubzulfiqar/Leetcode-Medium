@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sort Linked List Already Sorted Using Absolute Values](SortLinkedListAlreadySortedUsingAbsoluteValues/sort_linked_list_already_sorted_using_absolute_values.py)
 * [Maximum Alternating Subarray Sum](MaximumAlternatingSubarraySum/maximum_alternating_subarray_sum.py)
 * [Minimum Number of Swaps to Make the String Balanced](MinimumNumberofSwapstoMaketheStringBalanced/minimum_number_of_swaps_to_make_the_string_balanced.py)
 * [Maximum of Minimum Values in All Subarrays](MaximumofMinimumValuesinAllSubarrays/maximum_of_minimum_values_in_all_subarrays.py)
