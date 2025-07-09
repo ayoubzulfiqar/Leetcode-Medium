@@ -1,5 +1,6 @@
 
 ## Medium
+* [Remove All Ones With Row and Column Flips](RemoveAllOnesWithRowandColumnFlips/remove_all_ones_with_row_and_column_flips.py)
 * [Destroying Asteroids](DestroyingAsteroids/destroying_asteroids.py)
 * [Number of Laser Beams in a Bank](NumberofLaserBeamsinaBank/number_of_laser_beams_in_a_bank.py)
 * [Intervals Between Identical Elements](IntervalsBetweenIdenticalElements/intervals_between_identical_elements.py)
