@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Amount of Time to Collect Garbage](MinimumAmountofTimetoCollectGarbage/minimum_amount_of_time_to_collect_garbage.py)
 * [Removing Stars From a String](RemovingStarsFromaString/removing_stars_from_a_string.py)
 * [Change Null Values in a Table to the Previous Value](ChangeNullValuesinaTabletothePreviousValue/change_null_values_in_a_table_to_the_previous_value.py)
 * [Median of a Row Wise Sorted Matrix](MedianofaRowWiseSortedMatrix/median_of_a_row_wise_sorted_matrix.py)
