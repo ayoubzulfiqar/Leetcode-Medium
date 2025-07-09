@@ -1,5 +1,6 @@
 
 ## Medium
+* [K Highest Ranked Items Within a Price Range](KHighestRankedItemsWithinaPriceRange/k_highest_ranked_items_within_a_price_range.py)
 * [Count the Hidden Sequences](CounttheHiddenSequences/count_the_hidden_sequences.py)
 * [Solving Questions With Brainpower](SolvingQuestionsWithBrainpower/solving_questions_with_brainpower.py)
 * [Minimum Moves to Reach Target Score](MinimumMovestoReachTargetScore/minimum_moves_to_reach_target_score.py)
