@@ -1,5 +1,6 @@
 
 ## Medium
+* [Can You Eat Your Favorite Candy on Your Favorite Day](CanYouEatYourFavoriteCandyonYourFavoriteDay/can_you_eat_your_favorite_candy_on_your_favorite_day.py)
 * [The Category of Each Member in the Store](TheCategoryofEachMemberintheStore/the_category_of_each_member_in_the_store.py)
 * [Count Nodes With the Highest Score](CountNodesWiththeHighestScore/count_nodes_with_the_highest_score.py)
 * [Next Greater Numerically Balanced Number](NextGreaterNumericallyBalancedNumber/next_greater_numerically_balanced_number.py)
