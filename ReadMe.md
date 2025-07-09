@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Ways to Split Array](NumberofWaystoSplitArray/number_of_ways_to_split_array.py)
 * [Minimum Number of Keypresses](MinimumNumberofKeypresses/minimum_number_of_keypresses.py)
 * [Count Number of Texts](CountNumberofTexts/count_number_of_texts.py)
 * [Count Nodes Equal to Average of Subtree](CountNodesEqualtoAverageofSubtree/count_nodes_equal_to_average_of_subtree.py)
