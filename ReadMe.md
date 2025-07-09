@@ -1,5 +1,6 @@
 
 ## Medium
+* [Reachable Nodes With Restrictions](ReachableNodesWithRestrictions/reachable_nodes_with_restrictions.py)
 * [Task Scheduler II](TaskSchedulerII/task_scheduler_ii.py)
 * [Count Number of Bad Pairs](CountNumberofBadPairs/count_number_of_bad_pairs.py)
 * [Find Closest Node to Given Two Nodes](FindClosestNodetoGivenTwoNodes/find_closest_node_to_given_two_nodes.py)
