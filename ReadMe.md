@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Subarray With Maximum Bitwise AND](LongestSubarrayWithMaximumBitwiseAND/longest_subarray_with_maximum_bitwise_and.py)
 * [Reverse Odd Levels of Binary Tree](ReverseOddLevelsofBinaryTree/reverse_odd_levels_of_binary_tree.py)
 * [Length of the Longest Alphabetical Continuous Substring](LengthoftheLongestAlphabeticalContinuousSubstring/length_of_the_longest_alphabetical_continuous_substring.py)
 * [Maximum Matching of Players With Trainers](MaximumMatchingofPlayersWithTrainers/maximum_matching_of_players_with_trainers.py)
