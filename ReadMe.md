@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximize Number of Subsequences in a String](MaximizeNumberofSubsequencesinaString/maximize_number_of_subsequences_in_a_string.py)
 * [Count Artifacts That Can Be Extracted](CountArtifactsThatCanBeExtracted/count_artifacts_that_can_be_extracted.py)
 * [Number of Single Divisor Triplets](NumberofSingleDivisorTriplets/number_of_single_divisor_triplets.py)
 * [Create Binary Tree From Descriptions](CreateBinaryTreeFromDescriptions/create_binary_tree_from_descriptions.py)
