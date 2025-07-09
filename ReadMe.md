@@ -1,5 +1,6 @@
 
 ## Medium
+* [Tasks Count in the Weekend](TasksCountintheWeekend/tasks_count_in_the_weekend.py)
 * [Jump Game VIII](JumpGameVIII/jump_game_viii.py)
 * [Replace Elements in an Array](ReplaceElementsinanArray/replace_elements_in_an_array.py)
 * [Partition Array Such That Maximum Difference Is K](PartitionArraySuchThatMaximumDifferenceIsK/partition_array_such_that_maximum_difference_is_k.py)
