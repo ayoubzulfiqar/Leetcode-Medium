@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Operations to Convert Number](MinimumOperationstoConvertNumber/minimum_operations_to_convert_number.py)
 * [Find the Minimum and Maximum Number of Nodes Between Critical Points](FindtheMinimumandMaximumNumberofNodesBetweenCriticalPoints/find_the_minimum_and_maximum_number_of_nodes_between_critical_points.py)
 * [Plates Between Candles](PlatesBetweenCandles/plates_between_candles.py)
 * [Two Best Non-Overlapping Events](TwoBestNon-OverlappingEvents/two_best_non-overlapping_events.py)
