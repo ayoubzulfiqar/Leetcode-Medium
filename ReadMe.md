@@ -1,5 +1,6 @@
 
 ## Medium
+* [Construct String With Repeat Limit](ConstructStringWithRepeatLimit/construct_string_with_repeat_limit.py)
 * [Merge Nodes in Between Zeros](MergeNodesinBetweenZeros/merge_nodes_in_between_zeros.py)
 * [Maximum Split of Positive Even Integers](MaximumSplitofPositiveEvenIntegers/maximum_split_of_positive_even_integers.py)
 * [Find Three Consecutive Integers That Sum to a Given Number](FindThreeConsecutiveIntegersThatSumtoaGivenNumber/find_three_consecutive_integers_that_sum_to_a_given_number.py)
