@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Ways to Build House of Cards](NumberofWaystoBuildHouseofCards/number_of_ways_to_build_house_of_cards.py)
 * [Minimum Time to Complete Trips](MinimumTimetoCompleteTrips/minimum_time_to_complete_trips.py)
 * [Minimum Number of Steps to Make Two Strings Anagram II](MinimumNumberofStepstoMakeTwoStringsAnagramII/minimum_number_of_steps_to_make_two_strings_anagram_ii.py)
 * [Construct String With Repeat Limit](ConstructStringWithRepeatLimit/construct_string_with_repeat_limit.py)
