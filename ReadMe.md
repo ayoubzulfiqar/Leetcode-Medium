@@ -1,5 +1,6 @@
 
 ## Medium
+* [The First Day of the Maximum Recorded Degree in Each City](TheFirstDayoftheMaximumRecordedDegreeinEachCity/the_first_day_of_the_maximum_recorded_degree_in_each_city.py)
 * [Longest Binary Subsequence Less Than or Equal to K](LongestBinarySubsequenceLessThanorEqualtoK/longest_binary_subsequence_less_than_or_equal_to_k.py)
 * [Sum of Numbers With Units Digit K](SumofNumbersWithUnitsDigitK/sum_of_numbers_with_units_digit_k.py)
 * [Arrange Table by Gender](ArrangeTablebyGender/arrange_table_by_gender.py)
