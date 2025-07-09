@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Operations to Make the Array Alternating](MinimumOperationstoMaketheArrayAlternating/minimum_operations_to_make_the_array_alternating.py)
 * [Unique Substrings With Equal Digit Frequency](UniqueSubstringsWithEqualDigitFrequency/unique_substrings_with_equal_digit_frequency.py)
 * [Design Bitset](DesignBitset/design_bitset.py)
 * [Smallest Value of the Rearranged Number](SmallestValueoftheRearrangedNumber/smallest_value_of_the_rearranged_number.py)
