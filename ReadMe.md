@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Artifacts That Can Be Extracted](CountArtifactsThatCanBeExtracted/count_artifacts_that_can_be_extracted.py)
 * [Number of Single Divisor Triplets](NumberofSingleDivisorTriplets/number_of_single_divisor_triplets.py)
 * [Create Binary Tree From Descriptions](CreateBinaryTreeFromDescriptions/create_binary_tree_from_descriptions.py)
 * [Append K Integers With Minimal Sum](AppendKIntegersWithMinimalSum/append_k_integers_with_minimal_sum.py)
