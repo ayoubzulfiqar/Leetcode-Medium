@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Uploaded Prefix](LongestUploadedPrefix/longest_uploaded_prefix.py)
 * [Merge Operations to Turn Array Into a Palindrome](MergeOperationstoTurnArrayIntoaPalindrome/merge_operations_to_turn_array_into_a_palindrome.py)
 * [Find All Good Indices](FindAllGoodIndices/find_all_good_indices.py)
 * [Longest Subarray With Maximum Bitwise AND](LongestSubarrayWithMaximumBitwiseAND/longest_subarray_with_maximum_bitwise_and.py)
