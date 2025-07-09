@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Subarrays With GCD Equal to K](NumberofSubarraysWithGCDEqualtoK/number_of_subarrays_with_gcd_equal_to_k.py)
 * [Number of Nodes With Value One](NumberofNodesWithValueOne/number_of_nodes_with_value_one.py)
 * [Sum of Number and Its Reverse](SumofNumberandItsReverse/sum_of_number_and_its_reverse.py)
 * [Count Number of Distinct Integers After Reverse Operations](CountNumberofDistinctIntegersAfterReverseOperations/count_number_of_distinct_integers_after_reverse_operations.py)
