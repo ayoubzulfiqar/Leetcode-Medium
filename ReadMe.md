@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find The Original Array of Prefix Xor](FindTheOriginalArrayofPrefixXor/find_the_original_array_of_prefix_xor.py)
 * [Maximize Total Tastiness of Purchased Fruits](MaximizeTotalTastinessofPurchasedFruits/maximize_total_tastiness_of_purchased_fruits.py)
 * [Minimize XOR](MinimizeXOR/minimize_xor.py)
 * [Maximum Sum of an Hourglass](MaximumSumofanHourglass/maximum_sum_of_an_hourglass.py)
