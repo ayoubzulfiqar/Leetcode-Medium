@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Players With Zero or One Losses](FindPlayersWithZeroorOneLosses/find_players_with_zero_or_one_losses.py)
 * [Number of Ways to Select Buildings](NumberofWaystoSelectBuildings/number_of_ways_to_select_buildings.py)
 * [Find Triangular Sum of an Array](FindTriangularSumofanArray/find_triangular_sum_of_an_array.py)
 * [Maximum Sum Score of Array](MaximumSumScoreofArray/maximum_sum_score_of_array.py)
