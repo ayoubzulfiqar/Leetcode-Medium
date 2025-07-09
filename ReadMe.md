@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Collisions on a Road](CountCollisionsonaRoad/count_collisions_on_a_road.py)
 * [Minimum Operations to Halve Array Sum](MinimumOperationstoHalveArraySum/minimum_operations_to_halve_array_sum.py)
 * [Maximize Number of Subsequences in a String](MaximizeNumberofSubsequencesinaString/maximize_number_of_subsequences_in_a_string.py)
 * [Count Artifacts That Can Be Extracted](CountArtifactsThatCanBeExtracted/count_artifacts_that_can_be_extracted.py)
