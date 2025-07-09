@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Groups Entering a Competition](MaximumNumberofGroupsEnteringaCompetition/maximum_number_of_groups_entering_a_competition.py)
 * [Design a Food Rating System](DesignaFoodRatingSystem/design_a_food_rating_system.py)
 * [Equal Row and Column Pairs](EqualRowandColumnPairs/equal_row_and_column_pairs.py)
 * [Design a Number Container System](DesignaNumberContainerSystem/design_a_number_container_system.py)
