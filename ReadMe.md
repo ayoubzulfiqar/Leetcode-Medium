@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Nodes With Value One](NumberofNodesWithValueOne/number_of_nodes_with_value_one.py)
 * [Sum of Number and Its Reverse](SumofNumberandItsReverse/sum_of_number_and_its_reverse.py)
 * [Count Number of Distinct Integers After Reverse Operations](CountNumberofDistinctIntegersAfterReverseOperations/count_number_of_distinct_integers_after_reverse_operations.py)
 * [Range Product Queries of Powers](RangeProductQueriesofPowers/range_product_queries_of_powers.py)
