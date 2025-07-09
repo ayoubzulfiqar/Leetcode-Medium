@@ -1,5 +1,6 @@
 
 ## Medium
+* [Vowels of All Substrings](VowelsofAllSubstrings/vowels_of_all_substrings.py)
 * [Number of Spaces Cleaning Robot Cleaned](NumberofSpacesCleaningRobotCleaned/number_of_spaces_cleaning_robot_cleaned.py)
 * [Minimum Operations to Convert Number](MinimumOperationstoConvertNumber/minimum_operations_to_convert_number.py)
 * [Find the Minimum and Maximum Number of Nodes Between Critical Points](FindtheMinimumandMaximumNumberofNodesBetweenCriticalPoints/find_the_minimum_and_maximum_number_of_nodes_between_critical_points.py)
