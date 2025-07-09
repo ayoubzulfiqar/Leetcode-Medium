@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count the Hidden Sequences](CounttheHiddenSequences/count_the_hidden_sequences.py)
 * [Solving Questions With Brainpower](SolvingQuestionsWithBrainpower/solving_questions_with_brainpower.py)
 * [Minimum Moves to Reach Target Score](MinimumMovestoReachTargetScore/minimum_moves_to_reach_target_score.py)
 * [Pour Water Between Buckets to Make Water Levels Equal](PourWaterBetweenBucketstoMakeWaterLevelsEqual/pour_water_between_buckets_to_make_water_levels_equal.py)
