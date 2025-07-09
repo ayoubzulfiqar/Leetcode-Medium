@@ -1,5 +1,6 @@
 
 ## Medium
+* [Successful Pairs of Spells and Potions](SuccessfulPairsofSpellsandPotions/successful_pairs_of_spells_and_potions.py)
 * [Tasks Count in the Weekend](TasksCountintheWeekend/tasks_count_in_the_weekend.py)
 * [Jump Game VIII](JumpGameVIII/jump_game_viii.py)
 * [Replace Elements in an Array](ReplaceElementsinanArray/replace_elements_in_an_array.py)
