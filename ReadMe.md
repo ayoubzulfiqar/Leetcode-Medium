@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimize Result by Adding Parentheses to Expression](MinimizeResultbyAddingParenthesestoExpression/minimize_result_by_adding_parentheses_to_expression.py)
 * [Users With Two Purchases Within Seven Days](UsersWithTwoPurchasesWithinSevenDays/users_with_two_purchases_within_seven_days.py)
 * [Maximum Candies Allocated to K Children](MaximumCandiesAllocatedtoKChildren/maximum_candies_allocated_to_k_children.py)
 * [Find Players With Zero or One Losses](FindPlayersWithZeroorOneLosses/find_players_with_zero_or_one_losses.py)
