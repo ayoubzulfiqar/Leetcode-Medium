@@ -1,5 +1,6 @@
 
 ## Medium
+* [Choose Edges to Maximize Score in a Tree](ChooseEdgestoMaximizeScoreinaTree/choose_edges_to_maximize_score_in_a_tree.py)
 * [Node With Highest Edge Score](NodeWithHighestEdgeScore/node_with_highest_edge_score.py)
 * [Calculate the Influence of Each Salesperson](CalculatetheInfluenceofEachSalesperson/calculate_the_influence_of_each_salesperson.py)
 * [Longest Ideal Subsequence](LongestIdealSubsequence/longest_ideal_subsequence.py)
