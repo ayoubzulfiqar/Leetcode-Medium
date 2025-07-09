@@ -1,5 +1,6 @@
 
 ## Medium
+* [Range Frequency Queries](RangeFrequencyQueries/range_frequency_queries.py)
 * [Watering Plants](WateringPlants/watering_plants.py)
 * [Paths in Maze That Lead to Same Room](PathsinMazeThatLeadtoSameRoom/paths_in_maze_that_lead_to_same_room.py)
 * [Reverse Nodes in Even Length Groups](ReverseNodesinEvenLengthGroups/reverse_nodes_in_even_length_groups.py)
