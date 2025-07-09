@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Unguarded Cells in the Grid](CountUnguardedCellsintheGrid/count_unguarded_cells_in_the_grid.py)
 * [Minimum Average Difference](MinimumAverageDifference/minimum_average_difference.py)
 * [Count Number of Rectangles Containing Each Point](CountNumberofRectanglesContainingEachPoint/count_number_of_rectangles_containing_each_point.py)
 * [Count Lattice Points Inside a Circle](CountLatticePointsInsideaCircle/count_lattice_points_inside_a_circle.py)
