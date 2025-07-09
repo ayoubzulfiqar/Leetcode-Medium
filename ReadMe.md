@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Cost to Reach City With Discounts](MinimumCosttoReachCityWithDiscounts/minimum_cost_to_reach_city_with_discounts.py)
 * [Removing Minimum and Maximum From Array](RemovingMinimumandMaximumFromArray/removing_minimum_and_maximum_from_array.py)
 * [K Radius Subarray Averages](KRadiusSubarrayAverages/k_radius_subarray_averages.py)
 * [Minimum Cost Homecoming of a Robot in a Grid](MinimumCostHomecomingofaRobotinaGrid/minimum_cost_homecoming_of_a_robot_in_a_grid.py)
