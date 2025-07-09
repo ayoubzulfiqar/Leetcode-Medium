@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Ways to Select Buildings](NumberofWaystoSelectBuildings/number_of_ways_to_select_buildings.py)
 * [Find Triangular Sum of an Array](FindTriangularSumofanArray/find_triangular_sum_of_an_array.py)
 * [Maximum Sum Score of Array](MaximumSumScoreofArray/maximum_sum_score_of_array.py)
 * [Find Palindrome With Fixed Length](FindPalindromeWithFixedLength/find_palindrome_with_fixed_length.py)
