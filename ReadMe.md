@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Number of Rectangles Containing Each Point](CountNumberofRectanglesContainingEachPoint/count_number_of_rectangles_containing_each_point.py)
 * [Count Lattice Points Inside a Circle](CountLatticePointsInsideaCircle/count_lattice_points_inside_a_circle.py)
 * [Minimum Rounds to Complete All Tasks](MinimumRoundstoCompleteAllTasks/minimum_rounds_to_complete_all_tasks.py)
 * [Design an ATM Machine](DesignanATMMachine/design_an_atm_machine.py)
