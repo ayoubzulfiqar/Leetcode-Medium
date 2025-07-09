@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Split Into Subarrays With GCD Greater Than One](MinimumSplitIntoSubarraysWithGCDGreaterThanOne/minimum_split_into_subarrays_with_gcd_greater_than_one.py)
 * [Using a Robot to Print the Lexicographically Smallest String](UsingaRobottoPrinttheLexicographicallySmallestString/using_a_robot_to_print_the_lexicographically_smallest_string.py)
 * [Find The Original Array of Prefix Xor](FindTheOriginalArrayofPrefixXor/find_the_original_array_of_prefix_xor.py)
 * [Maximize Total Tastiness of Purchased Fruits](MaximizeTotalTastinessofPurchasedFruits/maximize_total_tastiness_of_purchased_fruits.py)
