@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Deletions to Make Array Beautiful](MinimumDeletionstoMakeArrayBeautiful/minimum_deletions_to_make_array_beautiful.py)
 * [Minimum Health to Beat Game](MinimumHealthtoBeatGame/minimum_health_to_beat_game.py)
 * [Count Collisions on a Road](CountCollisionsonaRoad/count_collisions_on_a_road.py)
 * [Minimum Operations to Halve Array Sum](MinimumOperationstoHalveArraySum/minimum_operations_to_halve_array_sum.py)
