@@ -1,5 +1,6 @@
 
 ## Medium
+* [Paths in Maze That Lead to Same Room](PathsinMazeThatLeadtoSameRoom/paths_in_maze_that_lead_to_same_room.py)
 * [Reverse Nodes in Even Length Groups](ReverseNodesinEvenLengthGroups/reverse_nodes_in_even_length_groups.py)
 * [Most Beautiful Item for Each Query](MostBeautifulItemforEachQuery/most_beautiful_item_for_each_query.py)
 * [Number of Equal Count Substrings](NumberofEqualCountSubstrings/number_of_equal_count_substrings.py)
