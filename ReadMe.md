@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Product After K Increments](MaximumProductAfterKIncrements/maximum_product_after_k_increments.py)
 * [Minimize Result by Adding Parentheses to Expression](MinimizeResultbyAddingParenthesestoExpression/minimize_result_by_adding_parentheses_to_expression.py)
 * [Users With Two Purchases Within Seven Days](UsersWithTwoPurchasesWithinSevenDays/users_with_two_purchases_within_seven_days.py)
 * [Maximum Candies Allocated to K Children](MaximumCandiesAllocatedtoKChildren/maximum_candies_allocated_to_k_children.py)
