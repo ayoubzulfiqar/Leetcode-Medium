@@ -1,5 +1,6 @@
 
 ## Medium
+* [Amount of Time for Binary Tree to Be Infected](AmountofTimeforBinaryTreetoBeInfected/amount_of_time_for_binary_tree_to_be_infected.py)
 * [Largest Palindromic Number](LargestPalindromicNumber/largest_palindromic_number.py)
 * [Shifting Letters II](ShiftingLettersII/shifting_letters_ii.py)
 * [Choose Edges to Maximize Score in a Tree](ChooseEdgestoMaximizeScoreinaTree/choose_edges_to_maximize_score_in_a_tree.py)
