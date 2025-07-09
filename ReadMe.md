@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design SQL](DesignSQL/design_sql.py)
 * [Divide Intervals Into Minimum Number of Groups](DivideIntervalsIntoMinimumNumberofGroups/divide_intervals_into_minimum_number_of_groups.py)
 * [Optimal Partition of String](OptimalPartitionofString/optimal_partition_of_string.py)
 * [Longest Nice Subarray](LongestNiceSubarray/longest_nice_subarray.py)
