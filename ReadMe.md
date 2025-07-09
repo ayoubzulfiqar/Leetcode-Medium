@@ -1,5 +1,6 @@
 
 ## Medium
+* [Unique Substrings With Equal Digit Frequency](UniqueSubstringsWithEqualDigitFrequency/unique_substrings_with_equal_digit_frequency.py)
 * [Design Bitset](DesignBitset/design_bitset.py)
 * [Smallest Value of the Rearranged Number](SmallestValueoftheRearrangedNumber/smallest_value_of_the_rearranged_number.py)
 * [Minimum Cost to Set Cooking Time](MinimumCosttoSetCookingTime/minimum_cost_to_set_cooking_time.py)
