@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Adjacent Swaps to Make a Valid Array](MinimumAdjacentSwapstoMakeaValidArray/minimum_adjacent_swaps_to_make_a_valid_array.py)
 * [Move Pieces to Obtain a String](MovePiecestoObtainaString/move_pieces_to_obtain_a_string.py)
 * [Smallest Number in Infinite Set](SmallestNumberinInfiniteSet/smallest_number_in_infinite_set.py)
 * [Minimum Sum of Squared Difference](MinimumSumofSquaredDifference/minimum_sum_of_squared_difference.py)
