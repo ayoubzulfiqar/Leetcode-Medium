@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Sum of Distinct Subarrays With Length K](MaximumSumofDistinctSubarraysWithLengthK/maximum_sum_of_distinct_subarrays_with_length_k.py)
 * [Most Popular Video Creator](MostPopularVideoCreator/most_popular_video_creator.py)
 * [Destroy Sequential Targets](DestroySequentialTargets/destroy_sequential_targets.py)
 * [Words Within Two Edits of Dictionary](WordsWithinTwoEditsofDictionary/words_within_two_edits_of_dictionary.py)
