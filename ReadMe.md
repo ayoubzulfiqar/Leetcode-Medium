@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design a Food Rating System](DesignaFoodRatingSystem/design_a_food_rating_system.py)
 * [Equal Row and Column Pairs](EqualRowandColumnPairs/equal_row_and_column_pairs.py)
 * [Design a Number Container System](DesignaNumberContainerSystem/design_a_number_container_system.py)
 * [Number of Zero-Filled Subarrays](NumberofZero-FilledSubarrays/number_of_zero-filled_subarrays.py)
