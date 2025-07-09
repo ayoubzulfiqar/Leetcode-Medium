@@ -1,5 +1,6 @@
 
 ## Medium
+* [Query Kth Smallest Trimmed Number](QueryKthSmallestTrimmedNumber/query_kth_smallest_trimmed_number.py)
 * [Max Sum of a Pair With Equal Sum of Digits](MaxSumofaPairWithEqualSumofDigits/max_sum_of_a_pair_with_equal_sum_of_digits.py)
 * [Minimum Adjacent Swaps to Make a Valid Array](MinimumAdjacentSwapstoMakeaValidArray/minimum_adjacent_swaps_to_make_a_valid_array.py)
 * [Move Pieces to Obtain a String](MovePiecestoObtainaString/move_pieces_to_obtain_a_string.py)
