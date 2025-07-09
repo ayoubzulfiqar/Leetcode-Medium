@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Number of Ways to Place Houses](CountNumberofWaystoPlaceHouses/count_number_of_ways_to_place_houses.py)
 * [Maximum XOR After Operations ](MaximumXORAfterOperations/maximum_xor_after_operations_.py)
 * [Count Unreachable Pairs of Nodes in an Undirected Graph](CountUnreachablePairsofNodesinanUndirectedGraph/count_unreachable_pairs_of_nodes_in_an_undirected_graph.py)
 * [The First Day of the Maximum Recorded Degree in Each City](TheFirstDayoftheMaximumRecordedDegreeinEachCity/the_first_day_of_the_maximum_recorded_degree_in_each_city.py)
