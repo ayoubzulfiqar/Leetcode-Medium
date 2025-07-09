@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Nice Subarray](LongestNiceSubarray/longest_nice_subarray.py)
 * [Number of Ways to Reach a Position After Exactly k Steps](NumberofWaystoReachaPositionAfterExactlykSteps/number_of_ways_to_reach_a_position_after_exactly_k_steps.py)
 * [Maximum Rows Covered by Columns](MaximumRowsCoveredbyColumns/maximum_rows_covered_by_columns.py)
 * [Strictly Palindromic Number](StrictlyPalindromicNumber/strictly_palindromic_number.py)
