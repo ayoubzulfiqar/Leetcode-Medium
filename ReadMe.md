@@ -1,5 +1,6 @@
 
 ## Medium
+* [Removing Minimum Number of Magic Beans](RemovingMinimumNumberofMagicBeans/removing_minimum_number_of_magic_beans.py)
 * [Minimum Operations to Make the Array Alternating](MinimumOperationstoMaketheArrayAlternating/minimum_operations_to_make_the_array_alternating.py)
 * [Unique Substrings With Equal Digit Frequency](UniqueSubstringsWithEqualDigitFrequency/unique_substrings_with_equal_digit_frequency.py)
 * [Design Bitset](DesignBitset/design_bitset.py)
