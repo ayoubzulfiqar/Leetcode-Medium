@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimized Maximum of Products Distributed to Any Store](MinimizedMaximumofProductsDistributedtoAnyStore/minimized_maximum_of_products_distributed_to_any_store.py)
 * [Vowels of All Substrings](VowelsofAllSubstrings/vowels_of_all_substrings.py)
 * [Number of Spaces Cleaning Robot Cleaned](NumberofSpacesCleaningRobotCleaned/number_of_spaces_cleaning_robot_cleaned.py)
 * [Minimum Operations to Convert Number](MinimumOperationstoConvertNumber/minimum_operations_to_convert_number.py)
