@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Sum Score of Array](MaximumSumScoreofArray/maximum_sum_score_of_array.py)
 * [Find Palindrome With Fixed Length](FindPalindromeWithFixedLength/find_palindrome_with_fixed_length.py)
 * [Minimum Deletions to Make Array Beautiful](MinimumDeletionstoMakeArrayBeautiful/minimum_deletions_to_make_array_beautiful.py)
 * [Minimum Health to Beat Game](MinimumHealthtoBeatGame/minimum_health_to_beat_game.py)
