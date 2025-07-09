@@ -1,5 +1,6 @@
 
 ## Medium
+* [Divide Intervals Into Minimum Number of Groups](DivideIntervalsIntoMinimumNumberofGroups/divide_intervals_into_minimum_number_of_groups.py)
 * [Optimal Partition of String](OptimalPartitionofString/optimal_partition_of_string.py)
 * [Longest Nice Subarray](LongestNiceSubarray/longest_nice_subarray.py)
 * [Number of Ways to Reach a Position After Exactly k Steps](NumberofWaystoReachaPositionAfterExactlykSteps/number_of_ways_to_reach_a_position_after_exactly_k_steps.py)
