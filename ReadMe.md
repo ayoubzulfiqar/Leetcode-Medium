@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Rounds to Complete All Tasks](MinimumRoundstoCompleteAllTasks/minimum_rounds_to_complete_all_tasks.py)
 * [Design an ATM Machine](DesignanATMMachine/design_an_atm_machine.py)
 * [Number of Ways to Buy Pens and Pencils](NumberofWaystoBuyPensandPencils/number_of_ways_to_buy_pens_and_pencils.py)
 * [Number of Times a Driver Was a Passenger](NumberofTimesaDriverWasaPassenger/number_of_times_a_driver_was_a_passenger.py)
