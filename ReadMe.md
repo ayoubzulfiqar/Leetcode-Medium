@@ -1,5 +1,6 @@
 
 ## Medium
+* [K Radius Subarray Averages](KRadiusSubarrayAverages/k_radius_subarray_averages.py)
 * [Minimum Cost Homecoming of a Robot in a Grid](MinimumCostHomecomingofaRobotinaGrid/minimum_cost_homecoming_of_a_robot_in_a_grid.py)
 * [Minimum Number of Food Buckets to Feed the Hamsters](MinimumNumberofFoodBucketstoFeedtheHamsters/minimum_number_of_food_buckets_to_feed_the_hamsters.py)
 * [Drop Type 1 Orders for Customers With Type 0 Orders](DropType1OrdersforCustomersWithType0Orders/drop_type_1_orders_for_customers_with_type_0_orders.py)
