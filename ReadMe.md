@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Rows Covered by Columns](MaximumRowsCoveredbyColumns/maximum_rows_covered_by_columns.py)
 * [Strictly Palindromic Number](StrictlyPalindromicNumber/strictly_palindromic_number.py)
 * [Employees With Deductions](EmployeesWithDeductions/employees_with_deductions.py)
 * [Count Strictly Increasing Subarrays](CountStrictlyIncreasingSubarrays/count_strictly_increasing_subarrays.py)
