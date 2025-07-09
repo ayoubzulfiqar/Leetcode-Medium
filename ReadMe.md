@@ -1,5 +1,6 @@
 
 ## Medium
+* [Median of a Row Wise Sorted Matrix](MedianofaRowWiseSortedMatrix/median_of_a_row_wise_sorted_matrix.py)
 * [Amount of Time for Binary Tree to Be Infected](AmountofTimeforBinaryTreetoBeInfected/amount_of_time_for_binary_tree_to_be_infected.py)
 * [Largest Palindromic Number](LargestPalindromicNumber/largest_palindromic_number.py)
 * [Shifting Letters II](ShiftingLettersII/shifting_letters_ii.py)
