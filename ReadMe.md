@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Cost to Buy Apples](MinimumCosttoBuyApples/minimum_cost_to_buy_apples.py)
 * [Minimum Number of Operations to Sort a Binary Tree by Level](MinimumNumberofOperationstoSortaBinaryTreebyLevel/minimum_number_of_operations_to_sort_a_binary_tree_by_level.py)
 * [Number of Subarrays With LCM Equal to K](NumberofSubarraysWithLCMEqualtoK/number_of_subarrays_with_lcm_equal_to_k.py)
 * [Most Profitable Path in a Tree](MostProfitablePathinaTree/most_profitable_path_in_a_tree.py)
