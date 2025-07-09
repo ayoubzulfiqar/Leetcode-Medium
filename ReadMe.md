@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Zero-Filled Subarrays](NumberofZero-FilledSubarrays/number_of_zero-filled_subarrays.py)
 * [Compute the Rank as a Percentage](ComputetheRankasaPercentage/compute_the_rank_as_a_percentage.py)
 * [Query Kth Smallest Trimmed Number](QueryKthSmallestTrimmedNumber/query_kth_smallest_trimmed_number.py)
 * [Max Sum of a Pair With Equal Sum of Digits](MaxSumofaPairWithEqualSumofDigits/max_sum_of_a_pair_with_equal_sum_of_digits.py)
