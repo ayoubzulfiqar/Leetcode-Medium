@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Profit From Trading Stocks](MaximumProfitFromTradingStocks/maximum_profit_from_trading_stocks.py)
 * [Apply Discount to Prices](ApplyDiscounttoPrices/apply_discount_to_prices.py)
 * [Maximum Total Importance of Roads](MaximumTotalImportanceofRoads/maximum_total_importance_of_roads.py)
 * [Sender With Largest Word Count](SenderWithLargestWordCount/sender_with_largest_word_count.py)
