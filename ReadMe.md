@@ -1,5 +1,6 @@
 
 ## Medium
+* [Drop Type 1 Orders for Customers With Type 0 Orders](DropType1OrdersforCustomersWithType0Orders/drop_type_1_orders_for_customers_with_type_0_orders.py)
 * [Substrings That Begin and End With the Same Letter](SubstringsThatBeginandEndWiththeSameLetter/substrings_that_begin_and_end_with_the_same_letter.py)
 * [Range Frequency Queries](RangeFrequencyQueries/range_frequency_queries.py)
 * [Watering Plants](WateringPlants/watering_plants.py)
