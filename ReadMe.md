@@ -1,5 +1,6 @@
 
 ## Medium
+* [Difference Between Ones and Zeros in Row and Column](DifferenceBetweenOnesandZerosinRowandColumn/difference_between_ones_and_zeros_in_row_and_column.py)
 * [Minimum Fuel Cost to Report to the Capital](MinimumFuelCosttoReporttotheCapital/minimum_fuel_cost_to_report_to_the_capital.py)
 * [Closest Nodes Queries in a Binary Search Tree](ClosestNodesQueriesinaBinarySearchTree/closest_nodes_queries_in_a_binary_search_tree.py)
 * [Minimum Cost to Buy Apples](MinimumCosttoBuyApples/minimum_cost_to_buy_apples.py)
