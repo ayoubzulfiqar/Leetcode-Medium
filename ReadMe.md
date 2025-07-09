@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Path Cost in a Grid](MinimumPathCostinaGrid/minimum_path_cost_in_a_grid.py)
 * [Successful Pairs of Spells and Potions](SuccessfulPairsofSpellsandPotions/successful_pairs_of_spells_and_potions.py)
 * [Tasks Count in the Weekend](TasksCountintheWeekend/tasks_count_in_the_weekend.py)
 * [Jump Game VIII](JumpGameVIII/jump_game_viii.py)
