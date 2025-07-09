@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Keypresses](MinimumNumberofKeypresses/minimum_number_of_keypresses.py)
 * [Count Number of Texts](CountNumberofTexts/count_number_of_texts.py)
 * [Count Nodes Equal to Average of Subtree](CountNodesEqualtoAverageofSubtree/count_nodes_equal_to_average_of_subtree.py)
 * [K Divisible Elements Subarrays](KDivisibleElementsSubarrays/k_divisible_elements_subarrays.py)
