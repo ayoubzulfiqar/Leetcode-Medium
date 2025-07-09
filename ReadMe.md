@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Swaps to Make the String Balanced](MinimumNumberofSwapstoMaketheStringBalanced/minimum_number_of_swaps_to_make_the_string_balanced.py)
 * [Maximum of Minimum Values in All Subarrays](MaximumofMinimumValuesinAllSubarrays/maximum_of_minimum_values_in_all_subarrays.py)
 * [Can You Eat Your Favorite Candy on Your Favorite Day](CanYouEatYourFavoriteCandyonYourFavoriteDay/can_you_eat_your_favorite_candy_on_your_favorite_day.py)
 * [The Category of Each Member in the Store](TheCategoryofEachMemberintheStore/the_category_of_each_member_in_the_store.py)
