@@ -1,5 +1,6 @@
 
 ## Medium
+* [Node With Highest Edge Score](NodeWithHighestEdgeScore/node_with_highest_edge_score.py)
 * [Calculate the Influence of Each Salesperson](CalculatetheInfluenceofEachSalesperson/calculate_the_influence_of_each_salesperson.py)
 * [Longest Ideal Subsequence](LongestIdealSubsequence/longest_ideal_subsequence.py)
 * [Check if There is a Valid Partition For The Array](CheckifThereisaValidPartitionForTheArray/check_if_there_is_a_valid_partition_for_the_array.py)
