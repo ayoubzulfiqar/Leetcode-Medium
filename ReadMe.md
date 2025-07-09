@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Binary Subsequence Less Than or Equal to K](LongestBinarySubsequenceLessThanorEqualtoK/longest_binary_subsequence_less_than_or_equal_to_k.py)
 * [Sum of Numbers With Units Digit K](SumofNumbersWithUnitsDigitK/sum_of_numbers_with_units_digit_k.py)
 * [Arrange Table by Gender](ArrangeTablebyGender/arrange_table_by_gender.py)
 * [Minimum Path Cost in a Grid](MinimumPathCostinaGrid/minimum_path_cost_in_a_grid.py)
