@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Cost to Set Cooking Time](MinimumCosttoSetCookingTime/minimum_cost_to_set_cooking_time.py)
 * [Partition Array According to Given Pivot](PartitionArrayAccordingtoGivenPivot/partition_array_according_to_given_pivot.py)
 * [Order Two Columns Independently](OrderTwoColumnsIndependently/order_two_columns_independently.py)
 * [All Divisions With the Highest Score of a Binary Array](AllDivisionsWiththeHighestScoreofaBinaryArray/all_divisions_with_the_highest_score_of_a_binary_array.py)
