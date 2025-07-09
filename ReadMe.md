@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Consecutive Cards to Pick Up](MinimumConsecutiveCardstoPickUp/minimum_consecutive_cards_to_pick_up.py)
 * [Count Unguarded Cells in the Grid](CountUnguardedCellsintheGrid/count_unguarded_cells_in_the_grid.py)
 * [Minimum Average Difference](MinimumAverageDifference/minimum_average_difference.py)
 * [Count Number of Rectangles Containing Each Point](CountNumberofRectanglesContainingEachPoint/count_number_of_rectangles_containing_each_point.py)
