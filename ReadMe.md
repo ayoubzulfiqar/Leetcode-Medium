@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Health to Beat Game](MinimumHealthtoBeatGame/minimum_health_to_beat_game.py)
 * [Count Collisions on a Road](CountCollisionsonaRoad/count_collisions_on_a_road.py)
 * [Minimum Operations to Halve Array Sum](MinimumOperationstoHalveArraySum/minimum_operations_to_halve_array_sum.py)
 * [Maximize Number of Subsequences in a String](MaximizeNumberofSubsequencesinaString/maximize_number_of_subsequences_in_a_string.py)
