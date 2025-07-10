@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Ways to Group Overlapping Ranges](CountWaystoGroupOverlappingRanges/count_ways_to_group_overlapping_ranges.py)
 * [Count Total Number of Colored Cells](CountTotalNumberofColoredCells/count_total_number_of_colored_cells.py)
 * [Find the Maximum Number of Marked Indices](FindtheMaximumNumberofMarkedIndices/find_the_maximum_number_of_marked_indices.py)
 * [Find the Divisibility Array of a String](FindtheDivisibilityArrayofaString/find_the_divisibility_array_of_a_string.py)
