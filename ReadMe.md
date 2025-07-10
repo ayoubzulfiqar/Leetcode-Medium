@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Subarrays Having Even Product](NumberofSubarraysHavingEvenProduct/number_of_subarrays_having_even_product.py)
 * [Minimum Score of a Path Between Two Cities](MinimumScoreofaPathBetweenTwoCities/minimum_score_of_a_path_between_two_cities.py)
 * [Divide Players Into Teams of Equal Skill](DividePlayersIntoTeamsofEqualSkill/divide_players_into_teams_of_equal_skill.py)
 * [Number of Substrings With Fixed Ratio](NumberofSubstringsWithFixedRatio/number_of_substrings_with_fixed_ratio.py)
