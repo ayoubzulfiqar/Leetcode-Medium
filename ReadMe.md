@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximize Greatness of an Array](MaximizeGreatnessofanArray/maximize_greatness_of_an_array.py)
 * [Design a Todo List](DesignaTodoList/design_a_todo_list.py)
 * [Count the Number of Beautiful Subarrays](CounttheNumberofBeautifulSubarrays/count_the_number_of_beautiful_subarrays.py)
 * [Rearrange Array to Maximize Prefix Score](RearrangeArraytoMaximizePrefixScore/rearrange_array_to_maximize_prefix_score.py)
