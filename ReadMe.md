@@ -1,5 +1,6 @@
 
 ## Medium
+* [Remove Nodes From Linked List](RemoveNodesFromLinkedList/remove_nodes_from_linked_list.py)
 * [Append Characters to String to Make Subsequence](AppendCharacterstoStringtoMakeSubsequence/append_characters_to_string_to_make_subsequence.py)
 * [Minimum Penalty for a Shop](MinimumPenaltyforaShop/minimum_penalty_for_a_shop.py)
 * [Difference Between Ones and Zeros in Row and Column](DifferenceBetweenOnesandZerosinRowandColumn/difference_between_ones_and_zeros_in_row_and_column.py)
