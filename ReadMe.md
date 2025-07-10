@@ -1,5 +1,6 @@
 
 ## Medium
+* [Prime Pairs With Target Sum](PrimePairsWithTargetSum/prime_pairs_with_target_sum.py)
 * [Generate Circular Array Values](GenerateCircularArrayValues/generate_circular_array_values.py)
 * [Deep Merge of Two Objects](DeepMergeofTwoObjects/deep_merge_of_two_objects.py)
 * [Bind Function to Context](BindFunctiontoContext/bind_function_to_context.py)
