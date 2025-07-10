@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Black Blocks](NumberofBlackBlocks/number_of_black_blocks.py)
 * [Partition String Into Minimum Beautiful Substrings](PartitionStringIntoMinimumBeautifulSubstrings/partition_string_into_minimum_beautiful_substrings.py)
 * [Relocate Marbles](RelocateMarbles/relocate_marbles.py)
 * [Is Array a Preorder of Some ‌Binary Tree](IsArrayaPreorderofSome‌BinaryTree/is_array_a_preorder_of_some_‌binary_tree.py)
