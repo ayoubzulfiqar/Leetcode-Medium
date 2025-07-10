@@ -1,5 +1,6 @@
 
 ## Medium
+* [Make the Prefix Sum Non-negative](MakethePrefixSumNon-negative/make_the_prefix_sum_non-negative.py)
 * [Smallest Missing Non-negative Integer After Operations](SmallestMissingNon-negativeIntegerAfterOperations/smallest_missing_non-negative_integer_after_operations.py)
 * [The Number of Beautiful Subsets](TheNumberofBeautifulSubsets/the_number_of_beautiful_subsets.py)
 * [Check Knight Tour Configuration](CheckKnightTourConfiguration/check_knight_tour_configuration.py)
