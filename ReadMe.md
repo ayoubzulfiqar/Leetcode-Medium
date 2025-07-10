@@ -1,5 +1,6 @@
 
 ## Medium
+* [Height of Special Binary Tree](HeightofSpecialBinaryTree/height_of_special_binary_tree.py)
 * [Apply Operations to Make All Array Elements Equal to Zero](ApplyOperationstoMakeAllArrayElementsEqualtoZero/apply_operations_to_make_all_array_elements_equal_to_zero.py)
 * [Longest Non-decreasing Subarray From Two Arrays](LongestNon-decreasingSubarrayFromTwoArrays/longest_non-decreasing_subarray_from_two_arrays.py)
 * [Maximum Number of Jumps to Reach the Last Index](MaximumNumberofJumpstoReachtheLastIndex/maximum_number_of_jumps_to_reach_the_last_index.py)
