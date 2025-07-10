@@ -1,5 +1,6 @@
 
 ## Medium
+* [Extra Characters in a String](ExtraCharactersinaString/extra_characters_in_a_string.py)
 * [Compact Object](CompactObject/compact_object.py)
 * [Differences Between Two Objects](DifferencesBetweenTwoObjects/differences_between_two_objects.py)
 * [Find the Punishment Number of an Integer](FindthePunishmentNumberofanInteger/find_the_punishment_number_of_an_integer.py)
