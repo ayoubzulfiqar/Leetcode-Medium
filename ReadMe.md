@@ -1,5 +1,6 @@
 
 ## Medium
+* [The Number of Passengers in Each Bus I](TheNumberofPassengersinEachBusI/the_number_of_passengers_in_each_bus_i.py)
 * [Remove Nodes From Linked List](RemoveNodesFromLinkedList/remove_nodes_from_linked_list.py)
 * [Append Characters to String to Make Subsequence](AppendCharacterstoStringtoMakeSubsequence/append_characters_to_string_to_make_subsequence.py)
 * [Minimum Penalty for a Shop](MinimumPenaltyforaShop/minimum_penalty_for_a_shop.py)
