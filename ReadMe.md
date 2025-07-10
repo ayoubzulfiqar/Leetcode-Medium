@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Safest Path in a Grid](FindtheSafestPathinaGrid/find_the_safest_path_in_a_grid.py)
 * [Check if it is Possible to Split Array](CheckifitisPossibletoSplitArray/check_if_it_is_possible_to_split_array.py)
 * [Minimum Seconds to Equalize a Circular Array](MinimumSecondstoEqualizeaCircularArray/minimum_seconds_to_equalize_a_circular_array.py)
 * [Insert Greatest Common Divisors in Linked List](InsertGreatestCommonDivisorsinLinkedList/insert_greatest_common_divisors_in_linked_list.py)
