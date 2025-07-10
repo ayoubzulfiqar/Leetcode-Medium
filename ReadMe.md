@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count the Number of Good Subarrays](CounttheNumberofGoodSubarrays/count_the_number_of_good_subarrays.py)
 * [Increment Submatrices by One](IncrementSubmatricesbyOne/increment_submatrices_by_one.py)
 * [Number of Good Binary Strings](NumberofGoodBinaryStrings/number_of_good_binary_strings.py)
 * [Make Number of Distinct Characters Equal](MakeNumberofDistinctCharactersEqual/make_number_of_distinct_characters_equal.py)
