@@ -1,5 +1,6 @@
 
 ## Medium
+* [Make Object Immutable](MakeObjectImmutable/make_object_immutable.py)
 * [Find Active Users](FindActiveUsers/find_active_users.py)
 * [Immediate Food Delivery III](ImmediateFoodDeliveryIII/immediate_food_delivery_iii.py)
 * [Count the Number of Complete Components](CounttheNumberofCompleteComponents/count_the_number_of_complete_components.py)
