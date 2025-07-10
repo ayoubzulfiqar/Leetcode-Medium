@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Divisibility Array of a String](FindtheDivisibilityArrayofaString/find_the_divisibility_array_of_a_string.py)
 * [Minimum Score by Changing Two Elements](MinimumScorebyChangingTwoElements/minimum_score_by_changing_two_elements.py)
 * [Substring XOR Queries](SubstringXORQueries/substring_xor_queries.py)
 * [House Robber IV](HouseRobberIV/house_robber_iv.py)
