@@ -1,5 +1,6 @@
 
 ## Medium
+* [Throttle](Throttle/throttle.py)
 * [Split a Circular Linked List](SplitaCircularLinkedList/split_a_circular_linked_list.py)
 * [Make Costs of Paths Equal in a Binary Tree](MakeCostsofPathsEqualinaBinaryTree/make_costs_of_paths_equal_in_a_binary_tree.py)
 * [Number of Adjacent Elements With the Same Color](NumberofAdjacentElementsWiththeSameColor/number_of_adjacent_elements_with_the_same_color.py)
