@@ -1,5 +1,6 @@
 
 ## Medium
+* [Snail Traversal](SnailTraversal/snail_traversal.py)
 * [Memoize](Memoize/memoize.py)
 * [Cache With Time Limit](CacheWithTimeLimit/cache_with_time_limit.py)
 * [Check if Object Instance of Class](CheckifObjectInstanceofClass/check_if_object_instance_of_class.py)
