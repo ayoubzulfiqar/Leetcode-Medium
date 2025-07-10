@@ -1,5 +1,6 @@
 
 ## Medium
+* [Make String a Subsequence Using Cyclic Increments](MakeStringaSubsequenceUsingCyclicIncrements/make_string_a_subsequence_using_cyclic_increments.py)
 * [Delay the Resolution of Each Promise](DelaytheResolutionofEachPromise/delay_the_resolution_of_each_promise.py)
 * [Election Results](ElectionResults/election_results.py)
 * [Double a Number Represented as a Linked List](DoubleaNumberRepresentedasaLinkedList/double_a_number_represented_as_a_linked_list.py)
