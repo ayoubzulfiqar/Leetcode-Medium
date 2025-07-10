@@ -1,5 +1,6 @@
 
 ## Medium
+* [Delay the Resolution of Each Promise](DelaytheResolutionofEachPromise/delay_the_resolution_of_each_promise.py)
 * [Election Results](ElectionResults/election_results.py)
 * [Double a Number Represented as a Linked List](DoubleaNumberRepresentedasaLinkedList/double_a_number_represented_as_a_linked_list.py)
 * [Find the Safest Path in a Grid](FindtheSafestPathinaGrid/find_the_safest_path_in_a_grid.py)
