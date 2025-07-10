@@ -1,5 +1,6 @@
 
 ## Medium
+* [Parallel Execution of Promises for Individual Results Retrieval](ParallelExecutionofPromisesforIndividualResultsRetrieval/parallel_execution_of_promises_for_individual_results_retrieval.py)
 * [Largest Element in an Array after Merge Operations](LargestElementinanArrayafterMergeOperations/largest_element_in_an_array_after_merge_operations.py)
 * [Ways to Express an Integer as Sum of Powers](WaystoExpressanIntegerasSumofPowers/ways_to_express_an_integer_as_sum_of_powers.py)
 * [Sort Vowels in a String](SortVowelsinaString/sort_vowels_in_a_string.py)
