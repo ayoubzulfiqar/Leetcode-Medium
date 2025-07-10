@@ -1,5 +1,6 @@
 
 ## Medium
+* [First Completely Painted Row or Column](FirstCompletelyPaintedRoworColumn/first_completely_painted_row_or_column.py)
 * [Maximum Number of Fish in a Grid](MaximumNumberofFishinaGrid/maximum_number_of_fish_in_a_grid.py)
 * [Find the Prefix Common Array of Two Arrays](FindthePrefixCommonArrayofTwoArrays/find_the_prefix_common_array_of_two_arrays.py)
 * [Find Maximal Uncovered Ranges](FindMaximalUncoveredRanges/find_maximal_uncovered_ranges.py)
