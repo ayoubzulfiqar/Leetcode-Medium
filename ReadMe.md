@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Operations to Make All Array Elements Equal to 1](MinimumNumberofOperationstoMakeAllArrayElementsEqualto1/minimum_number_of_operations_to_make_all_array_elements_equal_to_1.py)
 * [Sliding Subarray Beauty](SlidingSubarrayBeauty/sliding_subarray_beauty.py)
 * [Nested Array Generator](NestedArrayGenerator/nested_array_generator.py)
 * [Minimum Additions to Make Valid String](MinimumAdditionstoMakeValidString/minimum_additions_to_make_valid_string.py)
