@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Longest Equal Subarray](FindtheLongestEqualSubarray/find_the_longest_equal_subarray.py)
 * [Maximize the Profit as the Salesman](MaximizetheProfitastheSalesman/maximize_the_profit_as_the_salesman.py)
 * [Determine the Minimum Sum of a k-avoiding Array](DeterminetheMinimumSumofak-avoidingArray/determine_the_minimum_sum_of_a_k-avoiding_array.py)
 * [Make String a Subsequence Using Cyclic Increments](MakeStringaSubsequenceUsingCyclicIncrements/make_string_a_subsequence_using_cyclic_increments.py)
