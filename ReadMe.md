@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Non-Zero Product of the Array Elements](MinimumNon-ZeroProductoftheArrayElements/minimum_non-zero_product_of_the_array_elements.py)
 * [Minimum Total Space Wasted With K Resizing Operations](MinimumTotalSpaceWastedWithKResizingOperations/minimum_total_space_wasted_with_k_resizing_operations.py)
 * [Minimum Addition to Make Integer Beautiful](MinimumAdditiontoMakeIntegerBeautiful/minimum_addition_to_make_integer_beautiful.py)
 * [Minimize Maximum of Array](MinimizeMaximumofArray/minimize_maximum_of_array.py)
