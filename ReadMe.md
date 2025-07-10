@@ -1,5 +1,6 @@
 
 ## Medium
+* [Decremental String Concatenation](DecrementalStringConcatenation/decremental_string_concatenation.py)
 * [Construct the Longest New String](ConstructtheLongestNewString/construct_the_longest_new_string.py)
 * [Count Substrings Without Repeating Character](CountSubstringsWithoutRepeatingCharacter/count_substrings_without_repeating_character.py)
 * [Special Permutations](SpecialPermutations/special_permutations.py)
