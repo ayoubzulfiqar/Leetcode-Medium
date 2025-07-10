@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Maximum Number of Marked Indices](FindtheMaximumNumberofMarkedIndices/find_the_maximum_number_of_marked_indices.py)
 * [Find the Divisibility Array of a String](FindtheDivisibilityArrayofaString/find_the_divisibility_array_of_a_string.py)
 * [Minimum Score by Changing Two Elements](MinimumScorebyChangingTwoElements/minimum_score_by_changing_two_elements.py)
 * [Substring XOR Queries](SubstringXORQueries/substring_xor_queries.py)
