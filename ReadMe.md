@@ -1,5 +1,6 @@
 
 ## Medium
+* [Memoize](Memoize/memoize.py)
 * [Cache With Time Limit](CacheWithTimeLimit/cache_with_time_limit.py)
 * [Check if Object Instance of Class](CheckifObjectInstanceofClass/check_if_object_instance_of_class.py)
 * [Minimize the Maximum Difference of Pairs](MinimizetheMaximumDifferenceofPairs/minimize_the_maximum_difference_of_pairs.py)
