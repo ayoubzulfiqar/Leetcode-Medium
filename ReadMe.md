@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Sum of Almost Unique Subarray](MaximumSumofAlmostUniqueSubarray/maximum_sum_of_almost_unique_subarray.py)
 * [Check if Strings Can be Made Equal With Operations II](CheckifStringsCanbeMadeEqualWithOperationsII/check_if_strings_can_be_made_equal_with_operations_ii.py)
 * [Maximum Coins Heroes Can Collect](MaximumCoinsHeroesCanCollect/maximum_coins_heroes_can_collect.py)
 * [Maximal Range That Each Element Is Maximum in It](MaximalRangeThatEachElementIsMaximuminIt/maximal_range_that_each_element_is_maximum_in_it.py)
