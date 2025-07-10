@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Price to Fill a Bag](MaximumPricetoFillaBag/maximum_price_to_fill_a_bag.py)
 * [Sort the Students by Their Kth Score](SorttheStudentsbyTheirKthScore/sort_the_students_by_their_kth_score.py)
 * [Maximum Subsequence Score](MaximumSubsequenceScore/maximum_subsequence_score.py)
 * [Minimum Operations to Make Array Equal II](MinimumOperationstoMakeArrayEqualII/minimum_operations_to_make_array_equal_ii.py)
