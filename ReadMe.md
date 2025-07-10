@@ -1,5 +1,6 @@
 
 ## Medium
+* [Promise Time Limit](PromiseTimeLimit/promise_time_limit.py)
 * [Promise Pool](PromisePool/promise_pool.py)
 * [Convert Object to JSON String](ConvertObjecttoJSONString/convert_object_to_json_string.py)
 * [Group By](GroupBy/group_by.py)
