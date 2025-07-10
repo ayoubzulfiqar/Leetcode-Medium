@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count of Interesting Subarrays](CountofInterestingSubarrays/count_of_interesting_subarrays.py)
 * [Minimum Operations to Make a Special Number](MinimumOperationstoMakeaSpecialNumber/minimum_operations_to_make_a_special_number.py)
 * [Maximum Sum of Almost Unique Subarray](MaximumSumofAlmostUniqueSubarray/maximum_sum_of_almost_unique_subarray.py)
 * [Check if Strings Can be Made Equal With Operations II](CheckifStringsCanbeMadeEqualWithOperationsII/check_if_strings_can_be_made_equal_with_operations_ii.py)
