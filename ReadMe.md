@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest String That Contains Three Strings](ShortestStringThatContainsThreeStrings/shortest_string_that_contains_three_strings.py)
 * [Count Complete Subarrays in an Array](CountCompleteSubarraysinanArray/count_complete_subarrays_in_an_array.py)
 * [Parallel Execution of Promises for Individual Results Retrieval](ParallelExecutionofPromisesforIndividualResultsRetrieval/parallel_execution_of_promises_for_individual_results_retrieval.py)
 * [Largest Element in an Array after Merge Operations](LargestElementinanArrayafterMergeOperations/largest_element_in_an_array_after_merge_operations.py)
