@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Strength of a Group](MaximumStrengthofaGroup/maximum_strength_of_a_group.py)
 * [Extra Characters in a String](ExtraCharactersinaString/extra_characters_in_a_string.py)
 * [Compact Object](CompactObject/compact_object.py)
 * [Differences Between Two Objects](DifferencesBetweenTwoObjects/differences_between_two_objects.py)
