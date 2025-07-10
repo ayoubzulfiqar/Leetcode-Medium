@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Adjacent Elements With the Same Color](NumberofAdjacentElementsWiththeSameColor/number_of_adjacent_elements_with_the_same_color.py)
 * [Frequency Tracker](FrequencyTracker/frequency_tracker.py)
 * [The Knight’s Tour](TheKnight’sTour/the_knight’s_tour.py)
 * [Minimum Cost of a Path With Special Roads](MinimumCostofaPathWithSpecialRoads/minimum_cost_of_a_path_with_special_roads.py)
