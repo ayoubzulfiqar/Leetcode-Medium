@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Score of an Array After Marking All Elements](FindScoreofanArrayAfterMarkingAllElements/find_score_of_an_array_after_marking_all_elements.py)
 * [Maximize Greatness of an Array](MaximizeGreatnessofanArray/maximize_greatness_of_an_array.py)
 * [Design a Todo List](DesignaTodoList/design_a_todo_list.py)
 * [Count the Number of Beautiful Subarrays](CounttheNumberofBeautifulSubarrays/count_the_number_of_beautiful_subarrays.py)
