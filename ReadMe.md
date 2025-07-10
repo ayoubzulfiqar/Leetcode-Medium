@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sort Vowels in a String](SortVowelsinaString/sort_vowels_in_a_string.py)
 * [Flight Occupancy and Waitlist Analysis](FlightOccupancyandWaitlistAnalysis/flight_occupancy_and_waitlist_analysis.py)
 * [Number of Unique Categories](NumberofUniqueCategories/number_of_unique_categories.py)
 * [Minimum Index of a Valid Split](MinimumIndexofaValidSplit/minimum_index_of_a_valid_split.py)
