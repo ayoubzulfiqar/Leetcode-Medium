@@ -1,5 +1,6 @@
 
 ## Medium
+* [Divide Players Into Teams of Equal Skill](DividePlayersIntoTeamsofEqualSkill/divide_players_into_teams_of_equal_skill.py)
 * [Number of Substrings With Fixed Ratio](NumberofSubstringsWithFixedRatio/number_of_substrings_with_fixed_ratio.py)
 * [Minimum Subarrays in a Valid Split](MinimumSubarraysinaValidSplit/minimum_subarrays_in_a_valid_split.py)
 * [Minimum Number of Lines to Cover Points](MinimumNumberofLinestoCoverPoints/minimum_number_of_lines_to_cover_points.py)
