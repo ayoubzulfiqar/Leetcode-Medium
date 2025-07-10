@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sort the Students by Their Kth Score](SorttheStudentsbyTheirKthScore/sort_the_students_by_their_kth_score.py)
 * [Maximum Subsequence Score](MaximumSubsequenceScore/maximum_subsequence_score.py)
 * [Minimum Operations to Make Array Equal II](MinimumOperationstoMakeArrayEqualII/minimum_operations_to_make_array_equal_ii.py)
 * [Count the Number of Good Subsequences](CounttheNumberofGoodSubsequences/count_the_number_of_good_subsequences.py)
