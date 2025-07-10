@@ -1,5 +1,6 @@
 
 ## Medium
+* [Make Costs of Paths Equal in a Binary Tree](MakeCostsofPathsEqualinaBinaryTree/make_costs_of_paths_equal_in_a_binary_tree.py)
 * [Number of Adjacent Elements With the Same Color](NumberofAdjacentElementsWiththeSameColor/number_of_adjacent_elements_with_the_same_color.py)
 * [Frequency Tracker](FrequencyTracker/frequency_tracker.py)
 * [The Knight’s Tour](TheKnight’sTour/the_knight’s_tour.py)
