@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Closest Marked Node](FindtheClosestMarkedNode/find_the_closest_marked_node.py)
 * [Lexicographically Smallest String After Substring Operation](LexicographicallySmallestStringAfterSubstringOperation/lexicographically_smallest_string_after_substring_operation.py)
 * [Movement of Robots](MovementofRobots/movement_of_robots.py)
 * [Find the Longest Semi-Repetitive Substring](FindtheLongestSemi-RepetitiveSubstring/find_the_longest_semi-repetitive_substring.py)
