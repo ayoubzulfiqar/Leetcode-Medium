@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Punishment Number of an Integer](FindthePunishmentNumberofanInteger/find_the_punishment_number_of_an_integer.py)
 * [Event Emitter](EventEmitter/event_emitter.py)
 * [Call Function with Custom Context](CallFunctionwithCustomContext/call_function_with_custom_context.py)
 * [Make Object Immutable](MakeObjectImmutable/make_object_immutable.py)
