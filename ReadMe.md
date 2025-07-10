@@ -1,5 +1,6 @@
 
 ## Medium
+* [Construct Smallest Number From DI String](ConstructSmallestNumberFromDIString/construct_smallest_number_from_di_string.py)
 * [Number of People Aware of a Secret](NumberofPeopleAwareofaSecret/number_of_people_aware_of_a_secret.py)
 * [Fair Distribution of Cookies](FairDistributionofCookies/fair_distribution_of_cookies.py)
 * [Maximum Points in an Archery Competition](MaximumPointsinanArcheryCompetition/maximum_points_in_an_archery_competition.py)
