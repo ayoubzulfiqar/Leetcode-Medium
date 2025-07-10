@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Occurrences in Text](CountOccurrencesinText/count_occurrences_in_text.py)
 * [Find the Closest Marked Node](FindtheClosestMarkedNode/find_the_closest_marked_node.py)
 * [Lexicographically Smallest String After Substring Operation](LexicographicallySmallestStringAfterSubstringOperation/lexicographically_smallest_string_after_substring_operation.py)
 * [Movement of Robots](MovementofRobots/movement_of_robots.py)
