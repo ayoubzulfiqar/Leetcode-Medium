@@ -1,5 +1,6 @@
 
 ## Medium
+* [The Knight’s Tour](TheKnight’sTour/the_knight’s_tour.py)
 * [Minimum Cost of a Path With Special Roads](MinimumCostofaPathWithSpecialRoads/minimum_cost_of_a_path_with_special_roads.py)
 * [First Completely Painted Row or Column](FirstCompletelyPaintedRoworColumn/first_completely_painted_row_or_column.py)
 * [Maximum Number of Fish in a Grid](MaximumNumberofFishinaGrid/maximum_number_of_fish_in_a_grid.py)
