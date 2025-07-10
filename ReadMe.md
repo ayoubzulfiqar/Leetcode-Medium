@@ -1,5 +1,6 @@
 
 ## Medium
+* [Determine if a Cell Is Reachable at a Given Time](DetermineifaCellIsReachableataGivenTime/determine_if_a_cell_is_reachable_at_a_given_time.py)
 * [Smallest Number With Given Digit Product](SmallestNumberWithGivenDigitProduct/smallest_number_with_given_digit_product.py)
 * [Count of Interesting Subarrays](CountofInterestingSubarrays/count_of_interesting_subarrays.py)
 * [Minimum Operations to Make a Special Number](MinimumOperationstoMakeaSpecialNumber/minimum_operations_to_make_a_special_number.py)
