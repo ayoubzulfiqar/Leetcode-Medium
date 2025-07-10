@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design Memory Allocator](DesignMemoryAllocator/design_memory_allocator.py)
 * [Longest Square Streak in an Array](LongestSquareStreakinanArray/longest_square_streak_in_an_array.py)
 * [Maximum Star Sum of a Graph](MaximumStarSumofaGraph/maximum_star_sum_of_a_graph.py)
 * [Number of Subarrays Having Even Product](NumberofSubarraysHavingEvenProduct/number_of_subarrays_having_even_product.py)
