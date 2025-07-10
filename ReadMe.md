@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Coins Heroes Can Collect](MaximumCoinsHeroesCanCollect/maximum_coins_heroes_can_collect.py)
 * [Maximal Range That Each Element Is Maximum in It](MaximalRangeThatEachElementIsMaximuminIt/maximal_range_that_each_element_is_maximum_in_it.py)
 * [Find the Longest Equal Subarray](FindtheLongestEqualSubarray/find_the_longest_equal_subarray.py)
 * [Maximize the Profit as the Salesman](MaximizetheProfitastheSalesman/maximize_the_profit_as_the_salesman.py)
