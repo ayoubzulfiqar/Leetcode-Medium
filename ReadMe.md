@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Star Sum of a Graph](MaximumStarSumofaGraph/maximum_star_sum_of_a_graph.py)
 * [Number of Subarrays Having Even Product](NumberofSubarraysHavingEvenProduct/number_of_subarrays_having_even_product.py)
 * [Minimum Score of a Path Between Two Cities](MinimumScoreofaPathBetweenTwoCities/minimum_score_of_a_path_between_two_cities.py)
 * [Divide Players Into Teams of Equal Skill](DividePlayersIntoTeamsofEqualSkill/divide_players_into_teams_of_equal_skill.py)
