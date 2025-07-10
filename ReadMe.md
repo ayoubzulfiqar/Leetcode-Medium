@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Addition to Make Integer Beautiful](MinimumAdditiontoMakeIntegerBeautiful/minimum_addition_to_make_integer_beautiful.py)
 * [Minimize Maximum of Array](MinimizeMaximumofArray/minimize_maximum_of_array.py)
 * [Closest Fair Integer](ClosestFairInteger/closest_fair_integer.py)
 * [Construct Smallest Number From DI String](ConstructSmallestNumberFromDIString/construct_smallest_number_from_di_string.py)
