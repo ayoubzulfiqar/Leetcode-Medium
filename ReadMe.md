@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Fish in a Grid](MaximumNumberofFishinaGrid/maximum_number_of_fish_in_a_grid.py)
 * [Find the Prefix Common Array of Two Arrays](FindthePrefixCommonArrayofTwoArrays/find_the_prefix_common_array_of_two_arrays.py)
 * [Find Maximal Uncovered Ranges](FindMaximalUncoveredRanges/find_maximal_uncovered_ranges.py)
 * [Minimum Number of Operations to Make All Array Elements Equal to 1](MinimumNumberofOperationstoMakeAllArrayElementsEqualto1/minimum_number_of_operations_to_make_all_array_elements_equal_to_1.py)
