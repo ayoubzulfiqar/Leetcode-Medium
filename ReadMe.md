@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Good Binary Strings](NumberofGoodBinaryStrings/number_of_good_binary_strings.py)
 * [Make Number of Distinct Characters Equal](MakeNumberofDistinctCharactersEqual/make_number_of_distinct_characters_equal.py)
 * [Maximal Score After Applying K Operations](MaximalScoreAfterApplyingKOperations/maximal_score_after_applying_k_operations.py)
 * [Find Consecutive Integers from a Data Stream](FindConsecutiveIntegersfromaDataStream/find_consecutive_integers_from_a_data_stream.py)
