@@ -1,5 +1,6 @@
 
 ## Medium
+* [Construct the Longest New String](ConstructtheLongestNewString/construct_the_longest_new_string.py)
 * [Count Substrings Without Repeating Character](CountSubstringsWithoutRepeatingCharacter/count_substrings_without_repeating_character.py)
 * [Special Permutations](SpecialPermutations/special_permutations.py)
 * [Find the Value of the Partition](FindtheValueofthePartition/find_the_value_of_the_partition.py)
