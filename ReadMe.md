@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Substring With Maximum Cost](FindtheSubstringWithMaximumCost/find_the_substring_with_maximum_cost.py)
 * [Minimum Operations to Make All Array Elements Equal](MinimumOperationstoMakeAllArrayElementsEqual/minimum_operations_to_make_all_array_elements_equal.py)
 * [Make the Prefix Sum Non-negative](MakethePrefixSumNon-negative/make_the_prefix_sum_non-negative.py)
 * [Smallest Missing Non-negative Integer After Operations](SmallestMissingNon-negativeIntegerAfterOperations/smallest_missing_non-negative_integer_after_operations.py)
