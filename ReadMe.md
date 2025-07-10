@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design a Todo List](DesignaTodoList/design_a_todo_list.py)
 * [Count the Number of Beautiful Subarrays](CounttheNumberofBeautifulSubarrays/count_the_number_of_beautiful_subarrays.py)
 * [Rearrange Array to Maximize Prefix Score](RearrangeArraytoMaximizePrefixScore/rearrange_array_to_maximize_prefix_score.py)
 * [Kth Largest Sum in a Binary Tree](KthLargestSuminaBinaryTree/kth_largest_sum_in_a_binary_tree.py)
