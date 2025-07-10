@@ -1,5 +1,6 @@
 
 ## Medium
+* [Neighboring Bitwise XOR](NeighboringBitwiseXOR/neighboring_bitwise_xor.py)
 * [Maximum OR](MaximumOR/maximum_or.py)
 * [Sum in a Matrix](SuminaMatrix/sum_in_a_matrix.py)
 * [Throttle](Throttle/throttle.py)
