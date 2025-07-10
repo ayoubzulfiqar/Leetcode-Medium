@@ -1,5 +1,6 @@
 
 ## Medium
+* [Flight Occupancy and Waitlist Analysis](FlightOccupancyandWaitlistAnalysis/flight_occupancy_and_waitlist_analysis.py)
 * [Number of Unique Categories](NumberofUniqueCategories/number_of_unique_categories.py)
 * [Minimum Index of a Valid Split](MinimumIndexofaValidSplit/minimum_index_of_a_valid_split.py)
 * [Maximum Beauty of an Array After Applying Operation](MaximumBeautyofanArrayAfterApplyingOperation/maximum_beauty_of_an_array_after_applying_operation.py)
