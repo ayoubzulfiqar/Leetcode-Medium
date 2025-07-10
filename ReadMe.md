@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Unique Categories](NumberofUniqueCategories/number_of_unique_categories.py)
 * [Minimum Index of a Valid Split](MinimumIndexofaValidSplit/minimum_index_of_a_valid_split.py)
 * [Maximum Beauty of an Array After Applying Operation](MaximumBeautyofanArrayAfterApplyingOperation/maximum_beauty_of_an_array_after_applying_operation.py)
 * [Date Range Generator](DateRangeGenerator/date_range_generator.py)
