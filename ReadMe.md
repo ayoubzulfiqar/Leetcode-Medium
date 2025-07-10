@@ -1,5 +1,6 @@
 
 ## Medium
+* [Event Emitter](EventEmitter/event_emitter.py)
 * [Call Function with Custom Context](CallFunctionwithCustomContext/call_function_with_custom_context.py)
 * [Make Object Immutable](MakeObjectImmutable/make_object_immutable.py)
 * [Find Active Users](FindActiveUsers/find_active_users.py)
