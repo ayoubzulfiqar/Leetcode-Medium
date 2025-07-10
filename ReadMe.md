@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Substrings With Fixed Ratio](NumberofSubstringsWithFixedRatio/number_of_substrings_with_fixed_ratio.py)
 * [Minimum Subarrays in a Valid Split](MinimumSubarraysinaValidSplit/minimum_subarrays_in_a_valid_split.py)
 * [Minimum Number of Lines to Cover Points](MinimumNumberofLinestoCoverPoints/minimum_number_of_lines_to_cover_points.py)
 * [Minimum Non-Zero Product of the Array Elements](MinimumNon-ZeroProductoftheArrayElements/minimum_non-zero_product_of_the_array_elements.py)
