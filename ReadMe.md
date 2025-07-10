@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Subsequence Score](MaximumSubsequenceScore/maximum_subsequence_score.py)
 * [Minimum Operations to Make Array Equal II](MinimumOperationstoMakeArrayEqualII/minimum_operations_to_make_array_equal_ii.py)
 * [Count the Number of Good Subsequences](CounttheNumberofGoodSubsequences/count_the_number_of_good_subsequences.py)
 * [Count the Number of Good Subarrays](CounttheNumberofGoodSubarrays/count_the_number_of_good_subarrays.py)
