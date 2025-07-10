@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sum in a Matrix](SuminaMatrix/sum_in_a_matrix.py)
 * [Throttle](Throttle/throttle.py)
 * [Split a Circular Linked List](SplitaCircularLinkedList/split_a_circular_linked_list.py)
 * [Make Costs of Paths Equal in a Binary Tree](MakeCostsofPathsEqualinaBinaryTree/make_costs_of_paths_equal_in_a_binary_tree.py)
