@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximize Win From Two Segments](MaximizeWinFromTwoSegments/maximize_win_from_two_segments.py)
 * [Maximum Number of Integers to Choose From a Range I](MaximumNumberofIntegerstoChooseFromaRangeI/maximum_number_of_integers_to_choose_from_a_range_i.py)
 * [Count Collisions of Monkeys on a Polygon](CountCollisionsofMonkeysonaPolygon/count_collisions_of_monkeys_on_a_polygon.py)
 * [Maximum Price to Fill a Bag](MaximumPricetoFillaBag/maximum_price_to_fill_a_bag.py)
