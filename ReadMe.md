@@ -1,5 +1,6 @@
 
 ## Medium
+* [Ways to Split Array Into Good Subarrays](WaystoSplitArrayIntoGoodSubarrays/ways_to_split_array_into_good_subarrays.py)
 * [Count Zero Request Servers](CountZeroRequestServers/count_zero_request_servers.py)
 * [Decremental String Concatenation](DecrementalStringConcatenation/decremental_string_concatenation.py)
 * [Construct the Longest New String](ConstructtheLongestNewString/construct_the_longest_new_string.py)
