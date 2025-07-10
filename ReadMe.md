@@ -1,5 +1,6 @@
 
 ## Medium
+* [Partition String Into Substrings With Values at Most K](PartitionStringIntoSubstringsWithValuesatMostK/partition_string_into_substrings_with_values_at_most_k.py)
 * [Distinct Prime Factors of Product of Array](DistinctPrimeFactorsofProductofArray/distinct_prime_factors_of_product_of_array.py)
 * [Maximum Tastiness of Candy Basket](MaximumTastinessofCandyBasket/maximum_tastiness_of_candy_basket.py)
 * [Take K of Each Character From Left and Right](TakeKofEachCharacterFromLeftandRight/take_k_of_each_character_from_left_and_right.py)
