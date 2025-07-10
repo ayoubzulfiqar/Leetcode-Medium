@@ -1,5 +1,6 @@
 
 ## Medium
+* [Convert an Array Into a 2D Array With Conditions](ConvertanArrayIntoa2DArrayWithConditions/convert_an_array_into_a_2d_array_with_conditions.py)
 * [Make K-Subarray Sums Equal](MakeK-SubarraySumsEqual/make_k-subarray_sums_equal.py)
 * [Find the Substring With Maximum Cost](FindtheSubstringWithMaximumCost/find_the_substring_with_maximum_cost.py)
 * [Minimum Operations to Make All Array Elements Equal](MinimumOperationstoMakeAllArrayElementsEqual/minimum_operations_to_make_all_array_elements_equal.py)
