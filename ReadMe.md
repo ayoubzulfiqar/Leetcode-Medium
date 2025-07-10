@@ -1,5 +1,6 @@
 
 ## Medium
+* [Reward Top K Students](RewardTopKStudents/reward_top_k_students.py)
 * [Check if There is a Path With Equal Number of 0's And 1's](CheckifThereisaPathWithEqualNumberof0'sAnd1's/check_if_there_is_a_path_with_equal_number_of_0's_and_1's.py)
 * [Smallest Value After Replacing With Sum of Prime Factors](SmallestValueAfterReplacingWithSumofPrimeFactors/smallest_value_after_replacing_with_sum_of_prime_factors.py)
 * [Design Memory Allocator](DesignMemoryAllocator/design_memory_allocator.py)
