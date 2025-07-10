@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Index of a Valid Split](MinimumIndexofaValidSplit/minimum_index_of_a_valid_split.py)
 * [Maximum Beauty of an Array After Applying Operation](MaximumBeautyofanArrayAfterApplyingOperation/maximum_beauty_of_an_array_after_applying_operation.py)
 * [Date Range Generator](DateRangeGenerator/date_range_generator.py)
 * [Convert Callback Based Function to Promise Based Function](ConvertCallbackBasedFunctiontoPromiseBasedFunction/convert_callback_based_function_to_promise_based_function.py)
