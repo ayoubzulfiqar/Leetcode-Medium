@@ -1,5 +1,6 @@
 
 ## Medium
+* [Smallest Number With Given Digit Product](SmallestNumberWithGivenDigitProduct/smallest_number_with_given_digit_product.py)
 * [Count of Interesting Subarrays](CountofInterestingSubarrays/count_of_interesting_subarrays.py)
 * [Minimum Operations to Make a Special Number](MinimumOperationstoMakeaSpecialNumber/minimum_operations_to_make_a_special_number.py)
 * [Maximum Sum of Almost Unique Subarray](MaximumSumofAlmostUniqueSubarray/maximum_sum_of_almost_unique_subarray.py)
