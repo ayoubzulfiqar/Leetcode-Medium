@@ -1,5 +1,6 @@
 
 ## Medium
+* [Check Knight Tour Configuration](CheckKnightTourConfiguration/check_knight_tour_configuration.py)
 * [Minimum Time to Repair Cars](MinimumTimetoRepairCars/minimum_time_to_repair_cars.py)
 * [Find Score of an Array After Marking All Elements](FindScoreofanArrayAfterMarkingAllElements/find_score_of_an_array_after_marking_all_elements.py)
 * [Maximize Greatness of an Array](MaximizeGreatnessofanArray/maximize_greatness_of_an_array.py)
