@@ -1,5 +1,6 @@
 
 ## Medium
+* [The Number of Beautiful Subsets](TheNumberofBeautifulSubsets/the_number_of_beautiful_subsets.py)
 * [Check Knight Tour Configuration](CheckKnightTourConfiguration/check_knight_tour_configuration.py)
 * [Minimum Time to Repair Cars](MinimumTimetoRepairCars/minimum_time_to_repair_cars.py)
 * [Find Score of an Array After Marking All Elements](FindScoreofanArrayAfterMarkingAllElements/find_score_of_an_array_after_marking_all_elements.py)
