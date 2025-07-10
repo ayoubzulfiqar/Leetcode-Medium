@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximal Score After Applying K Operations](MaximalScoreAfterApplyingKOperations/maximal_score_after_applying_k_operations.py)
 * [Find Consecutive Integers from a Data Stream](FindConsecutiveIntegersfromaDataStream/find_consecutive_integers_from_a_data_stream.py)
 * [Closest Prime Numbers in Range](ClosestPrimeNumbersinRange/closest_prime_numbers_in_range.py)
 * [Partition String Into Substrings With Values at Most K](PartitionStringIntoSubstringsWithValuesatMostK/partition_string_into_substrings_with_values_at_most_k.py)
