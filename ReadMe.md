@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Seconds to Equalize a Circular Array](MinimumSecondstoEqualizeaCircularArray/minimum_seconds_to_equalize_a_circular_array.py)
 * [Insert Greatest Common Divisors in Linked List](InsertGreatestCommonDivisorsinLinkedList/insert_greatest_common_divisors_in_linked_list.py)
 * [Custom Interval](CustomInterval/custom_interval.py)
 * [Find The K-th Lucky Number](FindTheK-thLuckyNumber/find_the_k-th_lucky_number.py)
