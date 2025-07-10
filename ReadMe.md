@@ -1,5 +1,6 @@
 
 ## Medium
+* [Flatten Deeply Nested Array](FlattenDeeplyNestedArray/flatten_deeply_nested_array.py)
 * [Snail Traversal](SnailTraversal/snail_traversal.py)
 * [Memoize](Memoize/memoize.py)
 * [Cache With Time Limit](CacheWithTimeLimit/cache_with_time_limit.py)
