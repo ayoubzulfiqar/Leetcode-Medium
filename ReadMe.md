@@ -1,5 +1,6 @@
 
 ## Medium
+* [Special Permutations](SpecialPermutations/special_permutations.py)
 * [Find the Value of the Partition](FindtheValueofthePartition/find_the_value_of_the_partition.py)
 * [Count Occurrences in Text](CountOccurrencesinText/count_occurrences_in_text.py)
 * [Find the Closest Marked Node](FindtheClosestMarkedNode/find_the_closest_marked_node.py)
