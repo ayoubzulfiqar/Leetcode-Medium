@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Collisions of Monkeys on a Polygon](CountCollisionsofMonkeysonaPolygon/count_collisions_of_monkeys_on_a_polygon.py)
 * [Maximum Price to Fill a Bag](MaximumPricetoFillaBag/maximum_price_to_fill_a_bag.py)
 * [Sort the Students by Their Kth Score](SorttheStudentsbyTheirKthScore/sort_the_students_by_their_kth_score.py)
 * [Maximum Subsequence Score](MaximumSubsequenceScore/maximum_subsequence_score.py)
