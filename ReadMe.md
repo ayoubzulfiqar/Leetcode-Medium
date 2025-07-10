@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum OR](MaximumOR/maximum_or.py)
 * [Sum in a Matrix](SuminaMatrix/sum_in_a_matrix.py)
 * [Throttle](Throttle/throttle.py)
 * [Split a Circular Linked List](SplitaCircularLinkedList/split_a_circular_linked_list.py)
