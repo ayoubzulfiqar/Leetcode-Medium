@@ -1,5 +1,6 @@
 
 ## Medium
+* [Custom Interval](CustomInterval/custom_interval.py)
 * [Find The K-th Lucky Number](FindTheK-thLuckyNumber/find_the_k-th_lucky_number.py)
 * [Shortest String That Contains Three Strings](ShortestStringThatContainsThreeStrings/shortest_string_that_contains_three_strings.py)
 * [Count Complete Subarrays in an Array](CountCompleteSubarraysinanArray/count_complete_subarrays_in_an_array.py)
