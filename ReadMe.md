@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sliding Subarray Beauty](SlidingSubarrayBeauty/sliding_subarray_beauty.py)
 * [Nested Array Generator](NestedArrayGenerator/nested_array_generator.py)
 * [Minimum Additions to Make Valid String](MinimumAdditionstoMakeValidString/minimum_additions_to_make_valid_string.py)
 * [Cousins in Binary Tree II](CousinsinBinaryTreeII/cousins_in_binary_tree_ii.py)
