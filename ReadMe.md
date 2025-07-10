@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Score by Changing Two Elements](MinimumScorebyChangingTwoElements/minimum_score_by_changing_two_elements.py)
 * [Substring XOR Queries](SubstringXORQueries/substring_xor_queries.py)
 * [House Robber IV](HouseRobberIV/house_robber_iv.py)
 * [Count Vowel Strings in Ranges](CountVowelStringsinRanges/count_vowel_strings_in_ranges.py)
