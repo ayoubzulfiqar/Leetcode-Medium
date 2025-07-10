@@ -1,5 +1,6 @@
 
 ## Medium
+* [Smallest Value After Replacing With Sum of Prime Factors](SmallestValueAfterReplacingWithSumofPrimeFactors/smallest_value_after_replacing_with_sum_of_prime_factors.py)
 * [Design Memory Allocator](DesignMemoryAllocator/design_memory_allocator.py)
 * [Longest Square Streak in an Array](LongestSquareStreakinanArray/longest_square_streak_in_an_array.py)
 * [Maximum Star Sum of a Graph](MaximumStarSumofaGraph/maximum_star_sum_of_a_graph.py)
