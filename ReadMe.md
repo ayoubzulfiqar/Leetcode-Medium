@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sum of Distances](SumofDistances/sum_of_distances.py)
 * [Mice and Cheese](MiceandCheese/mice_and_cheese.py)
 * [Convert an Array Into a 2D Array With Conditions](ConvertanArrayIntoa2DArrayWithConditions/convert_an_array_into_a_2d_array_with_conditions.py)
 * [Make K-Subarray Sums Equal](MakeK-SubarraySumsEqual/make_k-subarray_sums_equal.py)
