@@ -1,5 +1,6 @@
 
 ## Medium
+* [Execute Asynchronous Functions in Parallel](ExecuteAsynchronousFunctionsinParallel/execute_asynchronous_functions_in_parallel.py)
 * [Sum of Matrix After Queries](SumofMatrixAfterQueries/sum_of_matrix_after_queries.py)
 * [Difference of Number of Distinct Values on Diagonals](DifferenceofNumberofDistinctValuesonDiagonals/difference_of_number_of_distinct_values_on_diagonals.py)
 * [Maximum Strength of a Group](MaximumStrengthofaGroup/maximum_strength_of_a_group.py)
