@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximize the Profit as the Salesman](MaximizetheProfitastheSalesman/maximize_the_profit_as_the_salesman.py)
 * [Determine the Minimum Sum of a k-avoiding Array](DeterminetheMinimumSumofak-avoidingArray/determine_the_minimum_sum_of_a_k-avoiding_array.py)
 * [Make String a Subsequence Using Cyclic Increments](MakeStringaSubsequenceUsingCyclicIncrements/make_string_a_subsequence_using_cyclic_increments.py)
 * [Delay the Resolution of Each Promise](DelaytheResolutionofEachPromise/delay_the_resolution_of_each_promise.py)
