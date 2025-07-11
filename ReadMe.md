@@ -1,5 +1,6 @@
 
 ## Medium
+* [Finding the Number of Visible Mountains](FindingtheNumberofVisibleMountains/finding_the_number_of_visible_mountains.py)
 * [Grid Game](GridGame/grid_game.py)
 * [Minimum Moves to Spread Stones Over Grid](MinimumMovestoSpreadStonesOverGrid/minimum_moves_to_spread_stones_over_grid.py)
 * [Determine if a Cell Is Reachable at a Given Time](DetermineifaCellIsReachableataGivenTime/determine_if_a_cell_is_reachable_at_a_given_time.py)
