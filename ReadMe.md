@@ -1,5 +1,6 @@
 
 ## Medium
+* [Most Frequent Prime](MostFrequentPrime/most_frequent_prime.py)
 * [Find the Length of the Longest Common Prefix](FindtheLengthoftheLongestCommonPrefix/find_the_length_of_the_longest_common_prefix.py)
 * [Maximum Number of Operations With the Same Score II](MaximumNumberofOperationsWiththeSameScoreII/maximum_number_of_operations_with_the_same_score_ii.py)
 * [Number of Subarrays That Match a Pattern I](NumberofSubarraysThatMatchaPatternI/number_of_subarrays_that_match_a_pattern_i.py)
