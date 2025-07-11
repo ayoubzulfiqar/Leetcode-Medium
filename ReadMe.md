@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Time to Revert Word to Initial State I](MinimumTimetoRevertWordtoInitialStateI/minimum_time_to_revert_word_to_initial_state_i.py)
 * [Maximum Good Subarray Sum](MaximumGoodSubarraySum/maximum_good_subarray_sum.py)
 * [Find the Number of Ways to Place People I](FindtheNumberofWaystoPlacePeopleI/find_the_number_of_ways_to_place_people_i.py)
 * [Find Pattern in Infinite Stream I](FindPatterninInfiniteStreamI/find_pattern_in_infinite_stream_i.py)
