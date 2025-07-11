@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest and Lexicographically Smallest Beautiful String](ShortestandLexicographicallySmallestBeautifulString/shortest_and_lexicographically_smallest_beautiful_string.py)
 * [Minimizing Array After Replacing Pairs With Their Product](MinimizingArrayAfterReplacingPairsWithTheirProduct/minimizing_array_after_replacing_pairs_with_their_product.py)
 * [Find the Minimum Possible Sum of a Beautiful Array](FindtheMinimumPossibleSumofaBeautifulArray/find_the_minimum_possible_sum_of_a_beautiful_array.py)
 * [Collecting Chocolates](CollectingChocolates/collecting_chocolates.py)
