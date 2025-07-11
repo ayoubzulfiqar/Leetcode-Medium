@@ -1,5 +1,6 @@
 
 ## Medium
+* [Walking Robot Simulation II](WalkingRobotSimulationII/walking_robot_simulation_ii.py)
 * [Finding the Number of Visible Mountains](FindingtheNumberofVisibleMountains/finding_the_number_of_visible_mountains.py)
 * [Grid Game](GridGame/grid_game.py)
 * [Minimum Moves to Spread Stones Over Grid](MinimumMovestoSpreadStonesOverGrid/minimum_moves_to_spread_stones_over_grid.py)
