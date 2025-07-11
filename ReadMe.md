@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Divisible Substrings](NumberofDivisibleSubstrings/number_of_divisible_substrings.py)
 * [Count Beautiful Substrings I](CountBeautifulSubstringsI/count_beautiful_substrings_i.py)
 * [Maximize Area of Square Hole in Grid](MaximizeAreaofSquareHoleinGrid/maximize_area_of_square_hole_in_grid.py)
 * [Separate Black and White Balls](SeparateBlackandWhiteBalls/separate_black_and_white_balls.py)
