@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Operations to Make Array XOR Equal to K](MinimumNumberofOperationstoMakeArrayXOREqualtoK/minimum_number_of_operations_to_make_array_xor_equal_to_k.py)
 * [Friday Purchases I](FridayPurchasesI/friday_purchases_i.py)
 * [Number of Self-Divisible Permutations](NumberofSelf-DivisiblePermutations/number_of_self-divisible_permutations.py)
 * [Class Performance](ClassPerformance/class_performance.py)
