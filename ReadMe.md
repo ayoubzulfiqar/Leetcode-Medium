@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Operations With the Same Score II](MaximumNumberofOperationsWiththeSameScoreII/maximum_number_of_operations_with_the_same_score_ii.py)
 * [Number of Subarrays That Match a Pattern I](NumberofSubarraysThatMatchaPatternI/number_of_subarrays_that_match_a_pattern_i.py)
 * [Find the Grid of Region Average](FindtheGridofRegionAverage/find_the_grid_of_region_average.py)
 * [Minimum Time to Revert Word to Initial State I](MinimumTimetoRevertWordtoInitialStateI/minimum_time_to_revert_word_to_initial_state_i.py)
