@@ -1,5 +1,6 @@
 
 ## Medium
+* [Longest Unequal Adjacent Groups Subsequence II](LongestUnequalAdjacentGroupsSubsequenceII/longest_unequal_adjacent_groups_subsequence_ii.py)
 * [Maximum Linear Stock Score](MaximumLinearStockScore/maximum_linear_stock_score.py)
 * [Minimum Processing Time](MinimumProcessingTime/minimum_processing_time.py)
 * [Calculate Orders Within Each Interval](CalculateOrdersWithinEachInterval/calculate_orders_within_each_interval.py)
