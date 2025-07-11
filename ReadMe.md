@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Cost to Convert String I](MinimumCosttoConvertStringI/minimum_cost_to_convert_string_i.py)
 * [Maximum Square Area by Removing Fences From a Field](MaximumSquareAreabyRemovingFencesFromaField/maximum_square_area_by_removing_fences_from_a_field.py)
 * [Find Polygon With the Largest Perimeter](FindPolygonWiththeLargestPerimeter/find_polygon_with_the_largest_perimeter.py)
 * [Divide Array Into Arrays With Max Difference](DivideArrayIntoArraysWithMaxDifference/divide_array_into_arrays_with_max_difference.py)
