@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Number of Ways to Place People I](FindtheNumberofWaystoPlacePeopleI/find_the_number_of_ways_to_place_people_i.py)
 * [Find Pattern in Infinite Stream I](FindPatterninInfiniteStreamI/find_pattern_in_infinite_stream_i.py)
 * [Alice and Bob Playing Flower Game](AliceandBobPlayingFlowerGame/alice_and_bob_playing_flower_game.py)
 * [Minimum Number of Pushes to Type Word II](MinimumNumberofPushestoTypeWordII/minimum_number_of_pushes_to_type_word_ii.py)
