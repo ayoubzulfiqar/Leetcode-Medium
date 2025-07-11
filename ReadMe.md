@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimizing Array After Replacing Pairs With Their Product](MinimizingArrayAfterReplacingPairsWithTheirProduct/minimizing_array_after_replacing_pairs_with_their_product.py)
 * [Find the Minimum Possible Sum of a Beautiful Array](FindtheMinimumPossibleSumofaBeautifulArray/find_the_minimum_possible_sum_of_a_beautiful_array.py)
 * [Collecting Chocolates](CollectingChocolates/collecting_chocolates.py)
 * [Minimum Operations to Reduce an Integer to 0](MinimumOperationstoReduceanIntegerto0/minimum_operations_to_reduce_an_integer_to_0.py)
