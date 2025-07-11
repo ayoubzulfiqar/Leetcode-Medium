@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Equal Sum of Two Arrays After Replacing Zeros](MinimumEqualSumofTwoArraysAfterReplacingZeros/minimum_equal_sum_of_two_arrays_after_replacing_zeros.py)
 * [Length of the Longest Subsequence That Sums to Target](LengthoftheLongestSubsequenceThatSumstoTarget/length_of_the_longest_subsequence_that_sums_to_target.py)
 * [Minimum Number of Changes to Make Binary String Beautiful](MinimumNumberofChangestoMakeBinaryStringBeautiful/minimum_number_of_changes_to_make_binary_string_beautiful.py)
 * [Minimum Sum of Mountain Triplets II](MinimumSumofMountainTripletsII/minimum_sum_of_mountain_triplets_ii.py)
