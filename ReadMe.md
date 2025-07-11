@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sum of Remoteness of All Cells](SumofRemotenessofAllCells/sum_of_remoteness_of_all_cells.py)
 * [Deep Object Filter](DeepObjectFilter/deep_object_filter.py)
 * [Minimum Absolute Difference Between Elements With Constraint](MinimumAbsoluteDifferenceBetweenElementsWithConstraint/minimum_absolute_difference_between_elements_with_constraint.py)
 * [Visit Array Positions to Maximize Score](VisitArrayPositionstoMaximizeScore/visit_array_positions_to_maximize_score.py)
