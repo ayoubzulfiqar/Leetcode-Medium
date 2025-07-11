@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Indices With Index and Value Difference II](FindIndicesWithIndexandValueDifferenceII/find_indices_with_index_and_value_difference_ii.py)
 * [Longest Unequal Adjacent Groups Subsequence II](LongestUnequalAdjacentGroupsSubsequenceII/longest_unequal_adjacent_groups_subsequence_ii.py)
 * [Maximum Linear Stock Score](MaximumLinearStockScore/maximum_linear_stock_score.py)
 * [Minimum Processing Time](MinimumProcessingTime/minimum_processing_time.py)
