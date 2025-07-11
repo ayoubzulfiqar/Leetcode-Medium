@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Xor-Beauty of Array](FindXor-BeautyofArray/find_xor-beauty_of_array.py)
 * [Walking Robot Simulation II](WalkingRobotSimulationII/walking_robot_simulation_ii.py)
 * [Finding the Number of Visible Mountains](FindingtheNumberofVisibleMountains/finding_the_number_of_visible_mountains.py)
 * [Grid Game](GridGame/grid_game.py)
