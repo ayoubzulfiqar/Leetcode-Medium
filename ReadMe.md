@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Same-End Substrings](NumberofSame-EndSubstrings/number_of_same-end_substrings.py)
 * [Minimum Number of Coins to be Added](MinimumNumberofCoinstobeAdded/minimum_number_of_coins_to_be_added.py)
 * [Number of Divisible Substrings](NumberofDivisibleSubstrings/number_of_divisible_substrings.py)
 * [Count Beautiful Substrings I](CountBeautifulSubstringsI/count_beautiful_substrings_i.py)
