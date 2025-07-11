@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Trailing Zeros in a Cornered Path](MaximumTrailingZerosinaCorneredPath/maximum_trailing_zeros_in_a_cornered_path.py)
 * [Symmetric Coordinates](SymmetricCoordinates/symmetric_coordinates.py)
 * [Minimum Cost to Convert String I](MinimumCosttoConvertStringI/minimum_cost_to_convert_string_i.py)
 * [Maximum Square Area by Removing Fences From a Field](MaximumSquareAreabyRemovingFencesFromaField/maximum_square_area_by_removing_fences_from_a_field.py)
