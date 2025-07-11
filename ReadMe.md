@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Strings Which Can Be Rearranged to Contain Substring](NumberofStringsWhichCanBeRearrangedtoContainSubstring/number_of_strings_which_can_be_rearranged_to_contain_substring.py)
 * [Minimum Number of Groups to Create a Valid Assignment](MinimumNumberofGroupstoCreateaValidAssignment/minimum_number_of_groups_to_create_a_valid_assignment.py)
 * [Shortest and Lexicographically Smallest Beautiful String](ShortestandLexicographicallySmallestBeautifulString/shortest_and_lexicographically_smallest_beautiful_string.py)
 * [Minimizing Array After Replacing Pairs With Their Product](MinimizingArrayAfterReplacingPairsWithTheirProduct/minimizing_array_after_replacing_pairs_with_their_product.py)
