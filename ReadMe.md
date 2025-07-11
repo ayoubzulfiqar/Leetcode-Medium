@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Subarrays Where Max Element Appears at Least K Times](CountSubarraysWhereMaxElementAppearsatLeastKTimes/count_subarrays_where_max_element_appears_at_least_k_times.py)
 * [Double Modular Exponentiation](DoubleModularExponentiation/double_modular_exponentiation.py)
 * [Length of Longest Subarray With at Most K Frequency](LengthofLongestSubarrayWithatMostKFrequency/length_of_longest_subarray_with_at_most_k_frequency.py)
 * [Number of Same-End Substrings](NumberofSame-EndSubstrings/number_of_same-end_substrings.py)
