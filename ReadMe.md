@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Size Subarray in Infinite Array](MinimumSizeSubarrayinInfiniteArray/minimum_size_subarray_in_infinite_array.py)
 * [Maximum Value of an Ordered Triplet II](MaximumValueofanOrderedTripletII/maximum_value_of_an_ordered_triplet_ii.py)
 * [Minimum Number of Operations to Make Array Empty](MinimumNumberofOperationstoMakeArrayEmpty/minimum_number_of_operations_to_make_array_empty.py)
 * [Beautiful Towers I](BeautifulTowersI/beautiful_towers_i.py)
