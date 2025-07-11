@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count the Number of Houses at a Certain Distance I](CounttheNumberofHousesataCertainDistanceI/count_the_number_of_houses_at_a_certain_distance_i.py)
 * [Find if Array Can Be Sorted](FindifArrayCanBeSorted/find_if_array_can_be_sorted.py)
 * [Find Beautiful Indices in the Given Array I](FindBeautifulIndicesintheGivenArrayI/find_beautiful_indices_in_the_given_array_i.py)
 * [Maximum Subtree of the Same Color](MaximumSubtreeoftheSameColor/maximum_subtree_of_the_same_color.py)
