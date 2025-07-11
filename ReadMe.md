@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Equal Numbers Blocks](NumberofEqualNumbersBlocks/number_of_equal_numbers_blocks.py)
 * [Minimum Operations to Maximize Last Elements in Arrays](MinimumOperationstoMaximizeLastElementsinArrays/minimum_operations_to_maximize_last_elements_in_arrays.py)
 * [High-Access Employees](High-AccessEmployees/high-access_employees.py)
 * [Distribute Candies Among Children II](DistributeCandiesAmongChildrenII/distribute_candies_among_children_ii.py)
