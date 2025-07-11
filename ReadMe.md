@@ -1,5 +1,6 @@
 
 ## Medium
+* [Deep Object Filter](DeepObjectFilter/deep_object_filter.py)
 * [Minimum Absolute Difference Between Elements With Constraint](MinimumAbsoluteDifferenceBetweenElementsWithConstraint/minimum_absolute_difference_between_elements_with_constraint.py)
 * [Visit Array Positions to Maximize Score](VisitArrayPositionstoMaximizeScore/visit_array_positions_to_maximize_score.py)
 * [Minimum Cost to Make All Characters Equal](MinimumCosttoMakeAllCharactersEqual/minimum_cost_to_make_all_characters_equal.py)
