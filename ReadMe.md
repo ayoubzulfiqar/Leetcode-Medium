@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Subarrays That Match a Pattern I](NumberofSubarraysThatMatchaPatternI/number_of_subarrays_that_match_a_pattern_i.py)
 * [Find the Grid of Region Average](FindtheGridofRegionAverage/find_the_grid_of_region_average.py)
 * [Minimum Time to Revert Word to Initial State I](MinimumTimetoRevertWordtoInitialStateI/minimum_time_to_revert_word_to_initial_state_i.py)
 * [Maximum Good Subarray Sum](MaximumGoodSubarraySum/maximum_good_subarray_sum.py)
