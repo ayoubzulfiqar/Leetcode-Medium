@@ -1,5 +1,6 @@
 
 ## Medium
+* [Visit Array Positions to Maximize Score](VisitArrayPositionstoMaximizeScore/visit_array_positions_to_maximize_score.py)
 * [Minimum Cost to Make All Characters Equal](MinimumCosttoMakeAllCharactersEqual/minimum_cost_to_make_all_characters_equal.py)
 * [Curry](Curry/curry.py)
 * [Minimum Impossible OR](MinimumImpossibleOR/minimum_impossible_or.py)
