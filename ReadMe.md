@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Minimum Possible Sum of a Beautiful Array](FindtheMinimumPossibleSumofaBeautifulArray/find_the_minimum_possible_sum_of_a_beautiful_array.py)
 * [Collecting Chocolates](CollectingChocolates/collecting_chocolates.py)
 * [Minimum Operations to Reduce an Integer to 0](MinimumOperationstoReduceanIntegerto0/minimum_operations_to_reduce_an_integer_to_0.py)
 * [Maximum Trailing Zeros in a Cornered Path](MaximumTrailingZerosinaCorneredPath/maximum_trailing_zeros_in_a_cornered_path.py)
