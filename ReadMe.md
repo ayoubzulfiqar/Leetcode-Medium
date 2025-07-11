@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Square Area by Removing Fences From a Field](MaximumSquareAreabyRemovingFencesFromaField/maximum_square_area_by_removing_fences_from_a_field.py)
 * [Find Polygon With the Largest Perimeter](FindPolygonWiththeLargestPerimeter/find_polygon_with_the_largest_perimeter.py)
 * [Divide Array Into Arrays With Max Difference](DivideArrayIntoArraysWithMaxDifference/divide_array_into_arrays_with_max_difference.py)
 * [Count Subarrays Where Max Element Appears at Least K Times](CountSubarraysWhereMaxElementAppearsatLeastKTimes/count_subarrays_where_max_element_appears_at_least_k_times.py)
