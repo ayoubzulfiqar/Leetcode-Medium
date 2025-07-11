@@ -1,5 +1,6 @@
 
 ## Medium
+* [Class Performance](ClassPerformance/class_performance.py)
 * [Manager of the Largest Department](ManageroftheLargestDepartment/manager_of_the_largest_department.py)
 * [Find Third Transaction](FindThirdTransaction/find_third_transaction.py)
 * [Find Peak Calling Hours for Each City](FindPeakCallingHoursforEachCity/find_peak_calling_hours_for_each_city.py)
