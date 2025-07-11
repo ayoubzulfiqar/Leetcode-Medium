@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Length of Semi-Decreasing Subarrays](MaximumLengthofSemi-DecreasingSubarrays/maximum_length_of_semi-decreasing_subarrays.py)
 * [Maximum Number of Alloys](MaximumNumberofAlloys/maximum_number_of_alloys.py)
 * [Happy Students](HappyStudents/happy_students.py)
 * [Count Pairs of Points With Distance k](CountPairsofPointsWithDistancek/count_pairs_of_points_with_distance_k.py)
