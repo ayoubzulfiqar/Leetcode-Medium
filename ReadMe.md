@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Cost to Make All Characters Equal](MinimumCosttoMakeAllCharactersEqual/minimum_cost_to_make_all_characters_equal.py)
 * [Curry](Curry/curry.py)
 * [Minimum Impossible OR](MinimumImpossibleOR/minimum_impossible_or.py)
 * [Count the Number of Fair Pairs](CounttheNumberofFairPairs/count_the_number_of_fair_pairs.py)
