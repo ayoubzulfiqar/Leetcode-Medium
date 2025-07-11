@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Good Subarray Sum](MaximumGoodSubarraySum/maximum_good_subarray_sum.py)
 * [Find the Number of Ways to Place People I](FindtheNumberofWaystoPlacePeopleI/find_the_number_of_ways_to_place_people_i.py)
 * [Find Pattern in Infinite Stream I](FindPatterninInfiniteStreamI/find_pattern_in_infinite_stream_i.py)
 * [Alice and Bob Playing Flower Game](AliceandBobPlayingFlowerGame/alice_and_bob_playing_flower_game.py)
