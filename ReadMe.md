@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Self-Divisible Permutations](NumberofSelf-DivisiblePermutations/number_of_self-divisible_permutations.py)
 * [Class Performance](ClassPerformance/class_performance.py)
 * [Manager of the Largest Department](ManageroftheLargestDepartment/manager_of_the_largest_department.py)
 * [Find Third Transaction](FindThirdTransaction/find_third_transaction.py)
