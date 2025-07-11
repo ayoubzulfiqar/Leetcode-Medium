@@ -1,5 +1,6 @@
 
 ## Medium
+* [Happy Students](HappyStudents/happy_students.py)
 * [Count Pairs of Points With Distance k](CountPairsofPointsWithDistancek/count_pairs_of_points_with_distance_k.py)
 * [Minimum Array Length After Pair Removals](MinimumArrayLengthAfterPairRemovals/minimum_array_length_after_pair_removals.py)
 * [Rolling Average Steps](RollingAverageSteps/rolling_average_steps.py)
