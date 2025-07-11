@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of People That Can Be Seen in a Grid](NumberofPeopleThatCanBeSeeninaGrid/number_of_people_that_can_be_seen_in_a_grid.py)
 * [Count Pairs of Equal Substrings With Minimum Difference](CountPairsofEqualSubstringsWithMinimumDifference/count_pairs_of_equal_substrings_with_minimum_difference.py)
 * [Most Expensive Item That Can Not Be Bought](MostExpensiveItemThatCanNotBeBought/most_expensive_item_that_can_not_be_bought.py)
 * [Minimum Cost to Make Array Equalindromic](MinimumCosttoMakeArrayEqualindromic/minimum_cost_to_make_array_equalindromic.py)
