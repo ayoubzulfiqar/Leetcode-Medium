@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Subtree of the Same Color](MaximumSubtreeoftheSameColor/maximum_subtree_of_the_same_color.py)
 * [Maximum Size of a Set After Removals](MaximumSizeofaSetAfterRemovals/maximum_size_of_a_set_after_removals.py)
 * [Minimum Number of Operations to Make Array XOR Equal to K](MinimumNumberofOperationstoMakeArrayXOREqualtoK/minimum_number_of_operations_to_make_array_xor_equal_to_k.py)
 * [Friday Purchases I](FridayPurchasesI/friday_purchases_i.py)
