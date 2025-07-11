@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Changes to Make Binary String Beautiful](MinimumNumberofChangestoMakeBinaryStringBeautiful/minimum_number_of_changes_to_make_binary_string_beautiful.py)
 * [Minimum Sum of Mountain Triplets II](MinimumSumofMountainTripletsII/minimum_sum_of_mountain_triplets_ii.py)
 * [Construct Product Matrix](ConstructProductMatrix/construct_product_matrix.py)
 * [Find Indices With Index and Value Difference II](FindIndicesWithIndexandValueDifferenceII/find_indices_with_index_and_value_difference_ii.py)
