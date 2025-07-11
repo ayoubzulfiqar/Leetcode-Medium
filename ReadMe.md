@@ -1,5 +1,6 @@
 
 ## Medium
+* [Collecting Chocolates](CollectingChocolates/collecting_chocolates.py)
 * [Minimum Operations to Reduce an Integer to 0](MinimumOperationstoReduceanIntegerto0/minimum_operations_to_reduce_an_integer_to_0.py)
 * [Maximum Trailing Zeros in a Cornered Path](MaximumTrailingZerosinaCorneredPath/maximum_trailing_zeros_in_a_cornered_path.py)
 * [Symmetric Coordinates](SymmetricCoordinates/symmetric_coordinates.py)
