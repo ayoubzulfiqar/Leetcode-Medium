@@ -1,5 +1,6 @@
 
 ## Medium
+* [Beautiful Towers I](BeautifulTowersI/beautiful_towers_i.py)
 * [Maximum Length of Semi-Decreasing Subarrays](MaximumLengthofSemi-DecreasingSubarrays/maximum_length_of_semi-decreasing_subarrays.py)
 * [Maximum Number of Alloys](MaximumNumberofAlloys/maximum_number_of_alloys.py)
 * [Happy Students](HappyStudents/happy_students.py)
