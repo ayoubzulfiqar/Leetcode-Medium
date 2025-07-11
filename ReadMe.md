@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximize Area of Square Hole in Grid](MaximizeAreaofSquareHoleinGrid/maximize_area_of_square_hole_in_grid.py)
 * [Separate Black and White Balls](SeparateBlackandWhiteBalls/separate_black_and_white_balls.py)
 * [Number of Equal Numbers Blocks](NumberofEqualNumbersBlocks/number_of_equal_numbers_blocks.py)
 * [Minimum Operations to Maximize Last Elements in Arrays](MinimumOperationstoMaximizeLastElementsinArrays/minimum_operations_to_maximize_last_elements_in_arrays.py)
