@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find if Array Can Be Sorted](FindifArrayCanBeSorted/find_if_array_can_be_sorted.py)
 * [Find Beautiful Indices in the Given Array I](FindBeautifulIndicesintheGivenArrayI/find_beautiful_indices_in_the_given_array_i.py)
 * [Maximum Subtree of the Same Color](MaximumSubtreeoftheSameColor/maximum_subtree_of_the_same_color.py)
 * [Maximum Size of a Set After Removals](MaximumSizeofaSetAfterRemovals/maximum_size_of_a_set_after_removals.py)
