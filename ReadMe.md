@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Peak Calling Hours for Each City](FindPeakCallingHoursforEachCity/find_peak_calling_hours_for_each_city.py)
 * [Find Longest Special Substring That Occurs Thrice II](FindLongestSpecialSubstringThatOccursThriceII/find_longest_special_substring_that_occurs_thrice_ii.py)
 * [Find Longest Special Substring That Occurs Thrice I](FindLongestSpecialSubstringThatOccursThriceI/find_longest_special_substring_that_occurs_thrice_i.py)
 * [Number of Divisible Triplet Sums](NumberofDivisibleTripletSums/number_of_divisible_triplet_sums.py)
