@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Longest Special Substring That Occurs Thrice I](FindLongestSpecialSubstringThatOccursThriceI/find_longest_special_substring_that_occurs_thrice_i.py)
 * [Number of Divisible Triplet Sums](NumberofDivisibleTripletSums/number_of_divisible_triplet_sums.py)
 * [Make Lexicographically Smallest Array by Swapping Elements](MakeLexicographicallySmallestArraybySwappingElements/make_lexicographically_smallest_array_by_swapping_elements.py)
 * [Count the Number of K-Free Subsets](CounttheNumberofK-FreeSubsets/count_the_number_of_k-free_subsets.py)
