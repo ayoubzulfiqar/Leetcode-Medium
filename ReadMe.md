@@ -1,5 +1,6 @@
 
 ## Medium
+* [Double Modular Exponentiation](DoubleModularExponentiation/double_modular_exponentiation.py)
 * [Length of Longest Subarray With at Most K Frequency](LengthofLongestSubarrayWithatMostKFrequency/length_of_longest_subarray_with_at_most_k_frequency.py)
 * [Number of Same-End Substrings](NumberofSame-EndSubstrings/number_of_same-end_substrings.py)
 * [Minimum Number of Coins to be Added](MinimumNumberofCoinstobeAdded/minimum_number_of_coins_to_be_added.py)
