@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Sum of Mountain Triplets II](MinimumSumofMountainTripletsII/minimum_sum_of_mountain_triplets_ii.py)
 * [Construct Product Matrix](ConstructProductMatrix/construct_product_matrix.py)
 * [Find Indices With Index and Value Difference II](FindIndicesWithIndexandValueDifferenceII/find_indices_with_index_and_value_difference_ii.py)
 * [Longest Unequal Adjacent Groups Subsequence II](LongestUnequalAdjacentGroupsSubsequenceII/longest_unequal_adjacent_groups_subsequence_ii.py)
