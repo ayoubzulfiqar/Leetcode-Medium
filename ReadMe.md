@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Impossible OR](MinimumImpossibleOR/minimum_impossible_or.py)
 * [Count the Number of Fair Pairs](CounttheNumberofFairPairs/count_the_number_of_fair_pairs.py)
 * [Apply Bitwise Operations to Make Strings Equal](ApplyBitwiseOperationstoMakeStringsEqual/apply_bitwise_operations_to_make_strings_equal.py)
 * [Find Xor-Beauty of Array](FindXor-BeautyofArray/find_xor-beauty_of_array.py)
