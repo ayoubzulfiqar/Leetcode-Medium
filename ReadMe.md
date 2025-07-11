@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Score After Applying Operations on a Tree](MaximumScoreAfterApplyingOperationsonaTree/maximum_score_after_applying_operations_on_a_tree.py)
 * [Find Champion II](FindChampionII/find_champion_ii.py)
 * [Market Analysis III](MarketAnalysisIII/market_analysis_iii.py)
 * [Minimum Equal Sum of Two Arrays After Replacing Zeros](MinimumEqualSumofTwoArraysAfterReplacingZeros/minimum_equal_sum_of_two_arrays_after_replacing_zeros.py)
