@@ -1,5 +1,6 @@
 
 ## Medium
+* [Divide Array Into Arrays With Max Difference](DivideArrayIntoArraysWithMaxDifference/divide_array_into_arrays_with_max_difference.py)
 * [Count Subarrays Where Max Element Appears at Least K Times](CountSubarraysWhereMaxElementAppearsatLeastKTimes/count_subarrays_where_max_element_appears_at_least_k_times.py)
 * [Double Modular Exponentiation](DoubleModularExponentiation/double_modular_exponentiation.py)
 * [Length of Longest Subarray With at Most K Frequency](LengthofLongestSubarrayWithatMostKFrequency/length_of_longest_subarray_with_at_most_k_frequency.py)
