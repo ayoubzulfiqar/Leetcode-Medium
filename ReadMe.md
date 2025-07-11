@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Champion II](FindChampionII/find_champion_ii.py)
 * [Market Analysis III](MarketAnalysisIII/market_analysis_iii.py)
 * [Minimum Equal Sum of Two Arrays After Replacing Zeros](MinimumEqualSumofTwoArraysAfterReplacingZeros/minimum_equal_sum_of_two_arrays_after_replacing_zeros.py)
 * [Length of the Longest Subsequence That Sums to Target](LengthoftheLongestSubsequenceThatSumstoTarget/length_of_the_longest_subsequence_that_sums_to_target.py)
