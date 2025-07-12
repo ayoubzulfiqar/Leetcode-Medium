@@ -1,5 +1,6 @@
 
 ## Medium
+* [Snaps Analysis](SnapsAnalysis/snaps_analysis.py)
 * [Top Percentile Fraud](TopPercentileFraud/top_percentile_fraud.py)
 * [Binary Tree Nodes](BinaryTreeNodes/binary_tree_nodes.py)
 * [Pizza Toppings Cost Analysis](PizzaToppingsCostAnalysis/pizza_toppings_cost_analysis.py)
