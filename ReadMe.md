@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Days Without Meetings](CountDaysWithoutMeetings/count_days_without_meetings.py)
 * [Better Compression of String](BetterCompressionofString/better_compression_of_string.py)
 * [Calculate Parking Fees and Duration](CalculateParkingFeesandDuration/calculate_parking_fees_and_duration.py)
 * [Find the Number of Good Pairs II](FindtheNumberofGoodPairsII/find_the_number_of_good_pairs_ii.py)
