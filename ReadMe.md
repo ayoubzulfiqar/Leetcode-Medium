@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest Subarray With OR at Least K II](ShortestSubarrayWithORatLeastKII/shortest_subarray_with_or_at_least_k_ii.py)
 * [Minimum Levels to Gain More Points](MinimumLevelstoGainMorePoints/minimum_levels_to_gain_more_points.py)
 * [Guess the Number Using Bitwise Questions II](GuesstheNumberUsingBitwiseQuestionsII/guess_the_number_using_bitwise_questions_ii.py)
 * [Most Frequent IDs](MostFrequentIDs/most_frequent_ids.py)
