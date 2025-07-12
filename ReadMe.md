@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find The First Player to win K Games in a Row](FindTheFirstPlayertowinKGamesinaRow/find_the_first_player_to_win_k_games_in_a_row.py)
 * [Lexicographically Minimum String After Removing Stars](LexicographicallyMinimumStringAfterRemovingStars/lexicographically_minimum_string_after_removing_stars.py)
 * [Count Days Without Meetings](CountDaysWithoutMeetings/count_days_without_meetings.py)
 * [Better Compression of String](BetterCompressionofString/better_compression_of_string.py)
