@@ -1,5 +1,6 @@
 
 ## Medium
+* [Taking Maximum Energy From the Mystic Dungeon](TakingMaximumEnergyFromtheMysticDungeon/taking_maximum_energy_from_the_mystic_dungeon.py)
 * [Maximum Points Inside the Square](MaximumPointsInsidetheSquare/maximum_points_inside_the_square.py)
 * [Consecutive Available Seats II](ConsecutiveAvailableSeatsII/consecutive_available_seats_ii.py)
 * [Minimum Number of Operations to Make Word K-Periodic](MinimumNumberofOperationstoMakeWordK-Periodic/minimum_number_of_operations_to_make_word_k-periodic.py)
