@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Pairs of Connectable Servers in a Weighted Tree Network](CountPairsofConnectableServersinaWeightedTreeNetwork/count_pairs_of_connectable_servers_in_a_weighted_tree_network.py)
 * [Minimum Operations to Exceed Threshold Value II](MinimumOperationstoExceedThresholdValueII/minimum_operations_to_exceed_threshold_value_ii.py)
 * [Guess the Number Using Bitwise Questions I](GuesstheNumberUsingBitwiseQuestionsI/guess_the_number_using_bitwise_questions_i.py)
 * [Friends With No Mutual Friends](FriendsWithNoMutualFriends/friends_with_no_mutual_friends.py)
