@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Level of Tree with Minimum Sum](FindtheLevelofTreewithMinimumSum/find_the_level_of_tree_with_minimum_sum.py)
 * [Sum of Digit Differences of All Pairs](SumofDigitDifferencesofAllPairs/sum_of_digit_differences_of_all_pairs.py)
 * [Special Array II](SpecialArrayII/special_array_ii.py)
 * [Taking Maximum Energy From the Mystic Dungeon](TakingMaximumEnergyFromtheMysticDungeon/taking_maximum_energy_from_the_mystic_dungeon.py)
