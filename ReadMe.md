@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Bursty Behavior](FindBurstyBehavior/find_bursty_behavior.py)
 * [Find Trending Hashtags](FindTrendingHashtags/find_trending_hashtags.py)
 * [Count Substrings Starting and Ending with Given Character](CountSubstringsStartingandEndingwithGivenCharacter/count_substrings_starting_and_ending_with_given_character.py)
 * [Replace Question Marks in String to Minimize Its Value](ReplaceQuestionMarksinStringtoMinimizeItsValue/replace_question_marks_in_string_to_minimize_its_value.py)
