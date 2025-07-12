@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Maximum Length of Valid Subsequence I](FindtheMaximumLengthofValidSubsequenceI/find_the_maximum_length_of_valid_subsequence_i.py)
 * [Find the Minimum Area to Cover All Ones I](FindtheMinimumAreatoCoverAllOnesI/find_the_minimum_area_to_cover_all_ones_i.py)
 * [Minimum Operations to Make Binary Array Elements Equal to One II](MinimumOperationstoMakeBinaryArrayElementsEqualtoOneII/minimum_operations_to_make_binary_array_elements_equal_to_one_ii.py)
 * [Minimum Operations to Make Binary Array Elements Equal to One I](MinimumOperationstoMakeBinaryArrayElementsEqualtoOneI/minimum_operations_to_make_binary_array_elements_equal_to_one_i.py)
