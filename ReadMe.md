@@ -1,5 +1,6 @@
 
 ## Medium
+* [Replace Question Marks in String to Minimize Its Value](ReplaceQuestionMarksinStringtoMinimizeItsValue/replace_question_marks_in_string_to_minimize_its_value.py)
 * [Mark Elements on Array by Performing Queries](MarkElementsonArraybyPerformingQueries/mark_elements_on_array_by_performing_queries.py)
 * [Match Alphanumerical Pattern in Matrix I](MatchAlphanumericalPatterninMatrixI/match_alphanumerical_pattern_in_matrix_i.py)
 * [Shortest Uncommon Substring in an Array](ShortestUncommonSubstringinanArray/shortest_uncommon_substring_in_an_array.py)
