@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Operations to Make Word K-Periodic](MinimumNumberofOperationstoMakeWordK-Periodic/minimum_number_of_operations_to_make_word_k-periodic.py)
 * [Equalize Strings by Adding or Removing Characters at Ends](EqualizeStringsbyAddingorRemovingCharactersatEnds/equalize_strings_by_adding_or_removing_characters_at_ends.py)
 * [Find the Integer Added to Array II](FindtheIntegerAddedtoArrayII/find_the_integer_added_to_array_ii.py)
 * [Right Triangles](RightTriangles/right_triangles.py)
