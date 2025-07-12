@@ -1,5 +1,6 @@
 
 ## Medium
+* [Lexicographically Minimum String After Removing Stars](LexicographicallyMinimumStringAfterRemovingStars/lexicographically_minimum_string_after_removing_stars.py)
 * [Count Days Without Meetings](CountDaysWithoutMeetings/count_days_without_meetings.py)
 * [Better Compression of String](BetterCompressionofString/better_compression_of_string.py)
 * [Calculate Parking Fees and Duration](CalculateParkingFeesandDuration/calculate_parking_fees_and_duration.py)
