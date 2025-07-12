@@ -1,5 +1,6 @@
 
 ## Medium
+* [Server Utilization Time](ServerUtilizationTime/server_utilization_time.py)
 * [Maximum Number That Makes Result of Bitwise AND Zero](MaximumNumberThatMakesResultofBitwiseANDZero/maximum_number_that_makes_result_of_bitwise_and_zero.py)
 * [Find Longest Calls](FindLongestCalls/find_longest_calls.py)
 * [Minimum Number of Operations to Satisfy Conditions](MinimumNumberofOperationstoSatisfyConditions/minimum_number_of_operations_to_satisfy_conditions.py)
