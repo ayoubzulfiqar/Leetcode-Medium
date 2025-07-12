@@ -1,5 +1,6 @@
 
 ## Medium
+* [Pizza Toppings Cost Analysis](PizzaToppingsCostAnalysis/pizza_toppings_cost_analysis.py)
 * [Split Array Into Maximum Number of Subarrays](SplitArrayIntoMaximumNumberofSubarrays/split_array_into_maximum_number_of_subarrays.py)
 * [Number of Ways to Build Sturdy Brick Wall](NumberofWaystoBuildSturdyBrickWall/number_of_ways_to_build_sturdy_brick_wall.py)
 * [Find the Largest Area of Square Inside Two Rectangles](FindtheLargestAreaofSquareInsideTwoRectangles/find_the_largest_area_of_square_inside_two_rectangles.py)
