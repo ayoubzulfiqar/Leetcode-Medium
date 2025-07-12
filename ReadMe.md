@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Time to Visit Disappearing Nodes](MinimumTimetoVisitDisappearingNodes/minimum_time_to_visit_disappearing_nodes.py)
 * [Minimum Rectangles to Cover Points](MinimumRectanglestoCoverPoints/minimum_rectangles_to_cover_points.py)
 * [Find the Index of Permutation](FindtheIndexofPermutation/find_the_index_of_permutation.py)
 * [Minimum Operations to Make Median of Array Equal to K](MinimumOperationstoMakeMedianofArrayEqualtoK/minimum_operations_to_make_median_of_array_equal_to_k.py)
