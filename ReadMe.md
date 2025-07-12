@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Pairs That Form a Complete Day II](CountPairsThatFormaCompleteDayII/count_pairs_that_form_a_complete_day_ii.py)
 * [The Number of Ways to Make the Sum](TheNumberofWaystoMaketheSum/the_number_of_ways_to_make_the_sum.py)
 * [Find Top Scoring Students](FindTopScoringStudents/find_top_scoring_students.py)
 * [Find the N-th Value After K Seconds](FindtheN-thValueAfterKSeconds/find_the_n-th_value_after_k_seconds.py)
