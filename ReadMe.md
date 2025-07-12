@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Top Scoring Students](FindTopScoringStudents/find_top_scoring_students.py)
 * [Find the N-th Value After K Seconds](FindtheN-thValueAfterKSeconds/find_the_n-th_value_after_k_seconds.py)
 * [Find The First Player to win K Games in a Row](FindTheFirstPlayertowinKGamesinaRow/find_the_first_player_to_win_k_games_in_a_row.py)
 * [Lexicographically Minimum String After Removing Stars](LexicographicallyMinimumStringAfterRemovingStars/lexicographically_minimum_string_after_removing_stars.py)
