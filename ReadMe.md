@@ -1,5 +1,6 @@
 
 ## Medium
+* [Top Percentile Fraud](TopPercentileFraud/top_percentile_fraud.py)
 * [Binary Tree Nodes](BinaryTreeNodes/binary_tree_nodes.py)
 * [Pizza Toppings Cost Analysis](PizzaToppingsCostAnalysis/pizza_toppings_cost_analysis.py)
 * [Split Array Into Maximum Number of Subarrays](SplitArrayIntoMaximumNumberofSubarrays/split_array_into_maximum_number_of_subarrays.py)
