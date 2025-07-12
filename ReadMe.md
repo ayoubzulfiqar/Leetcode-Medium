@@ -1,5 +1,6 @@
 
 ## Medium
+* [Match Alphanumerical Pattern in Matrix I](MatchAlphanumericalPatterninMatrixI/match_alphanumerical_pattern_in_matrix_i.py)
 * [Shortest Uncommon Substring in an Array](ShortestUncommonSubstringinanArray/shortest_uncommon_substring_in_an_array.py)
 * [Maximize Happiness of Selected Children](MaximizeHappinessofSelectedChildren/maximize_happiness_of_selected_children.py)
 * [Maximum Increasing Triplet Value](MaximumIncreasingTripletValue/maximum_increasing_triplet_value.py)
