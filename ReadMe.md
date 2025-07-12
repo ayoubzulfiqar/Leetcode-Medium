@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count the Number of Special Characters II](CounttheNumberofSpecialCharactersII/count_the_number_of_special_characters_ii.py)
 * [Maximum Number of Potholes That Can Be Fixed](MaximumNumberofPotholesThatCanBeFixed/maximum_number_of_potholes_that_can_be_fixed.py)
 * [Friday Purchase III ](FridayPurchaseIII/friday_purchase_iii_.py)
 * [Maximum Prime Difference](MaximumPrimeDifference/maximum_prime_difference.py)
