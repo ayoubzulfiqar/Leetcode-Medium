@@ -1,5 +1,6 @@
 
 ## Medium
+* [String Compression III](StringCompressionIII/string_compression_iii.py)
 * [Find the Number of Distinct Colors Among the Balls](FindtheNumberofDistinctColorsAmongtheBalls/find_the_number_of_distinct_colors_among_the_balls.py)
 * [Find Occurrences of an Element in an Array](FindOccurrencesofanElementinanArray/find_occurrences_of_an_element_in_an_array.py)
 * [Find the Level of Tree with Minimum Sum](FindtheLevelofTreewithMinimumSum/find_the_level_of_tree_with_minimum_sum.py)
