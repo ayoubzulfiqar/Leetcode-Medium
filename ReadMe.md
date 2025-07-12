@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Operations to Satisfy Conditions](MinimumNumberofOperationstoSatisfyConditions/minimum_number_of_operations_to_satisfy_conditions.py)
 * [Count the Number of Special Characters II](CounttheNumberofSpecialCharactersII/count_the_number_of_special_characters_ii.py)
 * [Maximum Number of Potholes That Can Be Fixed](MaximumNumberofPotholesThatCanBeFixed/maximum_number_of_potholes_that_can_be_fixed.py)
 * [Friday Purchase III ](FridayPurchaseIII/friday_purchase_iii_.py)
