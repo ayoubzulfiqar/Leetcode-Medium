@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Points Inside the Square](MaximumPointsInsidetheSquare/maximum_points_inside_the_square.py)
 * [Consecutive Available Seats II](ConsecutiveAvailableSeatsII/consecutive_available_seats_ii.py)
 * [Minimum Number of Operations to Make Word K-Periodic](MinimumNumberofOperationstoMakeWordK-Periodic/minimum_number_of_operations_to_make_word_k-periodic.py)
 * [Equalize Strings by Adding or Removing Characters at Ends](EqualizeStringsbyAddingorRemovingCharactersatEnds/equalize_strings_by_adding_or_removing_characters_at_ends.py)
