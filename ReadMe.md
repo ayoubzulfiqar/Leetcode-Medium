@@ -1,5 +1,6 @@
 
 ## Medium
+* [Lexicographically Smallest String After Operations With Constraint](LexicographicallySmallestStringAfterOperationsWithConstraint/lexicographically_smallest_string_after_operations_with_constraint.py)
 * [Count Alternating Subarrays](CountAlternatingSubarrays/count_alternating_subarrays.py)
 * [Water Bottles II](WaterBottlesII/water_bottles_ii.py)
 * [Shortest Subarray With OR at Least K II](ShortestSubarrayWithORatLeastKII/shortest_subarray_with_or_at_least_k_ii.py)
