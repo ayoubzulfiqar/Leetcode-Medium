@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Operations to Make Binary Array Elements Equal to One II](MinimumOperationstoMakeBinaryArrayElementsEqualtoOneII/minimum_operations_to_make_binary_array_elements_equal_to_one_ii.py)
 * [Minimum Operations to Make Binary Array Elements Equal to One I](MinimumOperationstoMakeBinaryArrayElementsEqualtoOneI/minimum_operations_to_make_binary_array_elements_equal_to_one_i.py)
 * [Count Pairs That Form a Complete Day II](CountPairsThatFormaCompleteDayII/count_pairs_that_form_a_complete_day_ii.py)
 * [The Number of Ways to Make the Sum](TheNumberofWaystoMaketheSum/the_number_of_ways_to_make_the_sum.py)
