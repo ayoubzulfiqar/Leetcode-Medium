@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Increasing Triplet Value](MaximumIncreasingTripletValue/maximum_increasing_triplet_value.py)
 * [Minimum Operations to Write the Letter Y on a Grid](MinimumOperationstoWritetheLetterYonaGrid/minimum_operations_to_write_the_letter_y_on_a_grid.py)
 * [Count Submatrices with Top-Left Element and Sum Less Than k](CountSubmatriceswithTop-LeftElementandSumLessThank/count_submatrices_with_top-left_element_and_sum_less_than_k.py)
 * [Count Pairs of Connectable Servers in a Weighted Tree Network](CountPairsofConnectableServersinaWeightedTreeNetwork/count_pairs_of_connectable_servers_in_a_weighted_tree_network.py)
