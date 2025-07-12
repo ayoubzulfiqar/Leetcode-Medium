@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Prime Difference](MaximumPrimeDifference/maximum_prime_difference.py)
 * [Minimum Time to Visit Disappearing Nodes](MinimumTimetoVisitDisappearingNodes/minimum_time_to_visit_disappearing_nodes.py)
 * [Minimum Rectangles to Cover Points](MinimumRectanglestoCoverPoints/minimum_rectangles_to_cover_points.py)
 * [Find the Index of Permutation](FindtheIndexofPermutation/find_the_index_of_permutation.py)
