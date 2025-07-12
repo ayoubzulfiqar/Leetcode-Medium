@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shortest Uncommon Substring in an Array](ShortestUncommonSubstringinanArray/shortest_uncommon_substring_in_an_array.py)
 * [Maximize Happiness of Selected Children](MaximizeHappinessofSelectedChildren/maximize_happiness_of_selected_children.py)
 * [Maximum Increasing Triplet Value](MaximumIncreasingTripletValue/maximum_increasing_triplet_value.py)
 * [Minimum Operations to Write the Letter Y on a Grid](MinimumOperationstoWritetheLetterYonaGrid/minimum_operations_to_write_the_letter_y_on_a_grid.py)
