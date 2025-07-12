@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Trending Hashtags](FindTrendingHashtags/find_trending_hashtags.py)
 * [Count Substrings Starting and Ending with Given Character](CountSubstringsStartingandEndingwithGivenCharacter/count_substrings_starting_and_ending_with_given_character.py)
 * [Replace Question Marks in String to Minimize Its Value](ReplaceQuestionMarksinStringtoMinimizeItsValue/replace_question_marks_in_string_to_minimize_its_value.py)
 * [Mark Elements on Array by Performing Queries](MarkElementsonArraybyPerformingQueries/mark_elements_on_array_by_performing_queries.py)
