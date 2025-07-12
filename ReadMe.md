@@ -1,5 +1,6 @@
 
 ## Medium
+* [Number of Ways to Build Sturdy Brick Wall](NumberofWaystoBuildSturdyBrickWall/number_of_ways_to_build_sturdy_brick_wall.py)
 * [Find the Largest Area of Square Inside Two Rectangles](FindtheLargestAreaofSquareInsideTwoRectangles/find_the_largest_area_of_square_inside_two_rectangles.py)
 * [Most Frequent Prime](MostFrequentPrime/most_frequent_prime.py)
 * [Find the Length of the Longest Common Prefix](FindtheLengthoftheLongestCommonPrefix/find_the_length_of_the_longest_common_prefix.py)
