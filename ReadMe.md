@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Operations to Exceed Threshold Value II](MinimumOperationstoExceedThresholdValueII/minimum_operations_to_exceed_threshold_value_ii.py)
 * [Guess the Number Using Bitwise Questions I](GuesstheNumberUsingBitwiseQuestionsI/guess_the_number_using_bitwise_questions_i.py)
 * [Friends With No Mutual Friends](FriendsWithNoMutualFriends/friends_with_no_mutual_friends.py)
 * [Snaps Analysis](SnapsAnalysis/snaps_analysis.py)
