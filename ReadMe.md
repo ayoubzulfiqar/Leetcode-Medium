@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Levels to Gain More Points](MinimumLevelstoGainMorePoints/minimum_levels_to_gain_more_points.py)
 * [Guess the Number Using Bitwise Questions II](GuesstheNumberUsingBitwiseQuestionsII/guess_the_number_using_bitwise_questions_ii.py)
 * [Most Frequent IDs](MostFrequentIDs/most_frequent_ids.py)
 * [Apply Operations to Make Sum of Array Greater Than or Equal to k](ApplyOperationstoMakeSumofArrayGreaterThanorEqualtok/apply_operations_to_make_sum_of_array_greater_than_or_equal_to_k.py)
