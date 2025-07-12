@@ -1,5 +1,6 @@
 
 ## Medium
+* [Friends With No Mutual Friends](FriendsWithNoMutualFriends/friends_with_no_mutual_friends.py)
 * [Snaps Analysis](SnapsAnalysis/snaps_analysis.py)
 * [Top Percentile Fraud](TopPercentileFraud/top_percentile_fraud.py)
 * [Binary Tree Nodes](BinaryTreeNodes/binary_tree_nodes.py)
