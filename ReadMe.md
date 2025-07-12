@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Number of Potholes That Can Be Fixed](MaximumNumberofPotholesThatCanBeFixed/maximum_number_of_potholes_that_can_be_fixed.py)
 * [Friday Purchase III ](FridayPurchaseIII/friday_purchase_iii_.py)
 * [Maximum Prime Difference](MaximumPrimeDifference/maximum_prime_difference.py)
 * [Minimum Time to Visit Disappearing Nodes](MinimumTimetoVisitDisappearingNodes/minimum_time_to_visit_disappearing_nodes.py)
