@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Occurrences of an Element in an Array](FindOccurrencesofanElementinanArray/find_occurrences_of_an_element_in_an_array.py)
 * [Find the Level of Tree with Minimum Sum](FindtheLevelofTreewithMinimumSum/find_the_level_of_tree_with_minimum_sum.py)
 * [Sum of Digit Differences of All Pairs](SumofDigitDifferencesofAllPairs/sum_of_digit_differences_of_all_pairs.py)
 * [Special Array II](SpecialArrayII/special_array_ii.py)
