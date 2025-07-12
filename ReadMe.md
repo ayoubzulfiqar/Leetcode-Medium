@@ -1,5 +1,6 @@
 
 ## Medium
+* [Equalize Strings by Adding or Removing Characters at Ends](EqualizeStringsbyAddingorRemovingCharactersatEnds/equalize_strings_by_adding_or_removing_characters_at_ends.py)
 * [Find the Integer Added to Array II](FindtheIntegerAddedtoArrayII/find_the_integer_added_to_array_ii.py)
 * [Right Triangles](RightTriangles/right_triangles.py)
 * [Server Utilization Time](ServerUtilizationTime/server_utilization_time.py)
