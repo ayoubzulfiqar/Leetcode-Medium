@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Integer Added to Array II](FindtheIntegerAddedtoArrayII/find_the_integer_added_to_array_ii.py)
 * [Right Triangles](RightTriangles/right_triangles.py)
 * [Server Utilization Time](ServerUtilizationTime/server_utilization_time.py)
 * [Maximum Number That Makes Result of Bitwise AND Zero](MaximumNumberThatMakesResultofBitwiseANDZero/maximum_number_that_makes_result_of_bitwise_and_zero.py)
