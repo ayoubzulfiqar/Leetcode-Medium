@@ -1,5 +1,6 @@
 
 ## Medium
+* [Digit Operations to Make Two Integers Equal](DigitOperationstoMakeTwoIntegersEqual/digit_operations_to_make_two_integers_equal.py)
 * [Minimum Time to Break Locks I](MinimumTimetoBreakLocksI/minimum_time_to_break_locks_i.py)
 * [Maximize the Number of Target Nodes After Connecting Trees I](MaximizetheNumberofTargetNodesAfterConnectingTreesI/maximize_the_number_of_target_nodes_after_connecting_trees_i.py)
 * [Identify the Largest Outlier in an Array](IdentifytheLargestOutlierinanArray/identify_the_largest_outlier_in_an_array.py)
