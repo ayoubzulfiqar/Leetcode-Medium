@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count of Substrings Containing Every Vowel and K Consonants I](CountofSubstringsContainingEveryVowelandKConsonantsI/count_of_substrings_containing_every_vowel_and_k_consonants_i.py)
 * [Report Spam Message](ReportSpamMessage/report_spam_message.py)
 * [Convert Doubly Linked List to Array II](ConvertDoublyLinkedListtoArrayII/convert_doubly_linked_list_to_array_ii.py)
 * [Calculate Product Final Price](CalculateProductFinalPrice/calculate_product_final_price.py)
