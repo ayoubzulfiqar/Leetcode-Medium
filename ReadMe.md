@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Profitable Triplets With Increasing Prices I](MaximumProfitableTripletsWithIncreasingPricesI/maximum_profitable_triplets_with_increasing_prices_i.py)
 * [Find the Maximum Length of Valid Subsequence II](FindtheMaximumLengthofValidSubsequenceII/find_the_maximum_length_of_valid_subsequence_ii.py)
 * [Find the Maximum Length of Valid Subsequence I](FindtheMaximumLengthofValidSubsequenceI/find_the_maximum_length_of_valid_subsequence_i.py)
 * [Find the Minimum Area to Cover All Ones I](FindtheMinimumAreatoCoverAllOnesI/find_the_minimum_area_to_cover_all_ones_i.py)
