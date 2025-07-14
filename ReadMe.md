@@ -1,5 +1,6 @@
 
 ## Medium
+* [Apply Substitutions](ApplySubstitutions/apply_substitutions.py)
 * [Fruits Into Baskets III](FruitsIntoBasketsIII/fruits_into_baskets_iii.py)
 * [Choose K Elements With Maximum Sum](ChooseKElementsWithMaximumSum/choose_k_elements_with_maximum_sum.py)
 * [Maximize Profit from Task Assignment](MaximizeProfitfromTaskAssignment/maximize_profit_from_task_assignment.py)
