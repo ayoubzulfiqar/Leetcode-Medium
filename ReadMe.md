@@ -1,5 +1,6 @@
 
 ## Medium
+* [Convert Doubly Linked List to Array II](ConvertDoublyLinkedListtoArrayII/convert_doubly_linked_list_to_array_ii.py)
 * [Calculate Product Final Price](CalculateProductFinalPrice/calculate_product_final_price.py)
 * [Minimum Number of Valid Strings to Form Target I](MinimumNumberofValidStringstoFormTargetI/minimum_number_of_valid_strings_to_form_target_i.py)
 * [Find a Safe Walk Through a Grid](FindaSafeWalkThroughaGrid/find_a_safe_walk_through_a_grid.py)
