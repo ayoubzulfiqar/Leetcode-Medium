@@ -1,5 +1,6 @@
 
 ## Medium
+* [Bitwise User Permissions Analysis](BitwiseUserPermissionsAnalysis/bitwise_user_permissions_analysis.py)
 * [Minimum Moves to Get a Peaceful Board](MinimumMovestoGetaPeacefulBoard/minimum_moves_to_get_a_peaceful_board.py)
 * [Maximum Number of Upgradable Servers](MaximumNumberofUpgradableServers/maximum_number_of_upgradable_servers.py)
 * [Minimum Length of Anagram Concatenation](MinimumLengthofAnagramConcatenation/minimum_length_of_anagram_concatenation.py)
