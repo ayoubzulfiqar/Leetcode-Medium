@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sum of Consecutive Subarrays](SumofConsecutiveSubarrays/sum_of_consecutive_subarrays.py)
 * [Maximize Score of Numbers in Ranges](MaximizeScoreofNumbersinRanges/maximize_score_of_numbers_in_ranges.py)
 * [Find Candidates for Data Scientist Position II](FindCandidatesforDataScientistPositionII/find_candidates_for_data_scientist_position_ii.py)
 * [K-th Nearest Obstacle Queries](K-thNearestObstacleQueries/k-th_nearest_obstacle_queries.py)
