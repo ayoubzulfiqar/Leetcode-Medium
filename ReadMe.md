@@ -1,5 +1,6 @@
 
 ## Medium
+* [Shift Distance Between Two Strings](ShiftDistanceBetweenTwoStrings/shift_distance_between_two_strings.py)
 * [Maximum Sized Array](MaximumSizedArray/maximum_sized_array.py)
 * [Second Highest Salary II](SecondHighestSalaryII/second_highest_salary_ii.py)
 * [Total Characters in String After Transformations I](TotalCharactersinStringAfterTransformationsI/total_characters_in_string_after_transformations_i.py)
