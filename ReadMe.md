@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Area Rectangle With Point Constraints I](MaximumAreaRectangleWithPointConstraintsI/maximum_area_rectangle_with_point_constraints_i.py)
 * [Digit Operations to Make Two Integers Equal](DigitOperationstoMakeTwoIntegersEqual/digit_operations_to_make_two_integers_equal.py)
 * [Minimum Time to Break Locks I](MinimumTimetoBreakLocksI/minimum_time_to_break_locks_i.py)
 * [Maximize the Number of Target Nodes After Connecting Trees I](MaximizetheNumberofTargetNodesAfterConnectingTreesI/maximize_the_number_of_target_nodes_after_connecting_trees_i.py)
