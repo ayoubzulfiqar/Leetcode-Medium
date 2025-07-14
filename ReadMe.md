@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Points Tourist Can Earn](MaximumPointsTouristCanEarn/maximum_points_tourist_can_earn.py)
 * [Find Subtree Sizes After Changes](FindSubtreeSizesAfterChanges/find_subtree_sizes_after_changes.py)
 * [Find Cities in Each State II](FindCitiesinEachStateII/find_cities_in_each_state_ii.py)
 * [Minimum Division Operations to Make Array Non Decreasing](MinimumDivisionOperationstoMakeArrayNonDecreasing/minimum_division_operations_to_make_array_non_decreasing.py)
