@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Number of Copy Arrays](FindtheNumberofCopyArrays/find_the_number_of_copy_arrays.py)
 * [Maximum Coin Collection ](MaximumCoinCollection/maximum_coin_collection_.py)
 * [Maximum Sum With at Most K Elements](MaximumSumWithatMostKElements/maximum_sum_with_at_most_k_elements.py)
 * [Longest Common Prefix After at Most One Removal](LongestCommonPrefixAfteratMostOneRemoval/longest_common_prefix_after_at_most_one_removal.py)
