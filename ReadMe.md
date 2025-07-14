@@ -1,5 +1,6 @@
 
 ## Medium
+* [Customer Purchasing Behavior Analysis](CustomerPurchasingBehaviorAnalysis/customer_purchasing_behavior_analysis.py)
 * [Vowels Game in a String](VowelsGameinaString/vowels_game_in_a_string.py)
 * [Maximum Array Hopping Score II](MaximumArrayHoppingScoreII/maximum_array_hopping_score_ii.py)
 * [Odd and Even Transactions](OddandEvenTransactions/odd_and_even_transactions.py)
