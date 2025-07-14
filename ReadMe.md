@@ -1,5 +1,6 @@
 
 ## Medium
+* [Paint House IV](PaintHouseIV/paint_house_iv.py)
 * [Maximum and Minimum Sums of at Most Size K Subsequences](MaximumandMinimumSumsofatMostSizeKSubsequences/maximum_and_minimum_sums_of_at_most_size_k_subsequences.py)
 * [Minimum Cost to Make Arrays Identical](MinimumCosttoMakeArraysIdentical/minimum_cost_to_make_arrays_identical.py)
 * [Find Students Who Improved](FindStudentsWhoImproved/find_students_who_improved.py)
