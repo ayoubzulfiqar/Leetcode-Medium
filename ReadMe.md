@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find X Value of Array I](FindXValueofArrayI/find_x_value_of_array_i.py)
 * [Make Array Non-decreasing](MakeArrayNon-decreasing/make_array_non-decreasing.py)
 * [Calculate Score After Performing Instructions](CalculateScoreAfterPerformingInstructions/calculate_score_after_performing_instructions.py)
 * [Find Product Recommendation Pairs](FindProductRecommendationPairs/find_product_recommendation_pairs.py)
