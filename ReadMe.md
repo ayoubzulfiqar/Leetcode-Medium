@@ -1,5 +1,6 @@
 
 ## Medium
+* [Zero Array Transformation IV](ZeroArrayTransformationIV/zero_array_transformation_iv.py)
 * [Closest Equal Element Queries](ClosestEqualElementQueries/closest_equal_element_queries.py)
 * [Design Spreadsheet](DesignSpreadsheet/design_spreadsheet.py)
 * [Apply Substitutions](ApplySubstitutions/apply_substitutions.py)
