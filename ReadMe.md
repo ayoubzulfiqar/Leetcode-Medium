@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Triplets with Even XOR Set Bits II](CountTripletswithEvenXORSetBitsII/count_triplets_with_even_xor_set_bits_ii.py)
 * [Count Submatrices With Equal Frequency of X and Y](CountSubmatricesWithEqualFrequencyofXandY/count_submatrices_with_equal_frequency_of_x_and_y.py)
 * [Generate Binary Strings Without Adjacent Zeros](GenerateBinaryStringsWithoutAdjacentZeros/generate_binary_strings_without_adjacent_zeros.py)
 * [Alternating Groups II](AlternatingGroupsII/alternating_groups_ii.py)
