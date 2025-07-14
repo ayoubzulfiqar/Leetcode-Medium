@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Mirror Score of a String](FindMirrorScoreofaString/find_mirror_score_of_a_string.py)
 * [Design Task Manager](DesignTaskManager/design_task_manager.py)
 * [Maximum Number of Distinct Elements After Operations](MaximumNumberofDistinctElementsAfterOperations/maximum_number_of_distinct_elements_after_operations.py)
 * [Count Paths With the Given XOR Value](CountPathsWiththeGivenXORValue/count_paths_with_the_given_xor_value.py)
