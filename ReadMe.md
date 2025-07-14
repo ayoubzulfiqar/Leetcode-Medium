@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Weighted K-Edge Path](MaximumWeightedK-EdgePath/maximum_weighted_k-edge_path.py)
 * [Minimum Time to Visit All Houses](MinimumTimetoVisitAllHouses/minimum_time_to_visit_all_houses.py)
 * [Fill a Special Grid](FillaSpecialGrid/fill_a_special_grid.py)
 * [Unit Conversion II](UnitConversionII/unit_conversion_ii.py)
