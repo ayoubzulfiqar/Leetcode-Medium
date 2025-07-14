@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Length of Anagram Concatenation](MinimumLengthofAnagramConcatenation/minimum_length_of_anagram_concatenation.py)
 * [Find the Maximum Number of Elements in Subset](FindtheMaximumNumberofElementsinSubset/find_the_maximum_number_of_elements_in_subset.py)
 * [Maximum Number That Sum of the Prices Is Less Than or Equal to K](MaximumNumberThatSumofthePricesIsLessThanorEqualtoK/maximum_number_that_sum_of_the_prices_is_less_than_or_equal_to_k.py)
 * [Maximum Profitable Triplets With Increasing Prices I](MaximumProfitableTripletsWithIncreasingPricesI/maximum_profitable_triplets_with_increasing_prices_i.py)
