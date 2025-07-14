@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Possible Number by Binary Concatenation](MaximumPossibleNumberbyBinaryConcatenation/maximum_possible_number_by_binary_concatenation.py)
 * [Find Top Performing Driver](FindTopPerformingDriver/find_top_performing_driver.py)
 * [Count of Substrings Containing Every Vowel and K Consonants I](CountofSubstringsContainingEveryVowelandKConsonantsI/count_of_substrings_containing_every_vowel_and_k_consonants_i.py)
 * [Report Spam Message](ReportSpamMessage/report_spam_message.py)
