@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design Task Manager](DesignTaskManager/design_task_manager.py)
 * [Maximum Number of Distinct Elements After Operations](MaximumNumberofDistinctElementsAfterOperations/maximum_number_of_distinct_elements_after_operations.py)
 * [Count Paths With the Given XOR Value](CountPathsWiththeGivenXORValue/count_paths_with_the_given_xor_value.py)
 * [Design a 3D Binary Matrix with Efficient Layer Tracking](Designa3DBinaryMatrixwithEfficientLayerTracking/design_a_3d_binary_matrix_with_efficient_layer_tracking.py)
