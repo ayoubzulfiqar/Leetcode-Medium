@@ -1,5 +1,6 @@
 
 ## Medium
+* [Choose K Elements With Maximum Sum](ChooseKElementsWithMaximumSum/choose_k_elements_with_maximum_sum.py)
 * [Maximize Profit from Task Assignment](MaximizeProfitfromTaskAssignment/maximize_profit_from_task_assignment.py)
 * [DNA Pattern Recognition ](DNAPatternRecognition/dna_pattern_recognition_.py)
 * [Find the Number of Copy Arrays](FindtheNumberofCopyArrays/find_the_number_of_copy_arrays.py)
