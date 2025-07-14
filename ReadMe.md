@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Cost to Make Arrays Identical](MinimumCosttoMakeArraysIdentical/minimum_cost_to_make_arrays_identical.py)
 * [Find Students Who Improved](FindStudentsWhoImproved/find_students_who_improved.py)
 * [Find Mirror Score of a String](FindMirrorScoreofaString/find_mirror_score_of_a_string.py)
 * [Design Task Manager](DesignTaskManager/design_task_manager.py)
