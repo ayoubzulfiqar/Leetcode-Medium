@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Substrings With K-Frequency Characters I](CountSubstringsWithK-FrequencyCharactersI/count_substrings_with_k-frequency_characters_i.py)
 * [Find the Sequence of Strings Appeared on the Screen](FindtheSequenceofStringsAppearedontheScreen/find_the_sequence_of_strings_appeared_on_the_screen.py)
 * [Minimize Connected Groups by Inserting Interval](MinimizeConnectedGroupsbyInsertingInterval/minimize_connected_groups_by_inserting_interval.py)
 * [Premier League Table Ranking III](PremierLeagueTableRankingIII/premier_league_table_ranking_iii.py)
