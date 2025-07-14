@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design Spreadsheet](DesignSpreadsheet/design_spreadsheet.py)
 * [Apply Substitutions](ApplySubstitutions/apply_substitutions.py)
 * [Fruits Into Baskets III](FruitsIntoBasketsIII/fruits_into_baskets_iii.py)
 * [Choose K Elements With Maximum Sum](ChooseKElementsWithMaximumSum/choose_k_elements_with_maximum_sum.py)
