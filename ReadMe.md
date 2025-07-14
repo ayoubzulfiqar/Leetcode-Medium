@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Power of K-Size Subarrays I](FindthePowerofK-SizeSubarraysI/find_the_power_of_k-size_subarrays_i.py)
 * [Construct String with Minimum Cost (Easy)](ConstructStringwithMinimumCost(Easy)/construct_string_with_minimum_cost_(easy).py)
 * [Premier League Table Ranking II](PremierLeagueTableRankingII/premier_league_table_ranking_ii.py)
 * [Count the Number of Good Nodes](CounttheNumberofGoodNodes/count_the_number_of_good_nodes.py)
