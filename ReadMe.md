@@ -1,5 +1,6 @@
 
 ## Medium
+* [Sort Matrix by Diagonals](SortMatrixbyDiagonals/sort_matrix_by_diagonals.py)
 * [Permutations III](PermutationsIII/permutations_iii.py)
 * [Count Mentions Per User](CountMentionsPerUser/count_mentions_per_user.py)
 * [Minimum Unlocked Indices to Sort Nums](MinimumUnlockedIndicestoSortNums/minimum_unlocked_indices_to_sort_nums.py)
