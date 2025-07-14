@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Almost Equal Pairs I](CountAlmostEqualPairsI/count_almost_equal_pairs_i.py)
 * [Find Overlapping Shifts](FindOverlappingShifts/find_overlapping_shifts.py)
 * [Maximum Energy Boost From Two Drinks](MaximumEnergyBoostFromTwoDrinks/maximum_energy_boost_from_two_drinks.py)
 * [Find the Power of K-Size Subarrays II](FindthePowerofK-SizeSubarraysII/find_the_power_of_k-size_subarrays_ii.py)
