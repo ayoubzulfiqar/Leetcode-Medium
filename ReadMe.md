@@ -1,5 +1,6 @@
 
 ## Medium
+* [Calculate Score After Performing Instructions](CalculateScoreAfterPerformingInstructions/calculate_score_after_performing_instructions.py)
 * [Find Product Recommendation Pairs](FindProductRecommendationPairs/find_product_recommendation_pairs.py)
 * [Smallest Palindromic Rearrangement I](SmallestPalindromicRearrangementI/smallest_palindromic_rearrangement_i.py)
 * [Make a Positive Array](MakeaPositiveArray/make_a_positive_array.py)
