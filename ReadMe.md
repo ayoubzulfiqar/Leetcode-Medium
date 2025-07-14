@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Energy Boost From Two Drinks](MaximumEnergyBoostFromTwoDrinks/maximum_energy_boost_from_two_drinks.py)
 * [Find the Power of K-Size Subarrays II](FindthePowerofK-SizeSubarraysII/find_the_power_of_k-size_subarrays_ii.py)
 * [Find the Power of K-Size Subarrays I](FindthePowerofK-SizeSubarraysI/find_the_power_of_k-size_subarrays_i.py)
 * [Construct String with Minimum Cost (Easy)](ConstructStringwithMinimumCost(Easy)/construct_string_with_minimum_cost_(easy).py)
