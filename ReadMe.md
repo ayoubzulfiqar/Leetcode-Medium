@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find the Sequence of Strings Appeared on the Screen](FindtheSequenceofStringsAppearedontheScreen/find_the_sequence_of_strings_appeared_on_the_screen.py)
 * [Minimize Connected Groups by Inserting Interval](MinimizeConnectedGroupsbyInsertingInterval/minimize_connected_groups_by_inserting_interval.py)
 * [Premier League Table Ranking III](PremierLeagueTableRankingIII/premier_league_table_ranking_iii.py)
 * [K-th Largest Perfect Subtree Size in Binary Tree](K-thLargestPerfectSubtreeSizeinBinaryTree/k-th_largest_perfect_subtree_size_in_binary_tree.py)
