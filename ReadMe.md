@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Subtree Sizes After Changes](FindSubtreeSizesAfterChanges/find_subtree_sizes_after_changes.py)
 * [Find Cities in Each State II](FindCitiesinEachStateII/find_cities_in_each_state_ii.py)
 * [Minimum Division Operations to Make Array Non Decreasing](MinimumDivisionOperationstoMakeArrayNonDecreasing/minimum_division_operations_to_make_array_non_decreasing.py)
 * [Count Substrings With K-Frequency Characters I](CountSubstringsWithK-FrequencyCharactersI/count_substrings_with_k-frequency_characters_i.py)
