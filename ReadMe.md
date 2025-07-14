@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximum Array Hopping Score II](MaximumArrayHoppingScoreII/maximum_array_hopping_score_ii.py)
 * [Odd and Even Transactions](OddandEvenTransactions/odd_and_even_transactions.py)
 * [Minimum Cost for Cutting Cake I](MinimumCostforCuttingCakeI/minimum_cost_for_cutting_cake_i.py)
 * [Delete Nodes From Linked List Present in Array](DeleteNodesFromLinkedListPresentinArray/delete_nodes_from_linked_list_present_in_array.py)
