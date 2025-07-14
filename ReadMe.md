@@ -1,5 +1,6 @@
 
 ## Medium
+* [Alt and Tab Simulation](AltandTabSimulation/alt_and_tab_simulation.py)
 * [Find the Count of Numbers Which Are Not Special](FindtheCountofNumbersWhichAreNotSpecial/find_the_count_of_numbers_which_are_not_special.py)
 * [Customer Purchasing Behavior Analysis](CustomerPurchasingBehaviorAnalysis/customer_purchasing_behavior_analysis.py)
 * [Vowels Game in a String](VowelsGameinaString/vowels_game_in_a_string.py)
