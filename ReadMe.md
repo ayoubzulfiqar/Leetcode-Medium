@@ -1,5 +1,6 @@
 
 ## Medium
+* [Identify the Largest Outlier in an Array](IdentifytheLargestOutlierinanArray/identify_the_largest_outlier_in_an_array.py)
 * [Rearrange K Substrings to Form Target String](RearrangeKSubstringstoFormTargetString/rearrange_k_substrings_to_form_target_string.py)
 * [Shift Distance Between Two Strings](ShiftDistanceBetweenTwoStrings/shift_distance_between_two_strings.py)
 * [Maximum Sized Array](MaximumSizedArray/maximum_sized_array.py)
