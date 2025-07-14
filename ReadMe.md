@@ -1,5 +1,6 @@
 
 ## Medium
+* [Premier League Table Ranking II](PremierLeagueTableRankingII/premier_league_table_ranking_ii.py)
 * [Count the Number of Good Nodes](CounttheNumberofGoodNodes/count_the_number_of_good_nodes.py)
 * [Number of Subsequences with Odd Sum](NumberofSubsequenceswithOddSum/number_of_subsequences_with_odd_sum.py)
 * [Shortest Distance After Road Addition Queries I](ShortestDistanceAfterRoadAdditionQueriesI/shortest_distance_after_road_addition_queries_i.py)
