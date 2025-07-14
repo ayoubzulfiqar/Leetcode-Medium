@@ -1,5 +1,6 @@
 
 ## Medium
+* [Odd and Even Transactions](OddandEvenTransactions/odd_and_even_transactions.py)
 * [Minimum Cost for Cutting Cake I](MinimumCostforCuttingCakeI/minimum_cost_for_cutting_cake_i.py)
 * [Delete Nodes From Linked List Present in Array](DeleteNodesFromLinkedListPresentinArray/delete_nodes_from_linked_list_present_in_array.py)
 * [Count Triplets with Even XOR Set Bits II](CountTripletswithEvenXORSetBitsII/count_triplets_with_even_xor_set_bits_ii.py)
