@@ -1,5 +1,6 @@
 
 ## Medium
+* [K-th Nearest Obstacle Queries](K-thNearestObstacleQueries/k-th_nearest_obstacle_queries.py)
 * [Hash Divided String](HashDividedString/hash_divided_string.py)
 * [Count Almost Equal Pairs I](CountAlmostEqualPairsI/count_almost_equal_pairs_i.py)
 * [Find Overlapping Shifts](FindOverlappingShifts/find_overlapping_shifts.py)
