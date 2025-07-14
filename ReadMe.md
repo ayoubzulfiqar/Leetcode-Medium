@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Product Recommendation Pairs](FindProductRecommendationPairs/find_product_recommendation_pairs.py)
 * [Smallest Palindromic Rearrangement I](SmallestPalindromicRearrangementI/smallest_palindromic_rearrangement_i.py)
 * [Make a Positive Array](MakeaPositiveArray/make_a_positive_array.py)
 * [Analyze Subscription Conversion ](AnalyzeSubscriptionConversion/analyze_subscription_conversion_.py)
