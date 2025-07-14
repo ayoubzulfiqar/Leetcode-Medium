@@ -1,5 +1,6 @@
 
 ## Medium
+* [Count Beautiful Splits in an Array](CountBeautifulSplitsinanArray/count_beautiful_splits_in_an_array.py)
 * [Maximize Amount After Two Days of Conversions](MaximizeAmountAfterTwoDaysofConversions/maximize_amount_after_two_days_of_conversions.py)
 * [Maximum Subarray Sum With Length Divisible by K](MaximumSubarraySumWithLengthDivisiblebyK/maximum_subarray_sum_with_length_divisible_by_k.py)
 * [Maximum Area Rectangle With Point Constraints I](MaximumAreaRectangleWithPointConstraintsI/maximum_area_rectangle_with_point_constraints_i.py)
