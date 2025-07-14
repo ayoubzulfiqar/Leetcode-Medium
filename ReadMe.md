@@ -1,5 +1,6 @@
 
 ## Medium
+* [Second Highest Salary II](SecondHighestSalaryII/second_highest_salary_ii.py)
 * [Total Characters in String After Transformations I](TotalCharactersinStringAfterTransformationsI/total_characters_in_string_after_transformations_i.py)
 * [Find the Maximum Factor Score of Array](FindtheMaximumFactorScoreofArray/find_the_maximum_factor_score_of_array.py)
 * [Maximum Points Tourist Can Earn](MaximumPointsTouristCanEarn/maximum_points_tourist_can_earn.py)
