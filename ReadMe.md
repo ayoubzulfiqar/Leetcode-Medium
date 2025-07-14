@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Time to Break Locks I](MinimumTimetoBreakLocksI/minimum_time_to_break_locks_i.py)
 * [Maximize the Number of Target Nodes After Connecting Trees I](MaximizetheNumberofTargetNodesAfterConnectingTreesI/maximize_the_number_of_target_nodes_after_connecting_trees_i.py)
 * [Identify the Largest Outlier in an Array](IdentifytheLargestOutlierinanArray/identify_the_largest_outlier_in_an_array.py)
 * [Rearrange K Substrings to Form Target String](RearrangeKSubstringstoFormTargetString/rearrange_k_substrings_to_form_target_string.py)
