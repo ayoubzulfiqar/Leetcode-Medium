@@ -1,5 +1,6 @@
 
 ## Medium
+* [Closest Equal Element Queries](ClosestEqualElementQueries/closest_equal_element_queries.py)
 * [Design Spreadsheet](DesignSpreadsheet/design_spreadsheet.py)
 * [Apply Substitutions](ApplySubstitutions/apply_substitutions.py)
 * [Fruits Into Baskets III](FruitsIntoBasketsIII/fruits_into_baskets_iii.py)
