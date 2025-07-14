@@ -1,5 +1,6 @@
 
 ## Medium
+* [Minimum Number of Flips to Make Binary Grid Palindromic I](MinimumNumberofFlipstoMakeBinaryGridPalindromicI/minimum_number_of_flips_to_make_binary_grid_palindromic_i.py)
 * [Alt and Tab Simulation](AltandTabSimulation/alt_and_tab_simulation.py)
 * [Find the Count of Numbers Which Are Not Special](FindtheCountofNumbersWhichAreNotSpecial/find_the_count_of_numbers_which_are_not_special.py)
 * [Customer Purchasing Behavior Analysis](CustomerPurchasingBehaviorAnalysis/customer_purchasing_behavior_analysis.py)
