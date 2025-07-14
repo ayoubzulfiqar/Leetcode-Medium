@@ -1,5 +1,6 @@
 
 ## Medium
+* [Find Candidates for Data Scientist Position II](FindCandidatesforDataScientistPositionII/find_candidates_for_data_scientist_position_ii.py)
 * [K-th Nearest Obstacle Queries](K-thNearestObstacleQueries/k-th_nearest_obstacle_queries.py)
 * [Hash Divided String](HashDividedString/hash_divided_string.py)
 * [Count Almost Equal Pairs I](CountAlmostEqualPairsI/count_almost_equal_pairs_i.py)
