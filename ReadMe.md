@@ -1,5 +1,6 @@
 
 ## Medium
+* [DNA Pattern Recognition ](DNAPatternRecognition/dna_pattern_recognition_.py)
 * [Find the Number of Copy Arrays](FindtheNumberofCopyArrays/find_the_number_of_copy_arrays.py)
 * [Maximum Coin Collection ](MaximumCoinCollection/maximum_coin_collection_.py)
 * [Maximum Sum With at Most K Elements](MaximumSumWithatMostKElements/maximum_sum_with_at_most_k_elements.py)
