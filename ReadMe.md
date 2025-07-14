@@ -1,5 +1,6 @@
 
 ## Medium
+* [Hash Divided String](HashDividedString/hash_divided_string.py)
 * [Count Almost Equal Pairs I](CountAlmostEqualPairsI/count_almost_equal_pairs_i.py)
 * [Find Overlapping Shifts](FindOverlappingShifts/find_overlapping_shifts.py)
 * [Maximum Energy Boost From Two Drinks](MaximumEnergyBoostFromTwoDrinks/maximum_energy_boost_from_two_drinks.py)
