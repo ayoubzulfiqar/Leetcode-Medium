@@ -1,5 +1,6 @@
 
 ## Medium
+* [Maximize Score After Pair Deletions](MaximizeScoreAfterPairDeletions/maximize_score_after_pair_deletions.py)
 * [Properties Graph](PropertiesGraph/properties_graph.py)
 * [Zero Array Transformation IV](ZeroArrayTransformationIV/zero_array_transformation_iv.py)
 * [Closest Equal Element Queries](ClosestEqualElementQueries/closest_equal_element_queries.py)
