@@ -1,5 +1,6 @@
 
 ## Medium
+* [Design a 3D Binary Matrix with Efficient Layer Tracking](Designa3DBinaryMatrixwithEfficientLayerTracking/design_a_3d_binary_matrix_with_efficient_layer_tracking.py)
 * [Count Beautiful Splits in an Array](CountBeautifulSplitsinanArray/count_beautiful_splits_in_an_array.py)
 * [Maximize Amount After Two Days of Conversions](MaximizeAmountAfterTwoDaysofConversions/maximize_amount_after_two_days_of_conversions.py)
 * [Maximum Subarray Sum With Length Divisible by K](MaximumSubarraySumWithLengthDivisiblebyK/maximum_subarray_sum_with_length_divisible_by_k.py)
